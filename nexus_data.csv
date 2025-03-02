@@ -1,0 +1,201 @@
+Region,Game Genre,Average Playtime,When Played,Toxicity Score,Reports,Friend List Overlap,Preferred Game Mode,Voice/Text Chat Activity,Win/Loss Ratio,Platform,Playstyle Tags
+OCE,MOBA,7,Afternoon,4.19,12,19,Casual,3,1.8,PC,Defensive
+EU,Battle Royale,7,Afternoon,4.05,29,88,Custom,53,1.05,PC,Support
+NA,FPS,7,Night,1.09,40,56,Casual,92,0.51,Console,Aggressive
+ASIA,Sports,6,Evening,0.65,15,15,Casual,72,1.64,Mobile,Defensive
+ASIA,Battle Royale,8,Evening,0.99,1,80,Tournament,28,1.84,PC,Balanced
+EU,RPG,9,Afternoon,4.84,9,26,Custom,44,1.21,Console,Balanced
+ASIA,Strategy,7,Morning,0.78,6,94,Custom,54,0.82,PC,Balanced
+NA,Sports,1,Afternoon,9.84,36,29,Ranked,17,1.37,Mobile,Balanced
+OCE,MOBA,3,Night,3.01,35,37,Casual,68,0.35,Console,Defensive
+EU,MOBA,7,Evening,8.52,41,16,Custom,96,0.86,Console,Balanced
+NA,Sports,4,Night,7.29,35,15,Tournament,96,0.37,Mobile,Balanced
+ASIA,FPS,7,Afternoon,4.83,30,40,Ranked,62,1.22,PC,Balanced
+NA,MOBA,7,Afternoon,4.93,14,24,Casual,33,0.75,PC,Defensive
+OCE,RPG,3,Night,3.83,21,30,Ranked,40,1.97,Console,Defensive
+EU,RPG,9,Morning,9.74,14,96,Custom,59,0.38,Mobile,Aggressive
+NA,MOBA,3,Evening,3.79,40,67,Custom,1,1.23,Console,Stealth
+OCE,Sports,3,Afternoon,7.67,27,18,Casual,7,1.29,Console,Stealth
+EU,MMO,4,Night,7.01,15,14,Tournament,32,1.59,Console,Support
+NA,FPS,5,Evening,8.62,45,40,Tournament,33,1.06,Mobile,Defensive
+EU,Sports,7,Morning,7.26,42,77,Ranked,86,1.78,Console,Balanced
+EU,FPS,5,Evening,3.61,29,30,Tournament,28,1.17,PC,Defensive
+OCE,RPG,9,Afternoon,2.26,27,8,Casual,44,0.48,Mobile,Support
+SA,Battle Royale,3,Evening,2.13,48,39,Tournament,3,0.76,Console,Balanced
+ASIA,RPG,7,Afternoon,2.05,16,21,Casual,91,1.42,Console,Aggressive
+EU,FPS,8,Night,1.43,38,70,Ranked,85,0.77,Mobile,Stealth
+EU,Battle Royale,4,Evening,8.36,12,70,Tournament,7,0.2,Mobile,Stealth
+EU,MMO,1,Afternoon,3.42,34,14,Casual,72,0.47,PC,Balanced
+NA,Strategy,2,Evening,2.44,39,38,Ranked,60,0.32,Mobile,Defensive
+ASIA,RPG,4,Night,7.79,1,4,Ranked,28,0.77,PC,Balanced
+EU,Strategy,4,Morning,4.55,12,30,Custom,44,1.57,Mobile,Defensive
+EU,Battle Royale,7,Evening,5.83,27,22,Casual,2,1.66,PC,Stealth
+OCE,MOBA,4,Night,0.58,28,32,Tournament,53,1.79,PC,Support
+EU,Battle Royale,7,Evening,6.84,47,68,Custom,37,1.47,PC,Aggressive
+NA,Strategy,7,Evening,4.53,30,49,Ranked,13,1.62,Console,Stealth
+ASIA,Sports,5,Night,3.39,45,81,Tournament,29,1.17,Console,Aggressive
+EU,Strategy,3,Afternoon,4.31,1,98,Casual,78,0.72,Mobile,Aggressive
+SA,RPG,4,Night,5.63,0,36,Casual,6,0.96,PC,Aggressive
+OCE,Battle Royale,3,Afternoon,6.94,2,57,Ranked,23,1.11,Mobile,Defensive
+EU,MOBA,6,Evening,8.39,11,23,Tournament,75,0.46,Mobile,Stealth
+ASIA,Sports,2,Night,2.29,6,87,Tournament,30,0.77,Mobile,Stealth
+EU,RPG,1,Morning,7.34,17,80,Tournament,70,0.2,Console,Balanced
+EU,Battle Royale,2,Morning,2.15,47,89,Custom,78,1.08,PC,Stealth
+NA,Strategy,6,Night,6.93,20,10,Casual,25,1.04,Mobile,Stealth
+SA,MMO,5,Afternoon,3.98,39,86,Ranked,14,1.63,Console,Aggressive
+OCE,Strategy,1,Evening,1.78,32,13,Casual,86,0.93,Console,Support
+NA,MOBA,9,Evening,0.88,28,11,Ranked,66,1.09,Console,Aggressive
+SA,FPS,4,Afternoon,5.18,42,42,Casual,20,0.9,PC,Support
+ASIA,MOBA,7,Night,0.26,21,66,Custom,11,1.62,PC,Defensive
+SA,FPS,9,Evening,2.99,17,59,Ranked,11,0.84,Console,Aggressive
+NA,Battle Royale,5,Evening,3.94,47,52,Tournament,89,1.84,Console,Aggressive
+ASIA,Sports,1,Morning,3.18,29,17,Tournament,72,1.24,Mobile,Balanced
+EU,MOBA,4,Evening,5.61,48,79,Tournament,70,0.24,PC,Stealth
+OCE,MOBA,9,Afternoon,3.66,29,99,Ranked,29,1.39,PC,Defensive
+EU,MMO,3,Morning,8.98,4,82,Casual,31,0.41,Console,Aggressive
+NA,MMO,8,Evening,5.93,21,44,Tournament,39,1.87,Mobile,Defensive
+ASIA,RPG,5,Afternoon,5.8,22,13,Tournament,32,1.07,Console,Defensive
+ASIA,MMO,7,Evening,5.2,11,39,Ranked,31,1.59,Console,Balanced
+SA,MMO,9,Morning,7.57,43,42,Ranked,97,1.46,Console,Aggressive
+EU,MOBA,1,Evening,4.51,31,79,Custom,35,1.78,Console,Stealth
+ASIA,Sports,6,Evening,6.65,29,76,Custom,40,1.29,Console,Balanced
+SA,RPG,2,Evening,7.98,36,37,Tournament,90,1.57,Console,Aggressive
+ASIA,Strategy,8,Afternoon,0.27,41,52,Custom,13,0.65,Mobile,Defensive
+EU,FPS,6,Afternoon,6.26,11,78,Custom,21,0.28,Console,Aggressive
+OCE,FPS,2,Evening,2.89,46,34,Ranked,30,1.65,Mobile,Aggressive
+ASIA,RPG,9,Afternoon,7.02,37,6,Ranked,62,0.8,Mobile,Aggressive
+NA,RPG,8,Night,1.01,45,16,Casual,78,0.27,Mobile,Aggressive
+ASIA,Strategy,2,Afternoon,7.39,38,74,Ranked,55,1.63,PC,Stealth
+OCE,MMO,5,Morning,4.41,40,9,Casual,20,0.59,Console,Stealth
+SA,Strategy,8,Evening,0.62,46,61,Tournament,73,0.92,Console,Stealth
+OCE,RPG,6,Evening,9.18,47,20,Custom,54,1.62,Console,Defensive
+OCE,RPG,2,Afternoon,5.39,11,75,Casual,14,0.4,Mobile,Support
+EU,Strategy,8,Evening,8.51,7,59,Custom,35,0.47,Console,Defensive
+OCE,Battle Royale,5,Morning,5.36,17,7,Casual,58,0.22,Console,Defensive
+EU,MMO,2,Morning,1.54,4,83,Tournament,41,0.9,PC,Stealth
+NA,Strategy,3,Night,6.69,35,51,Ranked,81,1.38,PC,Defensive
+OCE,FPS,8,Morning,3.76,43,57,Casual,61,0.85,Mobile,Support
+SA,Battle Royale,5,Evening,8.17,31,18,Tournament,16,0.52,Console,Defensive
+SA,MMO,9,Evening,3.79,12,24,Tournament,67,0.99,PC,Defensive
+EU,Strategy,8,Morning,3.42,27,28,Casual,7,1.53,Mobile,Balanced
+SA,Battle Royale,9,Afternoon,9.4,30,56,Casual,56,1.22,Console,Support
+EU,MOBA,7,Morning,6.14,33,29,Custom,37,1.48,PC,Balanced
+ASIA,RPG,3,Morning,7.97,16,78,Ranked,5,0.37,Console,Aggressive
+EU,RPG,4,Morning,5.88,20,13,Casual,0,1.54,PC,Balanced
+SA,Sports,7,Night,2.59,21,98,Tournament,64,0.44,Mobile,Stealth
+OCE,RPG,6,Evening,6.3,1,95,Custom,73,1.78,Mobile,Balanced
+EU,FPS,8,Evening,8.32,4,66,Tournament,64,1.58,PC,Defensive
+NA,Strategy,5,Evening,2.16,8,33,Custom,41,1.97,Mobile,Aggressive
+SA,Sports,9,Night,6.32,27,16,Casual,52,1.14,PC,Aggressive
+EU,Sports,7,Afternoon,5.82,24,30,Casual,70,0.6,PC,Defensive
+SA,Strategy,4,Afternoon,2.85,4,75,Ranked,8,1.89,Mobile,Aggressive
+ASIA,RPG,4,Night,4.28,18,44,Custom,36,0.79,Mobile,Stealth
+SA,MOBA,3,Morning,0.83,43,2,Tournament,68,1.98,Console,Aggressive
+NA,FPS,3,Night,9.72,12,40,Ranked,76,0.92,Console,Aggressive
+EU,MOBA,1,Evening,1.9,25,54,Tournament,41,1.09,Console,Defensive
+EU,Sports,6,Afternoon,1.86,31,49,Casual,56,0.78,PC,Defensive
+OCE,MMO,6,Evening,6.99,19,44,Ranked,92,0.73,Console,Stealth
+OCE,MMO,5,Afternoon,4.41,19,11,Custom,97,1.31,Mobile,Support
+ASIA,FPS,1,Evening,1.4,7,6,Custom,71,1.82,PC,Stealth
+ASIA,Battle Royale,6,Afternoon,2.69,23,3,Ranked,27,0.51,PC,Stealth
+OCE,Battle Royale,1,Morning,1.88,32,4,Custom,52,0.38,PC,Defensive
+NA,RPG,9,Morning,3.43,45,5,Custom,65,0.72,Console,Stealth
+ASIA,FPS,2,Night,3.37,36,29,Casual,0,1.69,PC,Defensive
+OCE,MOBA,6,Morning,7.59,30,1,Ranked,36,0.65,Mobile,Stealth
+OCE,MMO,6,Afternoon,9.56,45,35,Casual,72,0.51,PC,Balanced
+EU,FPS,5,Morning,7.33,17,50,Casual,85,0.82,Mobile,Aggressive
+NA,Strategy,9,Morning,2.94,28,11,Tournament,47,1.23,Console,Support
+SA,RPG,3,Morning,0.05,15,16,Custom,19,1.6,Mobile,Balanced
+NA,Strategy,4,Evening,4.53,7,65,Custom,54,0.23,PC,Defensive
+EU,RPG,3,Morning,3.52,31,72,Tournament,93,1.14,Mobile,Stealth
+EU,Sports,2,Afternoon,9.43,42,81,Custom,99,0.91,Mobile,Stealth
+ASIA,Battle Royale,1,Night,8.45,35,44,Ranked,30,0.61,Mobile,Balanced
+ASIA,MOBA,8,Evening,6.21,33,97,Casual,18,0.97,Console,Support
+SA,Sports,3,Evening,1.46,12,24,Casual,25,0.65,Mobile,Defensive
+NA,Strategy,5,Afternoon,5.62,24,14,Custom,18,0.82,Mobile,Support
+EU,Sports,6,Evening,3.17,14,33,Ranked,71,0.35,Mobile,Support
+ASIA,Strategy,1,Afternoon,7.72,37,83,Custom,77,0.24,Mobile,Support
+ASIA,MOBA,3,Morning,3.18,44,66,Casual,23,1.22,Mobile,Stealth
+ASIA,FPS,4,Night,9.45,15,71,Tournament,98,1.9,Console,Support
+ASIA,Strategy,8,Morning,2.53,18,52,Custom,4,0.8,Mobile,Balanced
+SA,Sports,8,Night,6.29,45,37,Tournament,82,0.28,PC,Balanced
+SA,Battle Royale,9,Evening,0.95,34,63,Ranked,57,1.54,Console,Support
+NA,RPG,4,Night,4.91,3,50,Ranked,13,1.62,Mobile,Aggressive
+EU,FPS,8,Afternoon,6.78,46,52,Tournament,78,1.03,PC,Defensive
+OCE,Strategy,5,Evening,5.72,30,86,Tournament,98,1.09,PC,Support
+NA,MOBA,1,Evening,7.49,12,54,Casual,77,1.62,Mobile,Defensive
+SA,FPS,9,Night,3.32,10,62,Tournament,11,1.22,Mobile,Aggressive
+SA,MMO,4,Afternoon,7.86,36,62,Custom,18,0.45,Console,Support
+EU,Strategy,7,Night,4.94,4,37,Tournament,49,0.82,Console,Stealth
+ASIA,MMO,7,Night,5.44,23,98,Ranked,14,1.91,PC,Defensive
+EU,MMO,4,Morning,6.94,28,1,Ranked,24,1.97,PC,Balanced
+OCE,RPG,2,Morning,5.45,25,42,Ranked,28,1.63,PC,Defensive
+SA,MMO,8,Morning,4.02,29,40,Tournament,37,1.54,Console,Defensive
+EU,Battle Royale,7,Afternoon,1.93,39,15,Casual,98,1.45,Console,Defensive
+OCE,FPS,6,Morning,6.73,49,63,Tournament,56,1.46,PC,Aggressive
+ASIA,Strategy,7,Morning,1.83,18,19,Casual,97,1.22,PC,Stealth
+NA,Sports,2,Evening,6.45,5,60,Custom,79,1.04,Mobile,Stealth
+OCE,Sports,7,Morning,7.84,16,43,Casual,75,0.53,PC,Balanced
+NA,MOBA,7,Night,5.93,0,87,Custom,30,1.55,PC,Defensive
+EU,Battle Royale,7,Morning,4.62,45,6,Custom,20,1.99,Mobile,Defensive
+ASIA,Strategy,9,Night,1.65,48,61,Ranked,92,1.48,PC,Support
+SA,MOBA,1,Afternoon,8.43,20,85,Ranked,15,1.52,PC,Support
+EU,MMO,5,Afternoon,2.98,6,61,Casual,41,1.13,Console,Aggressive
+NA,FPS,6,Night,5.71,8,64,Ranked,10,1.51,PC,Aggressive
+SA,MMO,4,Morning,6.94,14,32,Custom,51,0.53,Mobile,Stealth
+NA,Sports,6,Afternoon,0.95,17,55,Custom,4,1.49,PC,Support
+ASIA,RPG,4,Morning,2.65,17,18,Custom,66,0.76,Console,Balanced
+OCE,Sports,6,Morning,6.93,10,97,Casual,14,1.67,PC,Defensive
+ASIA,Strategy,9,Night,6.07,44,86,Custom,66,1.18,Console,Stealth
+EU,Strategy,3,Night,5.64,28,22,Ranked,8,1.59,PC,Support
+NA,Battle Royale,1,Night,3.85,28,13,Tournament,25,0.86,PC,Defensive
+OCE,RPG,8,Morning,7.82,24,33,Casual,39,0.56,Console,Support
+OCE,MMO,4,Afternoon,5.79,34,4,Tournament,86,0.52,Mobile,Support
+EU,RPG,8,Morning,3.89,35,82,Casual,38,1.87,PC,Defensive
+NA,RPG,3,Afternoon,8.73,29,86,Casual,96,0.48,Console,Support
+SA,MOBA,7,Morning,5.43,40,42,Tournament,47,0.81,Mobile,Aggressive
+ASIA,MOBA,3,Afternoon,3.36,17,11,Casual,43,0.86,Console,Defensive
+EU,FPS,4,Morning,4.24,47,51,Casual,78,1.88,Console,Support
+EU,FPS,2,Night,5.09,22,34,Tournament,15,1.02,Mobile,Aggressive
+SA,Strategy,5,Evening,5.48,10,41,Custom,1,1.15,Mobile,Stealth
+SA,Battle Royale,7,Morning,3.81,29,29,Casual,13,1.97,Console,Support
+EU,Battle Royale,7,Night,8.57,48,50,Tournament,95,1.05,Mobile,Stealth
+NA,RPG,4,Night,9.67,3,92,Custom,83,0.56,Console,Support
+OCE,MMO,5,Afternoon,1.42,12,71,Tournament,89,1.17,PC,Aggressive
+NA,Sports,1,Afternoon,5.3,22,21,Casual,39,0.56,PC,Support
+OCE,MMO,8,Night,0.39,24,63,Custom,44,0.82,PC,Support
+NA,FPS,6,Evening,2.98,48,67,Tournament,17,0.52,PC,Defensive
+ASIA,FPS,4,Afternoon,7.89,12,20,Custom,48,1.26,Console,Balanced
+SA,MMO,5,Night,3.56,13,96,Tournament,92,0.98,PC,Balanced
+ASIA,MMO,7,Night,8.94,48,25,Custom,13,0.35,Console,Stealth
+OCE,MOBA,7,Evening,2.69,22,40,Tournament,23,1.42,Console,Balanced
+SA,Battle Royale,2,Morning,9.54,31,26,Ranked,37,1.69,PC,Aggressive
+OCE,FPS,2,Night,9.52,28,58,Ranked,37,1.85,Mobile,Balanced
+EU,Battle Royale,4,Morning,4.85,41,55,Ranked,1,1.67,Console,Defensive
+ASIA,MOBA,5,Afternoon,8.72,24,63,Custom,69,0.69,PC,Balanced
+SA,MMO,7,Evening,2.88,48,83,Casual,43,1.36,Console,Defensive
+EU,Strategy,1,Morning,3.77,36,33,Ranked,0,1.52,PC,Defensive
+NA,FPS,5,Morning,7.65,28,12,Casual,39,1.89,Console,Aggressive
+OCE,FPS,8,Morning,3.88,46,4,Tournament,26,0.21,Mobile,Balanced
+NA,FPS,5,Evening,8.27,27,65,Tournament,22,0.33,PC,Stealth
+EU,Sports,8,Evening,2.48,37,33,Casual,88,0.39,Console,Aggressive
+NA,Sports,9,Afternoon,3.36,49,10,Ranked,42,0.37,Mobile,Support
+SA,Strategy,7,Evening,7.44,23,77,Casual,19,1.78,Console,Defensive
+ASIA,Strategy,1,Afternoon,3.45,24,58,Casual,15,0.51,Mobile,Defensive
+SA,MOBA,7,Night,4.97,47,14,Custom,0,1.45,PC,Defensive
+EU,Battle Royale,2,Evening,3.45,15,84,Tournament,96,1.77,Mobile,Defensive
+EU,Battle Royale,2,Afternoon,1.81,12,14,Tournament,4,0.61,Mobile,Support
+EU,Strategy,2,Night,0.25,31,96,Casual,56,1.55,Console,Aggressive
+NA,FPS,8,Evening,2.27,33,24,Custom,24,0.34,PC,Aggressive
+SA,Battle Royale,6,Afternoon,3.89,1,9,Tournament,40,1.85,Console,Stealth
+NA,Battle Royale,4,Evening,6.99,20,76,Tournament,51,0.44,PC,Stealth
+OCE,MMO,5,Morning,8.65,36,63,Casual,95,1.35,Console,Aggressive
+NA,FPS,7,Night,1.83,23,91,Tournament,97,1.02,Console,Support
+ASIA,Battle Royale,6,Night,7.21,49,52,Tournament,39,0.33,Console,Support
+NA,FPS,1,Evening,2.88,15,33,Casual,59,0.2,PC,Stealth
+SA,Battle Royale,8,Evening,9.15,39,66,Tournament,35,1.67,Mobile,Balanced
+OCE,Sports,6,Afternoon,7.98,24,42,Tournament,85,1.72,PC,Defensive
+EU,MOBA,9,Evening,7.8,10,18,Ranked,32,1.14,Mobile,Balanced
+EU,Battle Royale,2,Night,7.69,39,27,Ranked,36,1.46,Mobile,Aggressive
+EU,MMO,3,Evening,1.99,19,45,Tournament,70,0.65,Mobile,Defensive
+EU,MOBA,7,Morning,0.37,8,37,Ranked,90,0.6,PC,Defensive
