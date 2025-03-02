@@ -24,7 +24,9 @@ similarity_matrix = cosine_similarity(game_genre_matrix)
 
 print(similarity_matrix[:10, :10])
 
-similarity_subset = similarity_matrix[:200, :200]
+num_rows = df.shape[0]
+
+similarity_subset = similarity_matrix[:num_rows, :num_rows]
 df_subset = pd.DataFrame(similarity_subset).round(2)
 similarity_matrix_csv_path = './similarity_matrix_subset.csv'
 df_subset.to_csv(similarity_matrix_csv_path, index=False)
