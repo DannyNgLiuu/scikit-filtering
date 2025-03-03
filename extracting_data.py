@@ -5,7 +5,7 @@ from sklearn.neighbors import NearestNeighbors
 
 df = pd.read_csv("./nexus_data.csv")
 
-df["Region"] = df["Region"].astype(str).fillna("").str.strip()
+df["Region"] = df["Region"].fillna("")
 
 #weight of each attribute
 df["Enhanced Game Genre"] = (df["Game Genre"] + " ") * 3
