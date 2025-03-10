@@ -1,201 +1,501 @@
-Region,Game Genre,Average Playtime,When Played,Toxicity Score,Reports,Friend List Overlap,Preferred Game Mode,Voice/Text Chat Activity,Win/Loss Ratio,Platform,Playstyle Tags
-OCE,MOBA,7,Afternoon,4.19,12,19,Casual,3,1.8,PC,Defensive
-EU,Battle Royale,7,Afternoon,4.05,29,88,Custom,53,1.05,PC,Support
-NA,FPS,7,Night,1.09,40,56,Casual,92,0.51,Console,Aggressive
-ASIA,Sports,6,Evening,0.65,15,15,Casual,72,1.64,Mobile,Defensive
-ASIA,Battle Royale,8,Evening,0.99,1,80,Tournament,28,1.84,PC,Balanced
-EU,RPG,9,Afternoon,4.84,9,26,Custom,44,1.21,Console,Balanced
-ASIA,Strategy,7,Morning,0.78,6,94,Custom,54,0.82,PC,Balanced
-NA,Sports,1,Afternoon,9.84,36,29,Ranked,17,1.37,Mobile,Balanced
-OCE,MOBA,3,Night,3.01,35,37,Casual,68,0.35,Console,Defensive
-EU,MOBA,7,Evening,8.52,41,16,Custom,96,0.86,Console,Balanced
-NA,Sports,4,Night,7.29,35,15,Tournament,96,0.37,Mobile,Balanced
-ASIA,FPS,7,Afternoon,4.83,30,40,Ranked,62,1.22,PC,Balanced
-NA,MOBA,7,Afternoon,4.93,14,24,Casual,33,0.75,PC,Defensive
-OCE,RPG,3,Night,3.83,21,30,Ranked,40,1.97,Console,Defensive
-EU,RPG,9,Morning,9.74,14,96,Custom,59,0.38,Mobile,Aggressive
-NA,MOBA,3,Evening,3.79,40,67,Custom,1,1.23,Console,Stealth
-OCE,Sports,3,Afternoon,7.67,27,18,Casual,7,1.29,Console,Stealth
-EU,MMO,4,Night,7.01,15,14,Tournament,32,1.59,Console,Support
-NA,FPS,5,Evening,8.62,45,40,Tournament,33,1.06,Mobile,Defensive
-EU,Sports,7,Morning,7.26,42,77,Ranked,86,1.78,Console,Balanced
-EU,FPS,5,Evening,3.61,29,30,Tournament,28,1.17,PC,Defensive
-OCE,RPG,9,Afternoon,2.26,27,8,Casual,44,0.48,Mobile,Support
-SA,Battle Royale,3,Evening,2.13,48,39,Tournament,3,0.76,Console,Balanced
-ASIA,RPG,7,Afternoon,2.05,16,21,Casual,91,1.42,Console,Aggressive
-EU,FPS,8,Night,1.43,38,70,Ranked,85,0.77,Mobile,Stealth
-EU,Battle Royale,4,Evening,8.36,12,70,Tournament,7,0.2,Mobile,Stealth
-EU,MMO,1,Afternoon,3.42,34,14,Casual,72,0.47,PC,Balanced
-NA,Strategy,2,Evening,2.44,39,38,Ranked,60,0.32,Mobile,Defensive
-ASIA,RPG,4,Night,7.79,1,4,Ranked,28,0.77,PC,Balanced
-EU,Strategy,4,Morning,4.55,12,30,Custom,44,1.57,Mobile,Defensive
-EU,Battle Royale,7,Evening,5.83,27,22,Casual,2,1.66,PC,Stealth
-OCE,MOBA,4,Night,0.58,28,32,Tournament,53,1.79,PC,Support
-EU,Battle Royale,7,Evening,6.84,47,68,Custom,37,1.47,PC,Aggressive
-NA,Strategy,7,Evening,4.53,30,49,Ranked,13,1.62,Console,Stealth
-ASIA,Sports,5,Night,3.39,45,81,Tournament,29,1.17,Console,Aggressive
-EU,Strategy,3,Afternoon,4.31,1,98,Casual,78,0.72,Mobile,Aggressive
-SA,RPG,4,Night,5.63,0,36,Casual,6,0.96,PC,Aggressive
-OCE,Battle Royale,3,Afternoon,6.94,2,57,Ranked,23,1.11,Mobile,Defensive
-EU,MOBA,6,Evening,8.39,11,23,Tournament,75,0.46,Mobile,Stealth
-ASIA,Sports,2,Night,2.29,6,87,Tournament,30,0.77,Mobile,Stealth
-EU,RPG,1,Morning,7.34,17,80,Tournament,70,0.2,Console,Balanced
-EU,Battle Royale,2,Morning,2.15,47,89,Custom,78,1.08,PC,Stealth
-NA,Strategy,6,Night,6.93,20,10,Casual,25,1.04,Mobile,Stealth
-SA,MMO,5,Afternoon,3.98,39,86,Ranked,14,1.63,Console,Aggressive
-OCE,Strategy,1,Evening,1.78,32,13,Casual,86,0.93,Console,Support
-NA,MOBA,9,Evening,0.88,28,11,Ranked,66,1.09,Console,Aggressive
-SA,FPS,4,Afternoon,5.18,42,42,Casual,20,0.9,PC,Support
-ASIA,MOBA,7,Night,0.26,21,66,Custom,11,1.62,PC,Defensive
-SA,FPS,9,Evening,2.99,17,59,Ranked,11,0.84,Console,Aggressive
-NA,Battle Royale,5,Evening,3.94,47,52,Tournament,89,1.84,Console,Aggressive
-ASIA,Sports,1,Morning,3.18,29,17,Tournament,72,1.24,Mobile,Balanced
-EU,MOBA,4,Evening,5.61,48,79,Tournament,70,0.24,PC,Stealth
-OCE,MOBA,9,Afternoon,3.66,29,99,Ranked,29,1.39,PC,Defensive
-EU,MMO,3,Morning,8.98,4,82,Casual,31,0.41,Console,Aggressive
-NA,MMO,8,Evening,5.93,21,44,Tournament,39,1.87,Mobile,Defensive
-ASIA,RPG,5,Afternoon,5.8,22,13,Tournament,32,1.07,Console,Defensive
-ASIA,MMO,7,Evening,5.2,11,39,Ranked,31,1.59,Console,Balanced
-SA,MMO,9,Morning,7.57,43,42,Ranked,97,1.46,Console,Aggressive
-EU,MOBA,1,Evening,4.51,31,79,Custom,35,1.78,Console,Stealth
-ASIA,Sports,6,Evening,6.65,29,76,Custom,40,1.29,Console,Balanced
-SA,RPG,2,Evening,7.98,36,37,Tournament,90,1.57,Console,Aggressive
-ASIA,Strategy,8,Afternoon,0.27,41,52,Custom,13,0.65,Mobile,Defensive
-EU,FPS,6,Afternoon,6.26,11,78,Custom,21,0.28,Console,Aggressive
-OCE,FPS,2,Evening,2.89,46,34,Ranked,30,1.65,Mobile,Aggressive
-ASIA,RPG,9,Afternoon,7.02,37,6,Ranked,62,0.8,Mobile,Aggressive
-NA,RPG,8,Night,1.01,45,16,Casual,78,0.27,Mobile,Aggressive
-ASIA,Strategy,2,Afternoon,7.39,38,74,Ranked,55,1.63,PC,Stealth
-OCE,MMO,5,Morning,4.41,40,9,Casual,20,0.59,Console,Stealth
-SA,Strategy,8,Evening,0.62,46,61,Tournament,73,0.92,Console,Stealth
-OCE,RPG,6,Evening,9.18,47,20,Custom,54,1.62,Console,Defensive
-OCE,RPG,2,Afternoon,5.39,11,75,Casual,14,0.4,Mobile,Support
-EU,Strategy,8,Evening,8.51,7,59,Custom,35,0.47,Console,Defensive
-OCE,Battle Royale,5,Morning,5.36,17,7,Casual,58,0.22,Console,Defensive
-EU,MMO,2,Morning,1.54,4,83,Tournament,41,0.9,PC,Stealth
-NA,Strategy,3,Night,6.69,35,51,Ranked,81,1.38,PC,Defensive
-OCE,FPS,8,Morning,3.76,43,57,Casual,61,0.85,Mobile,Support
-SA,Battle Royale,5,Evening,8.17,31,18,Tournament,16,0.52,Console,Defensive
-SA,MMO,9,Evening,3.79,12,24,Tournament,67,0.99,PC,Defensive
-EU,Strategy,8,Morning,3.42,27,28,Casual,7,1.53,Mobile,Balanced
-SA,Battle Royale,9,Afternoon,9.4,30,56,Casual,56,1.22,Console,Support
-EU,MOBA,7,Morning,6.14,33,29,Custom,37,1.48,PC,Balanced
-ASIA,RPG,3,Morning,7.97,16,78,Ranked,5,0.37,Console,Aggressive
-EU,RPG,4,Morning,5.88,20,13,Casual,0,1.54,PC,Balanced
-SA,Sports,7,Night,2.59,21,98,Tournament,64,0.44,Mobile,Stealth
-OCE,RPG,6,Evening,6.3,1,95,Custom,73,1.78,Mobile,Balanced
-EU,FPS,8,Evening,8.32,4,66,Tournament,64,1.58,PC,Defensive
-NA,Strategy,5,Evening,2.16,8,33,Custom,41,1.97,Mobile,Aggressive
-SA,Sports,9,Night,6.32,27,16,Casual,52,1.14,PC,Aggressive
-EU,Sports,7,Afternoon,5.82,24,30,Casual,70,0.6,PC,Defensive
-SA,Strategy,4,Afternoon,2.85,4,75,Ranked,8,1.89,Mobile,Aggressive
-ASIA,RPG,4,Night,4.28,18,44,Custom,36,0.79,Mobile,Stealth
-SA,MOBA,3,Morning,0.83,43,2,Tournament,68,1.98,Console,Aggressive
-NA,FPS,3,Night,9.72,12,40,Ranked,76,0.92,Console,Aggressive
-EU,MOBA,1,Evening,1.9,25,54,Tournament,41,1.09,Console,Defensive
-EU,Sports,6,Afternoon,1.86,31,49,Casual,56,0.78,PC,Defensive
-OCE,MMO,6,Evening,6.99,19,44,Ranked,92,0.73,Console,Stealth
-OCE,MMO,5,Afternoon,4.41,19,11,Custom,97,1.31,Mobile,Support
-ASIA,FPS,1,Evening,1.4,7,6,Custom,71,1.82,PC,Stealth
-ASIA,Battle Royale,6,Afternoon,2.69,23,3,Ranked,27,0.51,PC,Stealth
-OCE,Battle Royale,1,Morning,1.88,32,4,Custom,52,0.38,PC,Defensive
-NA,RPG,9,Morning,3.43,45,5,Custom,65,0.72,Console,Stealth
-ASIA,FPS,2,Night,3.37,36,29,Casual,0,1.69,PC,Defensive
-OCE,MOBA,6,Morning,7.59,30,1,Ranked,36,0.65,Mobile,Stealth
-OCE,MMO,6,Afternoon,9.56,45,35,Casual,72,0.51,PC,Balanced
-EU,FPS,5,Morning,7.33,17,50,Casual,85,0.82,Mobile,Aggressive
-NA,Strategy,9,Morning,2.94,28,11,Tournament,47,1.23,Console,Support
-SA,RPG,3,Morning,0.05,15,16,Custom,19,1.6,Mobile,Balanced
-NA,Strategy,4,Evening,4.53,7,65,Custom,54,0.23,PC,Defensive
-EU,RPG,3,Morning,3.52,31,72,Tournament,93,1.14,Mobile,Stealth
-EU,Sports,2,Afternoon,9.43,42,81,Custom,99,0.91,Mobile,Stealth
-ASIA,Battle Royale,1,Night,8.45,35,44,Ranked,30,0.61,Mobile,Balanced
-ASIA,MOBA,8,Evening,6.21,33,97,Casual,18,0.97,Console,Support
-SA,Sports,3,Evening,1.46,12,24,Casual,25,0.65,Mobile,Defensive
-NA,Strategy,5,Afternoon,5.62,24,14,Custom,18,0.82,Mobile,Support
-EU,Sports,6,Evening,3.17,14,33,Ranked,71,0.35,Mobile,Support
-ASIA,Strategy,1,Afternoon,7.72,37,83,Custom,77,0.24,Mobile,Support
-ASIA,MOBA,3,Morning,3.18,44,66,Casual,23,1.22,Mobile,Stealth
-ASIA,FPS,4,Night,9.45,15,71,Tournament,98,1.9,Console,Support
-ASIA,Strategy,8,Morning,2.53,18,52,Custom,4,0.8,Mobile,Balanced
-SA,Sports,8,Night,6.29,45,37,Tournament,82,0.28,PC,Balanced
-SA,Battle Royale,9,Evening,0.95,34,63,Ranked,57,1.54,Console,Support
-NA,RPG,4,Night,4.91,3,50,Ranked,13,1.62,Mobile,Aggressive
-EU,FPS,8,Afternoon,6.78,46,52,Tournament,78,1.03,PC,Defensive
-OCE,Strategy,5,Evening,5.72,30,86,Tournament,98,1.09,PC,Support
-NA,MOBA,1,Evening,7.49,12,54,Casual,77,1.62,Mobile,Defensive
-SA,FPS,9,Night,3.32,10,62,Tournament,11,1.22,Mobile,Aggressive
-SA,MMO,4,Afternoon,7.86,36,62,Custom,18,0.45,Console,Support
-EU,Strategy,7,Night,4.94,4,37,Tournament,49,0.82,Console,Stealth
-ASIA,MMO,7,Night,5.44,23,98,Ranked,14,1.91,PC,Defensive
-EU,MMO,4,Morning,6.94,28,1,Ranked,24,1.97,PC,Balanced
-OCE,RPG,2,Morning,5.45,25,42,Ranked,28,1.63,PC,Defensive
-SA,MMO,8,Morning,4.02,29,40,Tournament,37,1.54,Console,Defensive
-EU,Battle Royale,7,Afternoon,1.93,39,15,Casual,98,1.45,Console,Defensive
-OCE,FPS,6,Morning,6.73,49,63,Tournament,56,1.46,PC,Aggressive
-ASIA,Strategy,7,Morning,1.83,18,19,Casual,97,1.22,PC,Stealth
-NA,Sports,2,Evening,6.45,5,60,Custom,79,1.04,Mobile,Stealth
-OCE,Sports,7,Morning,7.84,16,43,Casual,75,0.53,PC,Balanced
-NA,MOBA,7,Night,5.93,0,87,Custom,30,1.55,PC,Defensive
-EU,Battle Royale,7,Morning,4.62,45,6,Custom,20,1.99,Mobile,Defensive
-ASIA,Strategy,9,Night,1.65,48,61,Ranked,92,1.48,PC,Support
-SA,MOBA,1,Afternoon,8.43,20,85,Ranked,15,1.52,PC,Support
-EU,MMO,5,Afternoon,2.98,6,61,Casual,41,1.13,Console,Aggressive
-NA,FPS,6,Night,5.71,8,64,Ranked,10,1.51,PC,Aggressive
-SA,MMO,4,Morning,6.94,14,32,Custom,51,0.53,Mobile,Stealth
-NA,Sports,6,Afternoon,0.95,17,55,Custom,4,1.49,PC,Support
-ASIA,RPG,4,Morning,2.65,17,18,Custom,66,0.76,Console,Balanced
-OCE,Sports,6,Morning,6.93,10,97,Casual,14,1.67,PC,Defensive
-ASIA,Strategy,9,Night,6.07,44,86,Custom,66,1.18,Console,Stealth
-EU,Strategy,3,Night,5.64,28,22,Ranked,8,1.59,PC,Support
-NA,Battle Royale,1,Night,3.85,28,13,Tournament,25,0.86,PC,Defensive
-OCE,RPG,8,Morning,7.82,24,33,Casual,39,0.56,Console,Support
-OCE,MMO,4,Afternoon,5.79,34,4,Tournament,86,0.52,Mobile,Support
-EU,RPG,8,Morning,3.89,35,82,Casual,38,1.87,PC,Defensive
-NA,RPG,3,Afternoon,8.73,29,86,Casual,96,0.48,Console,Support
-SA,MOBA,7,Morning,5.43,40,42,Tournament,47,0.81,Mobile,Aggressive
-ASIA,MOBA,3,Afternoon,3.36,17,11,Casual,43,0.86,Console,Defensive
-EU,FPS,4,Morning,4.24,47,51,Casual,78,1.88,Console,Support
-EU,FPS,2,Night,5.09,22,34,Tournament,15,1.02,Mobile,Aggressive
-SA,Strategy,5,Evening,5.48,10,41,Custom,1,1.15,Mobile,Stealth
-SA,Battle Royale,7,Morning,3.81,29,29,Casual,13,1.97,Console,Support
-EU,Battle Royale,7,Night,8.57,48,50,Tournament,95,1.05,Mobile,Stealth
-NA,RPG,4,Night,9.67,3,92,Custom,83,0.56,Console,Support
-OCE,MMO,5,Afternoon,1.42,12,71,Tournament,89,1.17,PC,Aggressive
-NA,Sports,1,Afternoon,5.3,22,21,Casual,39,0.56,PC,Support
-OCE,MMO,8,Night,0.39,24,63,Custom,44,0.82,PC,Support
-NA,FPS,6,Evening,2.98,48,67,Tournament,17,0.52,PC,Defensive
-ASIA,FPS,4,Afternoon,7.89,12,20,Custom,48,1.26,Console,Balanced
-SA,MMO,5,Night,3.56,13,96,Tournament,92,0.98,PC,Balanced
-ASIA,MMO,7,Night,8.94,48,25,Custom,13,0.35,Console,Stealth
-OCE,MOBA,7,Evening,2.69,22,40,Tournament,23,1.42,Console,Balanced
-SA,Battle Royale,2,Morning,9.54,31,26,Ranked,37,1.69,PC,Aggressive
-OCE,FPS,2,Night,9.52,28,58,Ranked,37,1.85,Mobile,Balanced
-EU,Battle Royale,4,Morning,4.85,41,55,Ranked,1,1.67,Console,Defensive
-ASIA,MOBA,5,Afternoon,8.72,24,63,Custom,69,0.69,PC,Balanced
-SA,MMO,7,Evening,2.88,48,83,Casual,43,1.36,Console,Defensive
-EU,Strategy,1,Morning,3.77,36,33,Ranked,0,1.52,PC,Defensive
-NA,FPS,5,Morning,7.65,28,12,Casual,39,1.89,Console,Aggressive
-OCE,FPS,8,Morning,3.88,46,4,Tournament,26,0.21,Mobile,Balanced
-NA,FPS,5,Evening,8.27,27,65,Tournament,22,0.33,PC,Stealth
-EU,Sports,8,Evening,2.48,37,33,Casual,88,0.39,Console,Aggressive
-NA,Sports,9,Afternoon,3.36,49,10,Ranked,42,0.37,Mobile,Support
-SA,Strategy,7,Evening,7.44,23,77,Casual,19,1.78,Console,Defensive
-ASIA,Strategy,1,Afternoon,3.45,24,58,Casual,15,0.51,Mobile,Defensive
-SA,MOBA,7,Night,4.97,47,14,Custom,0,1.45,PC,Defensive
-EU,Battle Royale,2,Evening,3.45,15,84,Tournament,96,1.77,Mobile,Defensive
-EU,Battle Royale,2,Afternoon,1.81,12,14,Tournament,4,0.61,Mobile,Support
-EU,Strategy,2,Night,0.25,31,96,Casual,56,1.55,Console,Aggressive
-NA,FPS,8,Evening,2.27,33,24,Custom,24,0.34,PC,Aggressive
-SA,Battle Royale,6,Afternoon,3.89,1,9,Tournament,40,1.85,Console,Stealth
-NA,Battle Royale,4,Evening,6.99,20,76,Tournament,51,0.44,PC,Stealth
-OCE,MMO,5,Morning,8.65,36,63,Casual,95,1.35,Console,Aggressive
-NA,FPS,7,Night,1.83,23,91,Tournament,97,1.02,Console,Support
-ASIA,Battle Royale,6,Night,7.21,49,52,Tournament,39,0.33,Console,Support
-NA,FPS,1,Evening,2.88,15,33,Casual,59,0.2,PC,Stealth
-SA,Battle Royale,8,Evening,9.15,39,66,Tournament,35,1.67,Mobile,Balanced
-OCE,Sports,6,Afternoon,7.98,24,42,Tournament,85,1.72,PC,Defensive
-EU,MOBA,9,Evening,7.8,10,18,Ranked,32,1.14,Mobile,Balanced
-EU,Battle Royale,2,Night,7.69,39,27,Ranked,36,1.46,Mobile,Aggressive
-EU,MMO,3,Evening,1.99,19,45,Tournament,70,0.65,Mobile,Defensive
-EU,MOBA,7,Morning,0.37,8,37,Ranked,90,0.6,PC,Defensive
+Player ID,Region,Game Genre,Toxicity Score,Reports,Friend List Overlap,Preferred Game Mode,Platform,Playstyle Tags,Skill Level,Age
+0,NA,Card Game,0.19,3,8,Tournament,PlayStation,Defensive,Professional,21
+1,LATAM,Card Game,0.21,4,11,Solo,PC,Tactician,Beginner,23
+2,ASIA,Racing,0.35,3,12,Casual,PlayStation,Solo,Professional,17
+3,MENA,Racing,0.02,1,10,Custom,PlayStation,Explorer,Expert,24
+4,MENA,Battle Royale,0.24,4,4,Custom,Mobile,Competitive,Beginner,20
+5,MENA,Racing,0.31,4,6,Casual,Switch,Solo,Professional,19
+6,OCE,Strategy,0.18,6,6,Tournament,PC,Competitive,Advanced,36
+7,LATAM,Sports,0.47,15,9,Casual,PC/Console,Resource-gatherer,Beginner,22
+8,NA,MMO,0.11,0,10,Custom,Xbox,Resource-gatherer,Advanced,23
+9,CIS,MMO,0.06,2,13,Ranked,Switch,Rusher,Expert,25
+10,OCE,FPS,0.28,4,4,Ranked,Mobile,Explorer,Professional,26
+11,NA,Sports,0.01,0,12,Solo,PC/Console,Competitive,Expert,22
+12,SEA,FPS,0.03,1,11,Squad,PC/Console,Solo,Professional,13
+13,NA,Battle Royale,0.08,2,5,Squad,Xbox,Tactician,Advanced,33
+14,SEA,RPG,0.02,0,5,Tournament,PC,Resource-gatherer,Intermediate,18
+15,EU,Card Game,0.68,16,9,Competitive,Switch,Aggressive,Expert,27
+16,LATAM,Racing,0.55,12,6,Tournament,Mobile,Resource-gatherer,Beginner,29
+17,CIS,Card Game,0.01,0,8,Competitive,Mobile,Team-player,Advanced,19
+18,NA,MMO,0.8,19,7,Tournament,Xbox,Camper,Intermediate,33
+19,MENA,Sports,0.01,0,5,Casual,Mobile,Completionist,Intermediate,15
+20,ASIA,FPS,0.1,2,5,Custom,Mobile,Support,Beginner,28
+21,LATAM,Card Game,0.24,1,10,Ranked,Xbox,Aggressive,Beginner,26
+22,OCE,Battle Royale,0.44,11,9,Solo,Switch,Casual,Advanced,29
+23,MENA,Racing,0.01,0,13,Custom,Xbox,Casual,Professional,22
+24,CIS,Strategy,0.2,4,10,Tournament,PC/Console,Completionist,Beginner,31
+25,SEA,MMO,0.18,4,8,Competitive,Switch,Achievement-hunter,Intermediate,31
+26,CIS,Racing,0.24,11,10,Tournament,PlayStation,Completionist,Professional,26
+27,NA,MMO,0.27,7,11,Tournament,PlayStation,Objective-focused,Expert,13
+28,EU,FPS,0.33,11,8,Solo,PlayStation,Rusher,Advanced,29
+29,ASIA,Battle Royale,0.02,0,7,Custom,Mobile,Sniper,Intermediate,26
+30,MENA,Card Game,0.26,5,9,Casual,Mobile,Support,Professional,20
+31,LATAM,RPG,0.34,6,10,Tournament,Mobile,Solo,Beginner,19
+32,ASIA,Card Game,0.27,3,8,Solo,Mobile,Achievement-hunter,Intermediate,27
+33,SEA,Card Game,0.34,8,11,Casual,Mobile,Solo,Intermediate,33
+34,ASIA,Card Game,0.37,13,6,Competitive,Xbox,Resource-gatherer,Professional,18
+35,MENA,MOBA,0.07,1,9,Tournament,Mobile,Resource-gatherer,Beginner,22
+36,NA,Racing,0.28,3,11,Squad,Switch,Resource-gatherer,Beginner,18
+37,MENA,MOBA,0.08,2,9,Tournament,Switch,Team-player,Intermediate,22
+38,CIS,MOBA,0.51,7,6,Tournament,PlayStation,Solo,Professional,37
+39,NA,MMO,0.12,4,11,Custom,PC/Console,Team-player,Beginner,19
+40,EU,Racing,0.32,10,11,Casual,PC/Console,Defensive,Professional,24
+41,CIS,Card Game,0.04,3,6,Ranked,Mobile,Casual,Professional,25
+42,CIS,RPG,0.04,3,7,Squad,Switch,Explorer,Intermediate,26
+43,MENA,FPS,0.05,0,11,Solo,PC/Console,Resource-gatherer,Expert,23
+44,SEA,Sports,0.26,4,10,Competitive,PC,Competitive,Intermediate,27
+45,OCE,RPG,0.37,6,9,Custom,PlayStation,Rusher,Advanced,21
+46,EU,Sports,0.06,0,8,Casual,PC/Console,Casual,Professional,25
+47,SEA,Racing,0.44,9,7,Ranked,PlayStation,Team-player,Intermediate,23
+48,OCE,Racing,0.07,5,10,Competitive,Mobile,Team-player,Expert,21
+49,SEA,Racing,0.01,1,11,Casual,PlayStation,Casual,Advanced,35
+50,EU,Battle Royale,0.09,2,9,Competitive,Switch,Sniper,Beginner,17
+51,NA,RPG,0.0,0,8,Solo,PlayStation,Team-player,Professional,27
+52,EU,Strategy,0.6,7,9,Competitive,PC/Console,Camper,Beginner,32
+53,LATAM,Sports,0.03,0,11,Casual,PC,Casual,Advanced,21
+54,MENA,Card Game,0.22,0,9,Casual,Xbox,Sniper,Advanced,26
+55,LATAM,Battle Royale,0.2,5,7,Custom,Mobile,Sniper,Beginner,19
+56,LATAM,Card Game,0.2,4,11,Casual,PC/Console,Sniper,Professional,19
+57,EU,FPS,0.04,0,8,Competitive,Mobile,Camper,Beginner,32
+58,CIS,Sports,0.02,0,13,Ranked,Xbox,Aggressive,Intermediate,28
+59,MENA,MMO,0.04,0,13,Solo,Xbox,Explorer,Beginner,23
+60,SEA,Card Game,0.04,0,6,Solo,Xbox,Defensive,Intermediate,21
+61,ASIA,MMO,0.22,5,11,Tournament,Xbox,Competitive,Beginner,17
+62,MENA,RPG,0.29,4,12,Tournament,PlayStation,Aggressive,Expert,22
+63,ASIA,MOBA,0.15,1,9,Casual,PC,Objective-focused,Professional,47
+64,MENA,Racing,0.11,0,15,Ranked,Switch,Objective-focused,Intermediate,22
+65,OCE,Sports,0.07,0,9,Solo,PC,Team-player,Advanced,25
+66,EU,MMO,0.25,4,12,Squad,PC/Console,Solo,Expert,16
+67,EU,MOBA,0.1,2,13,Solo,Xbox,Team-player,Advanced,21
+68,EU,Sports,0.33,7,11,Casual,PC,Solo,Professional,37
+69,EU,Card Game,0.44,9,11,Custom,PC/Console,Casual,Expert,22
+70,LATAM,Card Game,0.08,1,10,Squad,PlayStation,Resource-gatherer,Advanced,16
+71,EU,Racing,0.23,6,9,Tournament,Mobile,Support,Beginner,23
+72,SEA,Card Game,0.32,9,15,Competitive,Switch,Completionist,Intermediate,19
+73,MENA,Card Game,0.02,2,7,Solo,Mobile,Aggressive,Beginner,23
+74,LATAM,Battle Royale,0.46,11,4,Squad,Switch,Defensive,Professional,24
+75,SEA,Racing,0.15,5,8,Tournament,PlayStation,Explorer,Professional,27
+76,EU,Sports,0.11,4,12,Tournament,Mobile,Achievement-hunter,Professional,21
+77,MENA,RPG,0.15,3,11,Ranked,PlayStation,Team-player,Professional,20
+78,OCE,Card Game,0.13,4,13,Tournament,Mobile,Competitive,Expert,45
+79,LATAM,Battle Royale,0.04,0,8,Tournament,PlayStation,Resource-gatherer,Professional,31
+80,NA,Battle Royale,0.3,7,8,Tournament,PlayStation,Achievement-hunter,Beginner,20
+81,ASIA,Battle Royale,0.14,3,6,Competitive,Xbox,Sniper,Professional,23
+82,LATAM,MOBA,0.18,3,7,Casual,Xbox,Achievement-hunter,Advanced,26
+83,LATAM,FPS,0.38,7,15,Solo,PC,Competitive,Beginner,34
+84,CIS,Battle Royale,0.59,12,8,Competitive,Switch,Defensive,Advanced,27
+85,ASIA,Battle Royale,0.17,3,7,Casual,PlayStation,Support,Advanced,29
+86,MENA,Battle Royale,0.12,1,10,Tournament,Xbox,Team-player,Professional,19
+87,NA,RPG,0.38,6,7,Ranked,PC,Completionist,Professional,21
+88,ASIA,RPG,0.18,5,12,Casual,PC/Console,Competitive,Advanced,13
+89,CIS,FPS,0.01,1,9,Ranked,PC/Console,Sniper,Professional,29
+90,OCE,MMO,0.02,2,10,Competitive,PC,Support,Professional,26
+91,LATAM,MOBA,0.09,1,10,Competitive,PlayStation,Tactician,Beginner,20
+92,MENA,FPS,0.1,1,5,Competitive,Switch,Resource-gatherer,Intermediate,24
+93,ASIA,MOBA,0.1,3,6,Solo,PlayStation,Achievement-hunter,Advanced,25
+94,MENA,RPG,0.16,2,8,Casual,PC,Aggressive,Intermediate,28
+95,EU,Sports,0.15,0,6,Squad,Mobile,Casual,Expert,26
+96,CIS,Card Game,0.45,9,9,Custom,PlayStation,Team-player,Expert,18
+97,CIS,RPG,0.27,5,6,Competitive,Mobile,Team-player,Intermediate,23
+98,ASIA,Battle Royale,0.44,12,11,Tournament,Switch,Achievement-hunter,Beginner,15
+99,ASIA,Strategy,0.08,1,5,Casual,PlayStation,Camper,Intermediate,28
+100,SEA,Strategy,0.14,1,6,Casual,PC,Solo,Intermediate,37
+101,SEA,MMO,0.07,2,12,Casual,Xbox,Competitive,Professional,23
+102,MENA,Card Game,0.09,0,7,Ranked,PlayStation,Casual,Intermediate,28
+103,NA,Racing,0.01,0,6,Competitive,PC/Console,Camper,Intermediate,23
+104,MENA,FPS,0.52,17,14,Competitive,PlayStation,Rusher,Beginner,24
+105,OCE,MMO,0.11,2,12,Solo,Xbox,Rusher,Beginner,31
+106,ASIA,Racing,0.14,2,6,Squad,PlayStation,Tactician,Beginner,29
+107,NA,Racing,0.27,5,11,Competitive,Switch,Completionist,Advanced,41
+108,CIS,RPG,0.16,5,7,Solo,PC,Explorer,Intermediate,22
+109,SEA,Strategy,0.25,7,11,Competitive,Mobile,Camper,Expert,22
+110,OCE,Card Game,0.65,19,12,Tournament,PC,Achievement-hunter,Expert,26
+111,CIS,FPS,0.19,3,10,Tournament,PlayStation,Achievement-hunter,Professional,25
+112,ASIA,MMO,0.01,0,4,Tournament,PC/Console,Explorer,Intermediate,20
+113,SEA,Battle Royale,0.82,16,9,Ranked,Xbox,Solo,Intermediate,29
+114,SEA,Sports,0.13,2,14,Competitive,Switch,Explorer,Expert,14
+115,ASIA,MMO,0.22,8,11,Solo,PlayStation,Objective-focused,Professional,30
+116,EU,MMO,0.32,7,8,Solo,Xbox,Camper,Beginner,27
+117,EU,MMO,0.05,1,7,Casual,PC/Console,Completionist,Professional,33
+118,NA,FPS,0.1,4,7,Competitive,Mobile,Competitive,Expert,31
+119,OCE,Sports,0.2,4,12,Custom,Mobile,Team-player,Advanced,29
+120,OCE,FPS,0.04,0,10,Ranked,Mobile,Team-player,Advanced,31
+121,CIS,Strategy,0.29,8,5,Solo,PC,Explorer,Beginner,32
+122,NA,RPG,0.1,3,9,Squad,Switch,Explorer,Advanced,18
+123,MENA,Battle Royale,0.19,2,11,Ranked,Switch,Team-player,Intermediate,35
+124,OCE,FPS,0.1,0,7,Casual,PC/Console,Solo,Beginner,34
+125,OCE,Sports,0.64,10,7,Squad,Mobile,Solo,Professional,30
+126,NA,MOBA,0.34,9,8,Tournament,Xbox,Explorer,Advanced,30
+127,SEA,MOBA,0.28,6,12,Solo,Mobile,Resource-gatherer,Beginner,23
+128,ASIA,RPG,0.21,3,6,Competitive,Mobile,Support,Professional,30
+129,SEA,MMO,0.07,0,10,Ranked,Mobile,Competitive,Advanced,34
+130,EU,MOBA,0.21,10,9,Ranked,Xbox,Aggressive,Expert,21
+131,MENA,FPS,0.09,3,10,Tournament,PC,Team-player,Advanced,25
+132,LATAM,Sports,0.13,4,9,Tournament,PlayStation,Defensive,Beginner,17
+133,EU,MMO,0.3,5,6,Ranked,PC,Team-player,Professional,19
+134,NA,Sports,0.34,13,11,Casual,PC/Console,Rusher,Professional,28
+135,OCE,MOBA,0.09,4,7,Casual,PC,Sniper,Beginner,26
+136,NA,Strategy,0.34,5,4,Custom,PC/Console,Support,Advanced,34
+137,OCE,RPG,0.51,9,12,Solo,Xbox,Aggressive,Beginner,38
+138,EU,Sports,0.26,4,8,Competitive,PC/Console,Rusher,Advanced,21
+139,EU,Battle Royale,0.07,1,10,Casual,PlayStation,Camper,Beginner,25
+140,LATAM,Racing,0.2,5,12,Competitive,PlayStation,Aggressive,Advanced,32
+141,CIS,Battle Royale,0.51,10,9,Tournament,PlayStation,Competitive,Beginner,23
+142,CIS,MOBA,0.2,4,7,Ranked,PC/Console,Support,Intermediate,21
+143,NA,Racing,0.43,8,7,Casual,PC/Console,Achievement-hunter,Professional,23
+144,EU,MOBA,0.04,0,10,Casual,Mobile,Defensive,Beginner,37
+145,MENA,FPS,0.01,0,7,Competitive,PC/Console,Sniper,Beginner,25
+146,MENA,Strategy,0.09,2,10,Tournament,PC,Camper,Professional,24
+147,NA,Sports,0.12,2,13,Ranked,PC,Resource-gatherer,Professional,38
+148,LATAM,FPS,0.44,11,9,Competitive,Xbox,Rusher,Beginner,18
+149,MENA,MMO,0.02,0,7,Ranked,Xbox,Defensive,Intermediate,28
+150,SEA,FPS,0.08,0,13,Tournament,PlayStation,Team-player,Beginner,22
+151,MENA,FPS,0.37,4,7,Ranked,Switch,Defensive,Expert,13
+152,OCE,MOBA,0.24,3,12,Ranked,PC/Console,Rusher,Beginner,26
+153,EU,MOBA,0.05,3,4,Solo,Xbox,Resource-gatherer,Advanced,28
+154,MENA,Card Game,0.3,11,7,Tournament,Xbox,Achievement-hunter,Beginner,28
+155,CIS,RPG,0.69,10,9,Custom,Mobile,Rusher,Beginner,19
+156,OCE,Sports,0.02,0,6,Tournament,Xbox,Support,Advanced,35
+157,LATAM,Strategy,0.1,5,8,Ranked,PlayStation,Support,Beginner,35
+158,OCE,Strategy,0.21,2,9,Tournament,PC,Aggressive,Professional,31
+159,SEA,Sports,0.04,0,12,Casual,Xbox,Support,Advanced,25
+160,ASIA,MMO,0.12,1,8,Squad,PC/Console,Defensive,Expert,31
+161,SEA,MMO,0.43,11,9,Casual,Switch,Objective-focused,Expert,29
+162,LATAM,Sports,0.02,0,13,Squad,PC,Camper,Professional,19
+163,ASIA,Racing,0.06,2,9,Ranked,Switch,Rusher,Expert,32
+164,LATAM,Battle Royale,0.03,0,12,Custom,Xbox,Competitive,Expert,18
+165,ASIA,MOBA,0.13,2,12,Casual,PlayStation,Defensive,Advanced,26
+166,LATAM,FPS,0.05,2,11,Ranked,Mobile,Competitive,Professional,29
+167,SEA,Racing,0.42,6,7,Solo,Mobile,Explorer,Professional,27
+168,EU,Battle Royale,0.01,2,14,Ranked,Switch,Rusher,Intermediate,31
+169,OCE,MOBA,0.39,10,8,Competitive,PlayStation,Explorer,Advanced,19
+170,OCE,MMO,0.39,7,13,Casual,PlayStation,Resource-gatherer,Beginner,23
+171,MENA,Battle Royale,0.05,0,11,Ranked,PC/Console,Defensive,Advanced,19
+172,ASIA,MOBA,0.55,11,8,Solo,Xbox,Resource-gatherer,Intermediate,24
+173,CIS,Strategy,0.24,6,10,Squad,Mobile,Defensive,Beginner,36
+174,ASIA,FPS,0.18,1,5,Competitive,Mobile,Aggressive,Intermediate,22
+175,OCE,RPG,0.61,14,8,Casual,PC/Console,Camper,Expert,20
+176,NA,MMO,0.02,0,9,Custom,PlayStation,Competitive,Professional,20
+177,MENA,Strategy,0.39,18,6,Solo,Mobile,Defensive,Advanced,31
+178,CIS,Racing,0.28,6,8,Custom,Xbox,Casual,Expert,19
+179,NA,MOBA,0.39,11,10,Tournament,Mobile,Camper,Advanced,25
+180,SEA,MOBA,0.32,6,9,Tournament,Switch,Casual,Advanced,30
+181,MENA,MOBA,0.42,14,5,Solo,Xbox,Completionist,Advanced,24
+182,LATAM,Racing,0.25,5,9,Solo,PC/Console,Defensive,Beginner,29
+183,NA,Sports,0.09,2,7,Solo,Xbox,Resource-gatherer,Beginner,28
+184,SEA,Strategy,0.37,10,7,Tournament,PC,Solo,Advanced,27
+185,OCE,Strategy,0.03,0,12,Custom,Mobile,Objective-focused,Expert,23
+186,NA,Strategy,0.53,10,9,Ranked,Mobile,Team-player,Expert,15
+187,NA,Racing,0.04,0,9,Competitive,Mobile,Aggressive,Expert,22
+188,EU,Racing,0.01,0,8,Tournament,Mobile,Support,Intermediate,27
+189,LATAM,Battle Royale,0.11,0,14,Competitive,PlayStation,Aggressive,Advanced,28
+190,LATAM,Strategy,0.06,2,13,Competitive,PC/Console,Casual,Intermediate,33
+191,ASIA,Card Game,0.73,6,8,Competitive,Switch,Support,Intermediate,13
+192,SEA,Sports,0.03,2,11,Ranked,Mobile,Sniper,Intermediate,28
+193,LATAM,Sports,0.04,0,9,Ranked,PC/Console,Tactician,Beginner,13
+194,MENA,Racing,0.61,13,8,Tournament,PlayStation,Explorer,Professional,22
+195,MENA,Racing,0.04,1,8,Competitive,PC,Team-player,Expert,25
+196,ASIA,Strategy,0.03,2,8,Tournament,Switch,Support,Intermediate,19
+197,OCE,Battle Royale,0.05,2,11,Tournament,Switch,Sniper,Advanced,23
+198,MENA,MOBA,0.03,0,13,Custom,Switch,Resource-gatherer,Professional,32
+199,MENA,Card Game,0.19,4,8,Competitive,Mobile,Resource-gatherer,Expert,29
+200,MENA,Strategy,0.1,0,7,Tournament,PlayStation,Objective-focused,Professional,29
+201,OCE,Card Game,0.59,20,11,Solo,PlayStation,Rusher,Expert,24
+202,NA,Strategy,0.15,2,8,Custom,Xbox,Objective-focused,Professional,29
+203,MENA,Racing,0.2,3,12,Tournament,PC/Console,Sniper,Expert,13
+204,CIS,FPS,0.53,5,8,Squad,PlayStation,Completionist,Intermediate,24
+205,CIS,Sports,0.57,12,7,Solo,PC,Tactician,Beginner,19
+206,EU,Strategy,0.13,1,5,Custom,Mobile,Support,Advanced,25
+207,SEA,RPG,0.03,0,10,Tournament,Switch,Tactician,Expert,21
+208,CIS,Sports,0.09,2,6,Tournament,Xbox,Casual,Expert,21
+209,CIS,Battle Royale,0.11,2,7,Custom,PlayStation,Defensive,Expert,13
+210,MENA,FPS,0.29,7,8,Solo,PlayStation,Camper,Expert,29
+211,SEA,MOBA,0.05,1,10,Competitive,Mobile,Objective-focused,Advanced,27
+212,NA,RPG,0.05,1,8,Squad,PlayStation,Casual,Intermediate,15
+213,CIS,Strategy,0.24,5,10,Ranked,Mobile,Support,Professional,19
+214,OCE,Battle Royale,0.09,5,8,Solo,PlayStation,Explorer,Expert,36
+215,CIS,Racing,0.02,0,8,Custom,PlayStation,Aggressive,Advanced,39
+216,NA,MMO,0.16,2,7,Squad,PlayStation,Objective-focused,Intermediate,18
+217,SEA,Battle Royale,0.24,4,11,Solo,Mobile,Completionist,Advanced,37
+218,ASIA,MMO,0.07,2,7,Squad,PC,Casual,Professional,40
+219,LATAM,Card Game,0.38,6,9,Tournament,PC/Console,Tactician,Advanced,28
+220,EU,Battle Royale,0.29,8,8,Competitive,Mobile,Resource-gatherer,Beginner,24
+221,MENA,FPS,0.1,0,9,Tournament,Switch,Rusher,Intermediate,29
+222,ASIA,RPG,0.51,12,17,Solo,Mobile,Explorer,Intermediate,24
+223,LATAM,Sports,0.54,13,11,Custom,PC,Solo,Professional,24
+224,CIS,FPS,0.12,3,11,Casual,PlayStation,Explorer,Expert,40
+225,EU,Strategy,0.01,0,3,Tournament,PC,Explorer,Expert,30
+226,MENA,Strategy,0.15,3,11,Custom,PC,Explorer,Professional,20
+227,MENA,Sports,0.41,7,11,Ranked,PC,Competitive,Advanced,19
+228,MENA,Card Game,0.18,2,14,Competitive,Mobile,Aggressive,Beginner,30
+229,SEA,Racing,0.27,6,7,Tournament,Switch,Completionist,Expert,18
+230,OCE,MMO,0.25,11,11,Casual,Mobile,Camper,Expert,40
+231,MENA,Card Game,0.16,1,10,Ranked,PC/Console,Aggressive,Intermediate,37
+232,OCE,MMO,0.07,3,9,Casual,Mobile,Solo,Professional,34
+233,ASIA,MMO,0.31,4,7,Solo,PC,Solo,Expert,34
+234,OCE,RPG,0.07,1,8,Casual,PlayStation,Team-player,Beginner,35
+235,OCE,Racing,0.05,0,14,Solo,PC/Console,Competitive,Expert,13
+236,NA,Racing,0.02,1,11,Custom,PlayStation,Rusher,Professional,31
+237,SEA,Strategy,0.27,8,13,Competitive,Mobile,Resource-gatherer,Advanced,20
+238,EU,RPG,0.02,0,9,Competitive,PC/Console,Objective-focused,Professional,23
+239,OCE,MMO,0.1,2,9,Squad,PC,Team-player,Advanced,18
+240,EU,MOBA,0.01,0,4,Solo,Mobile,Support,Beginner,19
+241,NA,Racing,0.06,0,7,Squad,Mobile,Aggressive,Expert,14
+242,SEA,MOBA,0.0,0,9,Squad,Xbox,Aggressive,Intermediate,23
+243,ASIA,Battle Royale,0.18,3,10,Tournament,Xbox,Aggressive,Advanced,24
+244,CIS,FPS,0.51,10,14,Casual,Switch,Support,Expert,24
+245,NA,Battle Royale,0.06,1,9,Casual,PC/Console,Support,Professional,22
+246,SEA,Sports,0.33,3,8,Squad,PlayStation,Objective-focused,Beginner,16
+247,OCE,Sports,0.51,9,6,Tournament,PC,Support,Professional,27
+248,SEA,Racing,0.02,1,9,Custom,Switch,Team-player,Beginner,23
+249,EU,Sports,0.34,8,7,Tournament,Mobile,Achievement-hunter,Intermediate,34
+250,LATAM,MOBA,0.52,8,10,Solo,Mobile,Competitive,Professional,13
+251,NA,Racing,0.02,0,12,Squad,Switch,Resource-gatherer,Advanced,27
+252,MENA,Card Game,0.11,3,8,Ranked,PC/Console,Aggressive,Intermediate,16
+253,CIS,Card Game,0.35,6,5,Competitive,PC/Console,Completionist,Intermediate,40
+254,OCE,RPG,0.02,0,11,Competitive,PlayStation,Team-player,Expert,26
+255,MENA,FPS,0.31,8,9,Squad,Mobile,Achievement-hunter,Intermediate,22
+256,SEA,Strategy,0.11,1,8,Ranked,Xbox,Casual,Expert,21
+257,EU,MMO,0.05,3,10,Custom,Xbox,Tactician,Expert,27
+258,NA,RPG,0.23,1,10,Tournament,PC/Console,Support,Advanced,32
+259,LATAM,FPS,0.16,2,5,Custom,PlayStation,Rusher,Beginner,35
+260,MENA,MMO,0.79,13,8,Custom,PC/Console,Resource-gatherer,Professional,25
+261,LATAM,MOBA,0.27,6,6,Tournament,Xbox,Resource-gatherer,Professional,15
+262,CIS,Strategy,0.2,3,11,Squad,PlayStation,Aggressive,Beginner,36
+263,SEA,RPG,0.29,4,5,Tournament,Switch,Achievement-hunter,Advanced,18
+264,SEA,Strategy,0.1,3,9,Ranked,Mobile,Competitive,Expert,15
+265,NA,Battle Royale,0.04,2,10,Solo,PC/Console,Rusher,Professional,19
+266,OCE,FPS,0.05,1,8,Competitive,Switch,Objective-focused,Advanced,18
+267,NA,MOBA,0.27,11,8,Tournament,Mobile,Support,Beginner,17
+268,EU,Battle Royale,0.13,1,9,Competitive,PC,Completionist,Intermediate,26
+269,EU,Sports,0.3,5,10,Custom,PC/Console,Rusher,Beginner,15
+270,NA,FPS,0.37,10,12,Custom,Mobile,Explorer,Beginner,28
+271,EU,MOBA,0.22,3,8,Ranked,PC,Tactician,Expert,19
+272,LATAM,Strategy,0.44,7,9,Custom,Xbox,Solo,Professional,13
+273,EU,Battle Royale,0.23,9,10,Competitive,Xbox,Resource-gatherer,Expert,21
+274,LATAM,MOBA,0.33,8,9,Ranked,PlayStation,Competitive,Beginner,20
+275,CIS,MMO,0.38,6,8,Competitive,Mobile,Aggressive,Advanced,25
+276,SEA,FPS,0.02,2,11,Squad,Mobile,Objective-focused,Beginner,32
+277,LATAM,Sports,0.01,0,12,Ranked,PlayStation,Camper,Advanced,18
+278,OCE,Card Game,0.37,6,8,Custom,PC,Completionist,Beginner,25
+279,ASIA,Card Game,0.07,1,11,Squad,PC/Console,Rusher,Beginner,14
+280,MENA,Racing,0.06,1,8,Ranked,Mobile,Defensive,Expert,24
+281,SEA,MOBA,0.1,3,7,Tournament,Switch,Competitive,Beginner,22
+282,SEA,MMO,0.24,3,8,Tournament,Xbox,Completionist,Advanced,26
+283,MENA,Card Game,0.53,11,7,Tournament,PC/Console,Casual,Expert,15
+284,SEA,Battle Royale,0.0,0,8,Tournament,PC/Console,Resource-gatherer,Advanced,28
+285,NA,FPS,0.48,6,7,Squad,Mobile,Competitive,Intermediate,14
+286,ASIA,Strategy,0.07,0,9,Ranked,PC,Achievement-hunter,Professional,44
+287,MENA,MMO,0.36,8,9,Tournament,PC/Console,Explorer,Professional,33
+288,OCE,Card Game,0.1,1,8,Tournament,PC/Console,Explorer,Expert,27
+289,NA,Card Game,0.37,7,11,Casual,PC,Tactician,Professional,17
+290,OCE,Sports,0.39,12,6,Squad,Switch,Camper,Intermediate,14
+291,MENA,Racing,0.01,0,11,Casual,Xbox,Completionist,Advanced,13
+292,MENA,MOBA,0.1,2,6,Squad,PlayStation,Solo,Advanced,39
+293,CIS,Card Game,0.21,2,2,Custom,Mobile,Solo,Professional,26
+294,OCE,MMO,0.11,5,7,Competitive,Mobile,Team-player,Professional,31
+295,LATAM,Battle Royale,0.52,8,9,Solo,PlayStation,Solo,Beginner,29
+296,SEA,Strategy,0.4,7,9,Competitive,PC,Achievement-hunter,Beginner,21
+297,CIS,RPG,0.11,3,5,Solo,Xbox,Completionist,Beginner,32
+298,NA,Sports,0.41,7,10,Squad,Mobile,Tactician,Expert,27
+299,CIS,Sports,0.12,4,8,Squad,Switch,Support,Intermediate,15
+300,EU,RPG,0.21,2,8,Competitive,Xbox,Support,Professional,13
+301,SEA,Sports,0.72,11,9,Squad,PlayStation,Resource-gatherer,Advanced,22
+302,EU,Battle Royale,0.11,1,7,Casual,Switch,Casual,Expert,39
+303,CIS,Battle Royale,0.06,2,12,Casual,Mobile,Team-player,Advanced,29
+304,OCE,Card Game,0.18,3,11,Competitive,PlayStation,Objective-focused,Advanced,14
+305,ASIA,Card Game,0.27,9,15,Solo,Switch,Rusher,Expert,27
+306,NA,Strategy,0.14,3,8,Casual,Switch,Sniper,Beginner,27
+307,ASIA,RPG,0.22,6,10,Tournament,PC/Console,Rusher,Advanced,27
+308,MENA,Card Game,0.27,4,7,Tournament,PC/Console,Objective-focused,Professional,37
+309,SEA,Battle Royale,0.13,5,6,Tournament,PC/Console,Rusher,Beginner,29
+310,EU,Card Game,0.26,2,8,Custom,PC/Console,Aggressive,Expert,13
+311,LATAM,RPG,0.05,1,7,Tournament,PC/Console,Tactician,Beginner,30
+312,ASIA,Strategy,0.09,2,12,Tournament,Mobile,Explorer,Intermediate,30
+313,MENA,Card Game,0.73,23,10,Solo,PC,Aggressive,Beginner,25
+314,EU,FPS,0.14,5,12,Custom,PlayStation,Competitive,Intermediate,20
+315,SEA,MOBA,0.45,7,15,Tournament,PlayStation,Objective-focused,Expert,20
+316,EU,Battle Royale,0.01,0,9,Squad,PC,Camper,Advanced,32
+317,MENA,Racing,0.0,0,8,Tournament,Xbox,Explorer,Expert,39
+318,ASIA,Card Game,0.03,0,8,Competitive,PC/Console,Support,Advanced,25
+319,ASIA,FPS,0.33,6,10,Competitive,Switch,Objective-focused,Advanced,21
+320,OCE,Racing,0.1,2,11,Casual,Switch,Explorer,Intermediate,29
+321,SEA,Strategy,0.18,3,8,Squad,Xbox,Resource-gatherer,Intermediate,21
+322,ASIA,FPS,0.19,3,7,Casual,PC,Sniper,Advanced,23
+323,EU,Battle Royale,0.15,1,11,Custom,PlayStation,Team-player,Expert,25
+324,MENA,Card Game,0.07,4,8,Squad,Mobile,Rusher,Advanced,43
+325,CIS,FPS,0.1,2,6,Squad,Mobile,Support,Advanced,19
+326,CIS,MMO,0.14,4,10,Solo,Mobile,Resource-gatherer,Beginner,29
+327,CIS,RPG,0.27,8,16,Competitive,Switch,Explorer,Professional,34
+328,SEA,FPS,0.19,2,12,Ranked,PC/Console,Support,Expert,22
+329,NA,Strategy,0.31,3,5,Casual,PC,Team-player,Advanced,25
+330,ASIA,Racing,0.31,9,8,Competitive,Xbox,Explorer,Advanced,32
+331,MENA,Racing,0.15,3,7,Tournament,PlayStation,Aggressive,Beginner,29
+332,NA,MMO,0.05,2,8,Solo,PlayStation,Support,Expert,17
+333,EU,RPG,0.04,2,9,Casual,PC/Console,Casual,Intermediate,25
+334,LATAM,FPS,0.66,12,14,Ranked,Mobile,Tactician,Beginner,31
+335,MENA,MMO,0.68,14,8,Ranked,PlayStation,Casual,Advanced,36
+336,MENA,Racing,0.03,1,11,Competitive,PC/Console,Competitive,Beginner,18
+337,EU,RPG,0.42,12,7,Custom,Xbox,Resource-gatherer,Beginner,30
+338,EU,Strategy,0.29,4,6,Solo,PC/Console,Rusher,Intermediate,24
+339,NA,FPS,0.14,5,6,Competitive,PC,Camper,Advanced,17
+340,OCE,Strategy,0.18,1,11,Casual,PC,Tactician,Advanced,26
+341,LATAM,Racing,0.37,8,17,Ranked,Xbox,Support,Beginner,22
+342,OCE,RPG,0.24,3,8,Solo,PlayStation,Explorer,Beginner,35
+343,LATAM,Strategy,0.28,4,12,Competitive,PlayStation,Solo,Professional,19
+344,EU,Strategy,0.13,2,7,Tournament,PC,Achievement-hunter,Intermediate,28
+345,CIS,Card Game,0.03,0,10,Tournament,PC/Console,Explorer,Beginner,28
+346,SEA,FPS,0.12,2,8,Casual,Xbox,Tactician,Expert,31
+347,EU,Strategy,0.42,7,10,Casual,PC,Support,Advanced,22
+348,MENA,Card Game,0.27,5,11,Custom,PC,Completionist,Professional,41
+349,NA,Battle Royale,0.11,1,9,Competitive,PlayStation,Support,Professional,24
+350,OCE,FPS,0.19,6,8,Casual,PlayStation,Explorer,Professional,28
+351,SEA,Racing,0.48,10,7,Competitive,Xbox,Solo,Intermediate,22
+352,LATAM,FPS,0.13,5,7,Casual,Mobile,Support,Advanced,23
+353,SEA,Card Game,0.04,2,4,Squad,PC,Defensive,Professional,32
+354,SEA,Racing,0.36,5,12,Ranked,PlayStation,Completionist,Intermediate,18
+355,MENA,RPG,0.03,1,12,Squad,Switch,Casual,Professional,17
+356,SEA,MOBA,0.1,1,10,Competitive,Xbox,Support,Beginner,21
+357,ASIA,MOBA,0.33,6,7,Ranked,Switch,Objective-focused,Beginner,25
+358,MENA,FPS,0.63,12,10,Custom,Xbox,Team-player,Beginner,29
+359,LATAM,Sports,0.07,0,8,Ranked,PC,Explorer,Advanced,29
+360,OCE,MOBA,0.2,5,11,Squad,Switch,Achievement-hunter,Expert,25
+361,LATAM,MOBA,0.33,2,4,Casual,Mobile,Solo,Professional,25
+362,NA,FPS,0.37,8,8,Casual,PlayStation,Objective-focused,Expert,26
+363,MENA,Card Game,0.08,1,5,Squad,Xbox,Casual,Advanced,15
+364,ASIA,Card Game,0.49,10,16,Casual,Switch,Support,Beginner,33
+365,SEA,Sports,0.21,2,7,Casual,Xbox,Explorer,Expert,29
+366,EU,MMO,0.37,5,9,Squad,Switch,Casual,Advanced,21
+367,EU,MOBA,0.02,1,6,Ranked,PC,Rusher,Professional,23
+368,OCE,Battle Royale,0.01,0,9,Squad,Xbox,Camper,Professional,25
+369,ASIA,Card Game,0.13,4,5,Tournament,Xbox,Defensive,Intermediate,16
+370,OCE,Racing,0.04,1,7,Squad,PlayStation,Resource-gatherer,Professional,22
+371,LATAM,Card Game,0.31,7,7,Competitive,PC/Console,Completionist,Expert,25
+372,LATAM,Battle Royale,0.3,4,8,Casual,PlayStation,Defensive,Expert,13
+373,EU,Card Game,0.29,7,10,Squad,PC,Completionist,Professional,17
+374,NA,Strategy,0.51,12,13,Solo,PlayStation,Defensive,Expert,27
+375,MENA,MOBA,0.05,0,7,Ranked,Mobile,Resource-gatherer,Beginner,38
+376,MENA,Strategy,0.12,3,10,Tournament,Xbox,Aggressive,Expert,22
+377,LATAM,MMO,0.18,4,9,Competitive,Xbox,Aggressive,Expert,37
+378,CIS,Sports,0.15,2,7,Solo,PC/Console,Casual,Advanced,32
+379,EU,FPS,0.21,6,10,Competitive,Mobile,Tactician,Beginner,39
+380,OCE,Racing,0.05,0,10,Competitive,PC/Console,Tactician,Expert,20
+381,EU,Sports,0.51,14,12,Tournament,Switch,Camper,Advanced,29
+382,OCE,MOBA,0.26,3,8,Ranked,Mobile,Aggressive,Advanced,31
+383,SEA,Battle Royale,0.42,8,10,Squad,Mobile,Solo,Beginner,13
+384,EU,Racing,0.19,10,9,Competitive,Mobile,Achievement-hunter,Advanced,39
+385,MENA,Battle Royale,0.32,10,6,Tournament,PC,Sniper,Beginner,28
+386,SEA,Racing,0.08,3,7,Solo,Switch,Camper,Professional,26
+387,SEA,RPG,0.05,1,5,Ranked,Mobile,Camper,Beginner,15
+388,LATAM,Card Game,0.05,1,11,Tournament,Xbox,Resource-gatherer,Expert,25
+389,ASIA,Card Game,0.16,5,11,Squad,PC/Console,Support,Professional,28
+390,LATAM,MMO,0.25,10,7,Tournament,Switch,Team-player,Intermediate,36
+391,OCE,Battle Royale,0.07,2,5,Solo,PC,Camper,Professional,19
+392,ASIA,RPG,0.21,5,4,Solo,PlayStation,Defensive,Expert,32
+393,MENA,MMO,0.59,15,10,Ranked,Switch,Tactician,Professional,30
+394,LATAM,FPS,0.07,2,9,Casual,Xbox,Rusher,Advanced,22
+395,MENA,Card Game,0.01,0,5,Ranked,PC,Team-player,Beginner,25
+396,LATAM,FPS,0.17,2,7,Tournament,PlayStation,Objective-focused,Beginner,18
+397,ASIA,Battle Royale,0.02,3,11,Competitive,PlayStation,Casual,Beginner,32
+398,SEA,Card Game,0.07,1,6,Casual,Mobile,Solo,Advanced,16
+399,SEA,Sports,0.2,5,7,Solo,PlayStation,Tactician,Beginner,22
+400,SEA,MOBA,0.17,2,10,Tournament,PlayStation,Aggressive,Beginner,21
+401,MENA,Strategy,0.21,3,13,Casual,Xbox,Achievement-hunter,Expert,14
+402,MENA,Racing,0.55,10,7,Custom,Xbox,Casual,Professional,39
+403,NA,FPS,0.15,3,7,Tournament,PC,Defensive,Professional,22
+404,LATAM,FPS,0.04,0,8,Squad,Switch,Competitive,Expert,30
+405,CIS,Strategy,0.01,0,12,Custom,PlayStation,Tactician,Professional,29
+406,CIS,Strategy,0.05,1,5,Ranked,PlayStation,Support,Advanced,24
+407,MENA,MOBA,0.34,8,5,Custom,Xbox,Achievement-hunter,Professional,23
+408,EU,Sports,0.68,11,8,Ranked,Switch,Support,Beginner,34
+409,LATAM,MMO,0.03,0,9,Squad,Xbox,Casual,Beginner,26
+410,ASIA,RPG,0.14,2,11,Casual,Xbox,Explorer,Professional,16
+411,LATAM,Card Game,0.16,4,8,Competitive,Switch,Completionist,Intermediate,34
+412,MENA,MOBA,0.03,2,9,Tournament,Xbox,Casual,Beginner,26
+413,MENA,Strategy,0.14,0,11,Competitive,PlayStation,Resource-gatherer,Intermediate,35
+414,MENA,Card Game,0.07,1,6,Squad,PC,Aggressive,Intermediate,15
+415,OCE,Sports,0.12,1,8,Competitive,Mobile,Solo,Intermediate,35
+416,EU,Racing,0.06,1,5,Casual,PlayStation,Explorer,Expert,13
+417,LATAM,RPG,0.08,1,8,Custom,PC,Aggressive,Advanced,21
+418,EU,Racing,0.38,11,7,Custom,PC/Console,Tactician,Beginner,27
+419,LATAM,Battle Royale,0.1,1,8,Tournament,Mobile,Completionist,Professional,33
+420,MENA,Strategy,0.19,2,16,Ranked,Switch,Aggressive,Advanced,23
+421,NA,FPS,0.16,6,8,Solo,PC,Support,Intermediate,26
+422,SEA,FPS,0.16,1,9,Ranked,Mobile,Sniper,Professional,26
+423,LATAM,Strategy,0.09,2,5,Competitive,Mobile,Tactician,Intermediate,24
+424,OCE,Racing,0.23,3,5,Custom,PlayStation,Resource-gatherer,Professional,27
+425,ASIA,FPS,0.27,4,6,Solo,Switch,Solo,Beginner,26
+426,LATAM,Racing,0.12,4,8,Competitive,Switch,Competitive,Expert,19
+427,MENA,Racing,0.19,6,6,Competitive,Xbox,Resource-gatherer,Advanced,24
+428,CIS,RPG,0.29,10,8,Squad,Xbox,Casual,Professional,30
+429,SEA,MMO,0.04,0,11,Casual,PC,Support,Advanced,32
+430,NA,Strategy,0.11,2,11,Solo,Switch,Defensive,Professional,30
+431,ASIA,Racing,0.0,0,8,Tournament,Mobile,Rusher,Expert,23
+432,OCE,RPG,0.24,1,7,Squad,PC,Sniper,Advanced,19
+433,CIS,FPS,0.3,5,11,Squad,Switch,Completionist,Advanced,24
+434,NA,Card Game,0.08,1,10,Tournament,Mobile,Solo,Advanced,24
+435,EU,MOBA,0.4,7,8,Ranked,Switch,Objective-focused,Beginner,15
+436,EU,Battle Royale,0.16,1,9,Casual,PlayStation,Achievement-hunter,Intermediate,22
+437,LATAM,RPG,0.12,2,8,Custom,PC/Console,Resource-gatherer,Expert,19
+438,OCE,FPS,0.43,4,6,Ranked,PC/Console,Camper,Advanced,30
+439,EU,RPG,0.14,4,15,Squad,PC/Console,Rusher,Beginner,26
+440,ASIA,RPG,0.0,0,5,Solo,Mobile,Defensive,Beginner,18
+441,NA,FPS,0.29,3,11,Casual,Xbox,Achievement-hunter,Expert,41
+442,OCE,Racing,0.08,1,10,Custom,PlayStation,Casual,Professional,20
+443,NA,FPS,0.51,9,13,Squad,PC,Solo,Intermediate,29
+444,NA,Racing,0.01,0,7,Casual,PC,Camper,Expert,27
+445,MENA,Sports,0.26,2,6,Casual,PC/Console,Team-player,Beginner,13
+446,NA,MMO,0.32,7,8,Casual,PC/Console,Resource-gatherer,Expert,27
+447,MENA,Sports,0.12,3,3,Solo,Mobile,Rusher,Intermediate,29
+448,CIS,FPS,0.19,3,9,Casual,Switch,Rusher,Intermediate,20
+449,EU,MOBA,0.01,0,6,Squad,PC,Explorer,Professional,28
+450,CIS,Card Game,0.2,1,7,Tournament,Mobile,Sniper,Professional,13
+451,OCE,Sports,0.26,4,9,Competitive,Xbox,Team-player,Expert,29
+452,OCE,FPS,0.24,5,9,Custom,PC,Objective-focused,Intermediate,14
+453,ASIA,FPS,0.11,4,6,Custom,Mobile,Casual,Beginner,26
+454,LATAM,MMO,0.04,0,8,Ranked,Switch,Solo,Beginner,32
+455,OCE,Racing,0.07,2,8,Tournament,PC,Resource-gatherer,Intermediate,29
+456,NA,MOBA,0.17,2,9,Ranked,Mobile,Team-player,Beginner,25
+457,ASIA,Battle Royale,0.12,0,6,Solo,Mobile,Defensive,Advanced,27
+458,EU,Battle Royale,0.59,11,9,Casual,Xbox,Objective-focused,Advanced,14
+459,EU,Sports,0.03,0,12,Ranked,Switch,Explorer,Advanced,19
+460,MENA,Sports,0.16,1,11,Competitive,Switch,Competitive,Beginner,28
+461,ASIA,Sports,0.03,1,11,Ranked,PlayStation,Support,Expert,27
+462,MENA,Racing,0.04,1,11,Competitive,Mobile,Sniper,Advanced,13
+463,MENA,Racing,0.17,2,9,Ranked,PC,Camper,Beginner,28
+464,ASIA,Strategy,0.02,0,8,Casual,PlayStation,Competitive,Intermediate,16
+465,OCE,Card Game,0.46,18,12,Solo,Xbox,Team-player,Professional,20
+466,MENA,RPG,0.38,7,6,Casual,PC,Completionist,Intermediate,27
+467,SEA,FPS,0.39,9,9,Competitive,PC,Support,Expert,18
+468,SEA,RPG,0.62,7,9,Competitive,Xbox,Defensive,Advanced,32
+469,CIS,Card Game,0.43,7,10,Tournament,PlayStation,Solo,Expert,19
+470,CIS,Sports,0.18,7,7,Squad,Mobile,Achievement-hunter,Professional,16
+471,OCE,FPS,0.35,7,13,Solo,Switch,Completionist,Professional,27
+472,LATAM,RPG,0.47,10,10,Squad,Mobile,Resource-gatherer,Professional,27
+473,ASIA,RPG,0.13,7,8,Tournament,Mobile,Camper,Intermediate,23
+474,CIS,Sports,0.06,3,10,Custom,Mobile,Objective-focused,Beginner,34
+475,LATAM,RPG,0.15,5,9,Custom,PlayStation,Rusher,Beginner,20
+476,CIS,FPS,0.14,5,8,Custom,Mobile,Explorer,Advanced,24
+477,ASIA,MOBA,0.18,6,9,Custom,Mobile,Completionist,Beginner,27
+478,OCE,Sports,0.05,2,10,Custom,Mobile,Rusher,Advanced,19
+479,MENA,Sports,0.37,12,9,Ranked,PC,Casual,Expert,25
+480,MENA,Battle Royale,0.06,3,12,Custom,Switch,Achievement-hunter,Advanced,31
+481,EU,Racing,0.19,3,7,Solo,PlayStation,Objective-focused,Intermediate,27
+482,SEA,Racing,0.2,5,9,Casual,Switch,Team-player,Beginner,20
+483,SEA,Card Game,0.22,2,10,Squad,Mobile,Support,Expert,20
+484,NA,Strategy,0.36,8,9,Competitive,PC,Aggressive,Intermediate,24
+485,OCE,MMO,0.06,0,12,Squad,Xbox,Rusher,Beginner,32
+486,MENA,MMO,0.2,5,9,Ranked,Switch,Tactician,Professional,29
+487,NA,Sports,0.07,2,8,Solo,Switch,Defensive,Expert,33
+488,LATAM,FPS,0.01,1,11,Squad,Switch,Aggressive,Beginner,19
+489,CIS,Strategy,0.29,3,11,Casual,PC,Achievement-hunter,Beginner,26
+490,MENA,FPS,0.01,0,6,Ranked,PlayStation,Camper,Advanced,22
+491,LATAM,Sports,0.41,9,8,Casual,PC/Console,Solo,Expert,21
+492,CIS,MOBA,0.45,10,3,Custom,Mobile,Achievement-hunter,Intermediate,27
+493,NA,MOBA,0.13,2,11,Casual,Mobile,Solo,Intermediate,16
+494,NA,RPG,0.01,0,5,Solo,Xbox,Competitive,Intermediate,31
+495,MENA,FPS,0.16,5,6,Tournament,PlayStation,Sniper,Professional,13
+496,CIS,MOBA,0.58,9,12,Casual,PC/Console,Defensive,Beginner,17
+497,SEA,Racing,0.12,6,8,Custom,PC,Team-player,Expert,22
+498,OCE,MMO,0.01,0,13,Squad,PC/Console,Tactician,Intermediate,28
+499,OCE,Strategy,0.48,16,11,Custom,Switch,Completionist,Professional,22

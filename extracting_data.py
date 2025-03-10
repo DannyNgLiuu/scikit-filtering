@@ -1,7 +1,10 @@
 import pandas as pd
+import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.neighbors import NearestNeighbors
+from sklearn.preprocessing import StandardScaler
+
 
 df = pd.read_csv("./nexus_data.csv")
 
@@ -33,26 +36,50 @@ df_subset.to_csv(similarity_matrix_csv_path, index=False)
 
 
 
+numerical_features = ['Toxicity Score', 'Reports', 'Friend List Overlap', 'Age']
+
+scaler = StandardScaler()
+numerical_data = scaler.fit_transform(df[numerical_features])
 
 
 
 
+# X = df[["Toxicity Score", "Friend List Overlap", "Reports"]].values
 
+# scaler = StandardScaler()
+# X_scaled = scaler.fit_transform(X)
 
+# knn = NearestNeighbors(n_neighbors=5, metric="euclidean")
+# knn.fit(X_scaled)
 
+# #find 5 nearest neighbors for each user
+# distances, indices = knn.kneighbors(X_scaled)
 
+# alpha = 0.5
+# beta = 0.5 
 
-#collaborative filtering is good for numeric data
-X = df[["Toxicity Score", "Friend List Overlap", "Voice/Text Chat Activity", "Win/Loss Ratio"]].values
+# def hybrid_recommend(user_index):
+    
+#     knn_similar_users = indices[user_index]
+#     knn_sim_scores = np.exp(-distances[user_index])
+#     #knn_sim_scores /= np.sum(knn_sim_scores)
+    
+#     tfidf_similar_games = np.argsort(-similarity_matrix[user_index])[1:5+1]
+#     tfidf_sim_scores = similarity_matrix[user_index][tfidf_similar_games]
+#     # tfidf_sim_scores /= np.sum(tfidf_sim_scores)
+    
+#     hybrid_scores = (alpha * knn_sim_scores) + (beta * tfidf_sim_scores[:len(knn_sim_scores)])
+    
+#     recommended_users = df.iloc[knn_similar_users]["Player ID"].tolist()
+    
+#     return recommended_users, hybrid_scores
 
-knn = NearestNeighbors(n_neighbors=5, metric="euclidean")
-knn.fit(X)
+# user_index = 1
 
-distances, indices = knn.kneighbors([X[0]])
+# similar_users, hybrid_scores = hybrid_recommend(user_index)
 
+# recommendations_df = pd.DataFrame({
+#     "Recommended Users": similar_users,
+#     "Hybrid Scores": hybrid_scores
+# })
 
-# print("\nIndices of 5 Nearest Neighbors:")
-# print(indices)
-
-# print("\nDistances to Nearest Neighbors:")
-# print(distances)
