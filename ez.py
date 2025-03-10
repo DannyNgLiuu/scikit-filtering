@@ -13,16 +13,16 @@ categorical_features = ['Region', 'Game Genre', 'Preferred Game Mode', 'Platform
 numerical_features = ['Toxicity Score', 'Reports', 'Friend List Overlap', 'Age']
 
 feature_weights = {
-    'Region': 0.3,
+    'Region': 0.35,
     'Game Genre': 0.20,  
     'Preferred Game Mode': 0.15,  
     'Platform': 0.30,
-    'Playstyle Tags': 0.20,  
-    'Skill Level': 0.15,  
-    'Toxicity Score': 0.05,
-    'Reports': 0.05,
-    'Friend List Overlap': 0.15,  
-    'Age': 0.10  
+    'Playstyle Tags': 0.05,  
+    'Skill Level': 0.05,  
+    'Toxicity Score': 0.2,
+    'Reports': 0.2,
+    'Friend List Overlap': 0.05,  
+    'Age': 0.1
 }
 
 preprocessor = ColumnTransformer(
@@ -88,5 +88,5 @@ def get_recommendations_ml(player_id, df, knn_model):
 
 example_player_id = 0
 recommendations = get_recommendations_ml(example_player_id, df, model_knn)
-print(recommendations)
+print(recommendations.to_string(index=False))
 
