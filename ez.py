@@ -14,8 +14,8 @@ numerical_features = ['Toxicity Score', 'Reports', 'Friend List Overlap', 'Age']
 
 feature_weights = {
     'Region': 0.35,
-    'Game Genre': 0.20,  
-    'Preferred Game Mode': 0.15,  
+    'Game Genre': 0.3,  
+    'Preferred Game Mode': 0.05,  
     'Platform': 0.30,
     'Playstyle Tags': 0.05,  
     'Skill Level': 0.05,  
@@ -49,7 +49,7 @@ weights = weights.flatten()
 X_weighted = X * weights
 
 # plus 1 more because user x is not included
-model_knn = NearestNeighbors(n_neighbors=21, metric='cosine')
+model_knn = NearestNeighbors(n_neighbors=50, metric='cosine')
 model_knn.fit(X_weighted)
 
 
