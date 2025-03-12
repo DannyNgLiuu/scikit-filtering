@@ -6,15 +6,16 @@ from datetime import datetime, timedelta
 np.random.seed(1)
 
 # Define sample values for categorical variables
-regions = ['NA', 'EU', 'ASIA', 'OCE', 'LATAM', 'CIS', 'MENA', 'SEA']
+regions = ['NA', 'EU', 'ASIA', 'OCE', 'LATAM', 'AUS', 'MENA', 'KR']
 game_genres = ['FPS', 'MOBA', 'Battle Royale', 'MMO', 'RPG', 'Strategy', 'Sports', 'Racing', 'Card Game']
 game_modes = ['Competitive', 'Casual', 'Solo', 'Squad', 'Ranked', 'Custom', 'Tournament']
 platforms = ['PC', 'PlayStation', 'Xbox', 'Switch', 'Mobile', 'PC/Console']
-playstyle_options = ['Aggressive', 'Defensive', 'Support', 'Sniper', 'Rusher', 'Tactician', 
-                    'Camper', 'Objective-focused', 'Solo', 'Team-player', 'Resource-gatherer',
-                    'Explorer', 'Achievement-hunter', 'Completionist', 'Casual', 'Competitive']
+playstyle_options = ['Aggressive', 'Defensive', 'Support', 'Tactician', 
+                    'Camper', 'Solo', 'Team-player', 'Resource-gatherer',
+                    'Explorer', 'Completionist', 'Casual', 'Competitive']
 skill_levels = ['Beginner', 'Intermediate', 'Advanced', 'Expert', 'Professional']
 
+#number of users
 num_rows = 500
 data = []
 
