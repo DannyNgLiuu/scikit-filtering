@@ -17,6 +17,8 @@ skill_levels = ['Beginner', 'Intermediate', 'Advanced', 'Expert', 'Professional'
 num_rows = 500
 data = []
 
+all_player_ids = list(range(0, num_rows))
+
 for i in range(0, num_rows):
     player_id = i
     
@@ -33,6 +35,15 @@ for i in range(0, num_rows):
     age_value = np.random.normal(25, 7)
     age = int(np.clip(age_value, 13, 65))
 
+    
+    potential_friends = [pid for pid in all_player_ids if pid != player_id]
+    num_friends = np.random.binomial(30, 0.2)
+    num_friends = min(num_friends, len(potential_friends))
+    friends_list = []
+    if num_friends > 0:
+        friends_list = random.sample(potential_friends, num_friends)
+
+
     data.append({
         'Player ID': player_id,
         'Region': region,
@@ -44,7 +55,8 @@ for i in range(0, num_rows):
         'Platform': platform,
         'Playstyle Tags': playstyle_tags,
         'Skill Level': skill_level,
-        'Age': age
+        'Age': age,
+        'Friends List': friends_list
     })
 
 df = pd.DataFrame(data)

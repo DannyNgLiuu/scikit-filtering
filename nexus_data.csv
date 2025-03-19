@@ -1,501 +1,501 @@
-Player ID,Region,Game Genre,Reputation,Reports,Friend List Overlap,Preferred Game Mode,Platform,Playstyle Tags,Skill Level,Age
-0,OCE,Strategy,774,0,8,Tournament,Mobile,Tactician,Intermediate,20
-1,LATAM,MOBA,344,8,9,Tournament,PC/Console,Defensive,Expert,17
-2,MENA,RPG,385,8,12,Casual,PC/Console,Completionist,Beginner,22
-3,MENA,MOBA,415,10,11,Casual,Switch,Resource-gatherer,Intermediate,18
-4,EU,Battle Royale,425,4,10,Squad,PC,Completionist,Intermediate,18
-5,AUS,Battle Royale,312,7,10,Solo,Xbox,Aggressive,Beginner,19
-6,KR,Battle Royale,333,10,13,Ranked,PC/Console,Tactician,Professional,24
-7,LATAM,MOBA,699,7,14,Ranked,PC,Tactician,Beginner,19
-8,ASIA,Card Game,676,4,7,Squad,PlayStation,Defensive,Beginner,35
-9,OCE,Sports,482,2,9,Ranked,Switch,Camper,Intermediate,31
-10,ASIA,Sports,388,7,13,Ranked,Xbox,Team-player,Beginner,30
-11,OCE,Battle Royale,370,6,4,Competitive,PC/Console,Support,Beginner,26
-12,NA,Battle Royale,566,8,11,Squad,Switch,Solo,Beginner,22
-13,AUS,Racing,586,5,6,Solo,PlayStation,Team-player,Beginner,20
-14,LATAM,RPG,598,2,14,Ranked,Mobile,Completionist,Beginner,18
-15,ASIA,Battle Royale,175,9,7,Casual,Switch,Completionist,Professional,27
-16,LATAM,Sports,535,6,5,Ranked,Xbox,Support,Professional,25
-17,KR,RPG,942,1,15,Squad,Mobile,Completionist,Beginner,22
-18,OCE,Battle Royale,78,13,10,Custom,PC/Console,Aggressive,Professional,33
-19,KR,Battle Royale,409,7,10,Tournament,Mobile,Casual,Advanced,24
-20,NA,Strategy,610,6,7,Competitive,PC/Console,Defensive,Intermediate,25
-21,NA,MMO,555,12,6,Competitive,Switch,Resource-gatherer,Expert,25
-22,LATAM,Battle Royale,453,3,7,Ranked,Mobile,Support,Beginner,17
-23,MENA,RPG,283,13,10,Casual,Xbox,Aggressive,Intermediate,22
-24,LATAM,MMO,716,5,5,Ranked,Switch,Team-player,Intermediate,22
-25,EU,RPG,803,1,14,Casual,Xbox,Aggressive,Beginner,19
-26,LATAM,Card Game,506,13,8,Solo,PlayStation,Casual,Advanced,24
-27,NA,Racing,108,10,8,Squad,Xbox,Resource-gatherer,Advanced,14
-28,NA,Racing,384,15,8,Competitive,PlayStation,Casual,Expert,15
-29,MENA,Racing,414,8,8,Ranked,Switch,Team-player,Intermediate,20
-30,NA,MOBA,544,5,9,Tournament,Xbox,Team-player,Intermediate,15
-31,LATAM,Battle Royale,277,8,10,Solo,Mobile,Camper,Advanced,29
-32,NA,RPG,860,0,11,Squad,Xbox,Camper,Intermediate,29
-33,NA,RPG,471,10,10,Tournament,PC/Console,Explorer,Beginner,14
-34,MENA,Sports,617,4,7,Custom,Mobile,Casual,Beginner,35
-35,NA,Sports,161,15,11,Tournament,Switch,Team-player,Advanced,33
-36,AUS,MOBA,537,6,7,Competitive,Mobile,Completionist,Beginner,25
-37,AUS,MOBA,640,6,7,Squad,PlayStation,Casual,Intermediate,22
-38,ASIA,RPG,626,3,11,Competitive,Switch,Solo,Professional,19
-39,NA,RPG,674,6,10,Tournament,PC,Team-player,Advanced,27
-40,NA,RPG,580,3,6,Casual,PC,Completionist,Beginner,24
-41,EU,Strategy,684,7,6,Custom,Mobile,Completionist,Beginner,28
-42,MENA,Card Game,250,9,9,Tournament,Mobile,Completionist,Advanced,24
-43,ASIA,Sports,210,10,8,Custom,Xbox,Tactician,Professional,13
-44,LATAM,Racing,361,3,13,Competitive,PC,Support,Expert,27
-45,MENA,Racing,375,11,7,Casual,PC/Console,Competitive,Advanced,22
-46,AUS,Racing,338,9,10,Custom,Switch,Casual,Professional,31
-47,ASIA,Battle Royale,43,18,10,Casual,Switch,Team-player,Expert,26
-48,ASIA,Racing,877,1,9,Tournament,Mobile,Explorer,Expert,19
-49,MENA,MOBA,485,9,7,Competitive,PlayStation,Explorer,Expert,13
-50,NA,MOBA,263,11,11,Tournament,PlayStation,Tactician,Beginner,21
-51,MENA,Card Game,566,4,10,Ranked,Mobile,Aggressive,Professional,18
-52,NA,RPG,1000,0,9,Casual,Switch,Solo,Advanced,21
-53,NA,MOBA,517,4,9,Custom,Xbox,Resource-gatherer,Advanced,25
-54,ASIA,Card Game,500,7,8,Squad,PC,Team-player,Professional,24
-55,ASIA,Battle Royale,802,2,4,Ranked,Switch,Camper,Professional,24
-56,AUS,MMO,294,11,4,Competitive,PC,Team-player,Professional,32
-57,AUS,FPS,725,0,10,Squad,PlayStation,Solo,Intermediate,25
-58,MENA,FPS,347,9,9,Custom,PC/Console,Competitive,Expert,38
-59,OCE,Racing,217,15,11,Ranked,PlayStation,Defensive,Intermediate,34
-60,NA,RPG,642,5,11,Competitive,Switch,Completionist,Intermediate,19
-61,NA,FPS,285,5,10,Custom,PC/Console,Resource-gatherer,Professional,30
-62,LATAM,MMO,308,12,8,Solo,PC/Console,Resource-gatherer,Beginner,20
-63,EU,Battle Royale,234,13,10,Squad,PC/Console,Camper,Beginner,22
-64,ASIA,Battle Royale,296,12,8,Competitive,Switch,Aggressive,Professional,29
-65,KR,Racing,555,3,9,Solo,Switch,Solo,Intermediate,13
-66,AUS,MOBA,292,6,11,Squad,Switch,Team-player,Beginner,15
-67,KR,RPG,474,8,12,Casual,PlayStation,Defensive,Expert,15
-68,OCE,Strategy,33,16,15,Ranked,PC/Console,Defensive,Advanced,33
-69,LATAM,Card Game,475,8,11,Competitive,PlayStation,Competitive,Intermediate,37
-70,EU,MMO,399,6,8,Casual,PC,Support,Beginner,27
-71,LATAM,Card Game,136,11,11,Tournament,Mobile,Casual,Expert,32
-72,MENA,Racing,76,14,9,Custom,PlayStation,Solo,Intermediate,18
-73,AUS,MMO,652,6,12,Tournament,Mobile,Completionist,Beginner,14
-74,LATAM,Strategy,727,3,9,Casual,PC/Console,Defensive,Beginner,28
-75,NA,Battle Royale,455,8,15,Squad,PC,Completionist,Intermediate,29
-76,NA,MMO,404,7,6,Solo,Switch,Completionist,Professional,21
-77,KR,Battle Royale,682,4,14,Casual,Xbox,Team-player,Professional,24
-78,KR,Card Game,330,9,10,Squad,Switch,Team-player,Expert,22
-79,OCE,Card Game,341,11,11,Tournament,Mobile,Camper,Intermediate,18
-80,MENA,Strategy,60,11,7,Casual,Mobile,Camper,Professional,18
-81,NA,Battle Royale,328,13,8,Casual,PC,Defensive,Advanced,31
-82,AUS,FPS,414,9,8,Solo,PC/Console,Solo,Professional,28
-83,MENA,MMO,157,5,10,Tournament,Switch,Completionist,Professional,15
-84,MENA,Strategy,765,1,9,Casual,Xbox,Completionist,Advanced,33
-85,ASIA,MMO,414,9,6,Casual,Switch,Resource-gatherer,Beginner,26
-86,OCE,RPG,70,17,10,Ranked,PC/Console,Aggressive,Expert,25
-87,NA,MOBA,433,13,15,Solo,PlayStation,Resource-gatherer,Advanced,17
-88,MENA,FPS,264,11,8,Squad,PC,Defensive,Professional,23
-89,KR,RPG,480,8,10,Custom,PC/Console,Support,Beginner,22
-90,KR,Card Game,207,10,9,Casual,Mobile,Team-player,Advanced,20
-91,ASIA,FPS,443,9,16,Custom,PC,Resource-gatherer,Beginner,25
-92,ASIA,RPG,455,7,11,Ranked,Switch,Casual,Professional,20
-93,NA,MMO,1000,0,8,Squad,Mobile,Resource-gatherer,Beginner,20
-94,MENA,Strategy,537,6,8,Competitive,PC/Console,Completionist,Beginner,20
-95,ASIA,Sports,556,5,8,Competitive,Xbox,Support,Expert,25
-96,AUS,Battle Royale,336,6,5,Custom,PC,Casual,Expert,28
-97,NA,Racing,513,8,9,Tournament,PC/Console,Completionist,Professional,19
-98,OCE,FPS,555,7,9,Solo,PC,Support,Professional,23
-99,NA,FPS,585,3,8,Squad,Switch,Casual,Intermediate,17
-100,NA,Card Game,636,6,9,Competitive,Mobile,Camper,Intermediate,43
-101,MENA,MMO,205,14,12,Casual,PC/Console,Team-player,Beginner,33
-102,ASIA,Sports,612,2,8,Competitive,PC/Console,Defensive,Professional,30
-103,KR,Strategy,298,6,10,Squad,PlayStation,Competitive,Beginner,37
-104,AUS,Strategy,928,1,9,Competitive,Xbox,Team-player,Expert,26
-105,KR,Racing,657,3,8,Solo,Switch,Solo,Expert,28
-106,OCE,Sports,236,17,14,Custom,Mobile,Tactician,Beginner,24
-107,AUS,Sports,598,5,10,Squad,PC,Explorer,Expert,22
-108,OCE,MOBA,749,3,6,Casual,PlayStation,Competitive,Intermediate,29
-109,OCE,Strategy,524,5,12,Casual,Switch,Casual,Beginner,32
-110,EU,Racing,554,9,7,Ranked,PC,Resource-gatherer,Beginner,21
-111,LATAM,Battle Royale,162,7,12,Tournament,Xbox,Aggressive,Expert,28
-112,ASIA,RPG,539,7,7,Casual,Xbox,Camper,Professional,25
-113,MENA,RPG,568,8,6,Squad,Xbox,Defensive,Beginner,23
-114,ASIA,Sports,356,4,16,Competitive,Mobile,Team-player,Beginner,25
-115,MENA,Racing,115,18,9,Competitive,PC/Console,Casual,Professional,29
-116,AUS,MMO,139,10,7,Tournament,Switch,Resource-gatherer,Beginner,29
-117,KR,MOBA,788,2,11,Custom,PC/Console,Competitive,Intermediate,30
-118,EU,RPG,400,12,7,Squad,PC/Console,Team-player,Beginner,26
-119,LATAM,Sports,131,15,11,Competitive,Xbox,Tactician,Professional,18
-120,OCE,FPS,271,8,9,Tournament,Switch,Defensive,Expert,23
-121,AUS,Strategy,636,7,12,Casual,Switch,Solo,Beginner,31
-122,AUS,FPS,598,6,12,Solo,Mobile,Tactician,Intermediate,22
-123,MENA,Strategy,208,7,12,Tournament,Xbox,Resource-gatherer,Professional,34
-124,EU,FPS,539,9,5,Ranked,Switch,Tactician,Intermediate,32
-125,NA,FPS,269,13,11,Casual,Switch,Team-player,Beginner,22
-126,EU,MOBA,566,6,2,Competitive,PC/Console,Competitive,Expert,18
-127,MENA,Battle Royale,343,12,12,Ranked,PC,Completionist,Professional,22
-128,OCE,MMO,147,14,6,Custom,PlayStation,Aggressive,Professional,18
-129,KR,Battle Royale,550,5,12,Casual,PlayStation,Casual,Advanced,29
-130,KR,Sports,763,3,6,Ranked,Xbox,Tactician,Beginner,23
-131,KR,FPS,407,6,7,Squad,PC,Defensive,Professional,24
-132,KR,MMO,362,15,8,Squad,Mobile,Competitive,Beginner,21
-133,NA,Battle Royale,567,5,7,Competitive,Switch,Camper,Beginner,33
-134,AUS,Racing,493,8,14,Custom,PC,Tactician,Professional,28
-135,OCE,Card Game,594,3,8,Custom,PC,Defensive,Professional,16
-136,LATAM,Battle Royale,40,14,8,Competitive,Xbox,Explorer,Expert,28
-137,MENA,Battle Royale,664,9,11,Ranked,PC,Completionist,Advanced,33
-138,KR,MMO,410,8,7,Ranked,PC,Tactician,Intermediate,25
-139,OCE,Sports,469,7,4,Casual,PC,Camper,Expert,26
-140,AUS,Card Game,545,6,9,Casual,PlayStation,Aggressive,Advanced,31
-141,OCE,Racing,506,12,10,Custom,Switch,Aggressive,Professional,27
-142,OCE,Card Game,321,10,3,Squad,PC/Console,Tactician,Expert,23
-143,ASIA,MMO,379,12,9,Casual,Xbox,Tactician,Advanced,23
-144,KR,Strategy,408,10,9,Competitive,PC/Console,Casual,Expert,22
-145,NA,Sports,573,4,9,Casual,Xbox,Casual,Expert,18
-146,EU,Sports,448,5,8,Casual,PlayStation,Solo,Professional,23
-147,KR,FPS,442,10,7,Squad,PlayStation,Resource-gatherer,Advanced,38
-148,NA,Racing,185,10,13,Tournament,PC/Console,Solo,Beginner,26
-149,NA,Battle Royale,559,7,9,Custom,Switch,Casual,Intermediate,24
-150,KR,Racing,725,3,15,Tournament,Mobile,Resource-gatherer,Professional,23
-151,LATAM,MMO,536,3,12,Tournament,Xbox,Camper,Beginner,21
-152,KR,MMO,486,5,7,Squad,Mobile,Competitive,Advanced,24
-153,ASIA,Sports,67,16,7,Casual,Mobile,Solo,Expert,28
-154,KR,MOBA,267,5,9,Casual,PlayStation,Support,Intermediate,20
-155,KR,FPS,440,16,14,Tournament,PC/Console,Competitive,Expert,24
-156,AUS,Sports,275,9,6,Solo,Xbox,Casual,Professional,31
-157,OCE,Sports,196,5,10,Casual,Switch,Competitive,Professional,37
-158,ASIA,FPS,323,9,9,Custom,Switch,Aggressive,Intermediate,35
-159,AUS,Racing,642,4,6,Tournament,PC,Competitive,Professional,28
-160,KR,RPG,459,4,8,Competitive,PlayStation,Support,Advanced,26
-161,ASIA,MMO,774,6,12,Casual,PC/Console,Casual,Beginner,33
-162,OCE,Strategy,546,6,12,Casual,Switch,Aggressive,Advanced,13
-163,ASIA,Strategy,583,6,9,Casual,Xbox,Aggressive,Expert,24
-164,KR,MMO,666,5,10,Competitive,PC,Team-player,Beginner,37
-165,LATAM,Card Game,670,6,7,Casual,Mobile,Team-player,Professional,14
-166,ASIA,Strategy,293,11,7,Solo,PlayStation,Completionist,Intermediate,29
-167,EU,Battle Royale,513,6,13,Casual,PC/Console,Camper,Professional,22
-168,KR,MOBA,649,8,10,Competitive,PC/Console,Competitive,Advanced,20
-169,KR,FPS,384,6,11,Competitive,Mobile,Completionist,Expert,44
-170,EU,RPG,787,3,13,Custom,PlayStation,Competitive,Expert,26
-171,NA,Card Game,416,10,17,Tournament,Switch,Explorer,Beginner,29
-172,OCE,MOBA,100,12,10,Squad,Mobile,Completionist,Intermediate,21
-173,OCE,MMO,554,6,5,Tournament,PC/Console,Solo,Beginner,25
-174,OCE,MOBA,551,5,5,Squad,Mobile,Competitive,Advanced,24
-175,KR,RPG,637,6,8,Ranked,Switch,Camper,Professional,34
-176,OCE,RPG,598,14,9,Casual,Xbox,Competitive,Beginner,24
-177,EU,Strategy,490,7,8,Competitive,Switch,Aggressive,Advanced,27
-178,KR,Battle Royale,294,13,10,Solo,PC,Completionist,Professional,17
-179,OCE,FPS,471,8,9,Ranked,PlayStation,Camper,Intermediate,18
-180,MENA,Strategy,603,10,9,Competitive,PlayStation,Defensive,Beginner,16
-181,NA,MOBA,516,4,8,Competitive,PC/Console,Completionist,Beginner,27
-182,ASIA,MOBA,206,11,7,Squad,PC/Console,Tactician,Advanced,28
-183,EU,Strategy,281,16,10,Casual,Mobile,Support,Intermediate,13
-184,EU,MMO,510,7,9,Competitive,PC/Console,Defensive,Expert,21
-185,MENA,Strategy,993,1,6,Ranked,Xbox,Explorer,Advanced,28
-186,NA,Sports,683,2,10,Competitive,Xbox,Explorer,Professional,26
-187,LATAM,Racing,710,5,14,Custom,Xbox,Tactician,Beginner,22
-188,LATAM,Racing,559,7,14,Tournament,PlayStation,Team-player,Intermediate,28
-189,AUS,Sports,366,8,11,Casual,Switch,Solo,Beginner,25
-190,MENA,MOBA,544,7,11,Squad,Mobile,Team-player,Beginner,32
-191,KR,Sports,487,6,6,Squad,PC/Console,Casual,Beginner,32
-192,LATAM,MOBA,243,9,7,Squad,PlayStation,Completionist,Expert,28
-193,ASIA,Racing,452,8,6,Custom,PC,Resource-gatherer,Advanced,28
-194,LATAM,Card Game,418,9,10,Tournament,Switch,Solo,Beginner,32
-195,MENA,Sports,281,10,7,Competitive,PC,Resource-gatherer,Advanced,17
-196,MENA,MMO,646,8,8,Tournament,Xbox,Camper,Intermediate,26
-197,NA,Strategy,387,9,8,Tournament,Mobile,Aggressive,Expert,20
-198,AUS,Strategy,222,10,12,Squad,PlayStation,Explorer,Advanced,19
-199,LATAM,MMO,161,8,7,Casual,PC/Console,Resource-gatherer,Professional,28
-200,OCE,Racing,776,1,5,Custom,PC,Resource-gatherer,Professional,26
-201,AUS,FPS,469,3,7,Ranked,Mobile,Completionist,Intermediate,24
-202,KR,Racing,237,9,9,Solo,Switch,Completionist,Professional,23
-203,ASIA,FPS,269,9,10,Casual,Xbox,Support,Intermediate,23
-204,OCE,Racing,561,6,8,Squad,PC/Console,Tactician,Expert,21
-205,ASIA,Racing,568,7,13,Ranked,Mobile,Defensive,Professional,32
-206,ASIA,MMO,310,11,7,Solo,PC,Explorer,Intermediate,32
-207,ASIA,FPS,701,8,8,Squad,Xbox,Completionist,Professional,30
-208,AUS,RPG,779,1,7,Tournament,Mobile,Solo,Expert,28
-209,MENA,MOBA,435,5,7,Custom,PC,Resource-gatherer,Beginner,13
-210,AUS,Strategy,278,6,11,Solo,PC,Casual,Expert,21
-211,AUS,Card Game,812,1,8,Ranked,Switch,Competitive,Professional,21
-212,NA,Strategy,325,9,7,Custom,PC/Console,Tactician,Professional,27
-213,OCE,Strategy,447,11,7,Casual,Switch,Explorer,Advanced,22
-214,OCE,Strategy,375,6,11,Custom,Mobile,Aggressive,Professional,24
-215,MENA,Battle Royale,836,2,13,Tournament,PlayStation,Completionist,Expert,20
-216,NA,Racing,447,10,12,Casual,Mobile,Explorer,Intermediate,14
-217,NA,MMO,514,4,3,Casual,Switch,Competitive,Expert,21
-218,ASIA,RPG,614,7,8,Tournament,PC,Solo,Intermediate,27
-219,OCE,MOBA,288,9,8,Casual,PC/Console,Explorer,Professional,33
-220,ASIA,FPS,312,12,8,Custom,PC/Console,Casual,Expert,13
-221,OCE,Sports,259,13,11,Ranked,PC/Console,Casual,Advanced,27
-222,NA,Sports,636,8,9,Casual,Xbox,Defensive,Intermediate,27
-223,AUS,RPG,602,9,8,Tournament,PC,Team-player,Expert,36
-224,NA,MMO,564,4,12,Squad,Mobile,Camper,Expert,39
-225,MENA,Strategy,605,4,8,Ranked,Mobile,Solo,Expert,15
-226,EU,Card Game,752,2,14,Custom,PC/Console,Competitive,Expert,17
-227,EU,Card Game,117,8,12,Tournament,PC/Console,Team-player,Professional,34
-228,NA,MMO,668,9,11,Ranked,Xbox,Aggressive,Advanced,19
-229,LATAM,MMO,290,8,12,Squad,Mobile,Team-player,Beginner,28
-230,ASIA,MMO,311,8,9,Competitive,Switch,Camper,Advanced,13
-231,NA,RPG,462,4,4,Tournament,Mobile,Defensive,Intermediate,23
-232,MENA,Card Game,456,5,10,Custom,PC,Solo,Professional,25
-233,EU,MOBA,242,10,6,Competitive,PlayStation,Completionist,Beginner,28
-234,NA,MOBA,383,2,13,Tournament,Xbox,Resource-gatherer,Intermediate,25
-235,EU,Battle Royale,304,12,11,Competitive,Xbox,Explorer,Intermediate,23
-236,LATAM,FPS,357,3,8,Squad,Switch,Team-player,Expert,20
-237,OCE,Sports,679,2,6,Casual,PC/Console,Aggressive,Advanced,21
-238,NA,Battle Royale,526,6,14,Custom,PC,Tactician,Beginner,31
-239,EU,RPG,579,6,12,Custom,Xbox,Resource-gatherer,Intermediate,20
-240,MENA,MOBA,207,8,11,Custom,PC/Console,Support,Advanced,30
-241,AUS,MOBA,336,11,11,Solo,Switch,Aggressive,Intermediate,14
-242,EU,FPS,348,6,8,Squad,Xbox,Competitive,Expert,27
-243,LATAM,MMO,42,12,5,Custom,PlayStation,Resource-gatherer,Advanced,20
-244,LATAM,Card Game,885,0,7,Casual,Switch,Aggressive,Expert,33
-245,LATAM,FPS,614,6,10,Casual,Switch,Tactician,Advanced,21
-246,EU,FPS,891,1,8,Custom,PC,Defensive,Professional,24
-247,LATAM,Strategy,235,9,12,Competitive,Mobile,Tactician,Advanced,24
-248,KR,RPG,215,10,5,Competitive,Mobile,Competitive,Advanced,20
-249,LATAM,Racing,562,7,9,Casual,PC/Console,Camper,Intermediate,18
-250,OCE,MMO,710,1,10,Competitive,Mobile,Defensive,Beginner,17
-251,KR,Card Game,653,5,8,Ranked,PlayStation,Completionist,Beginner,25
-252,LATAM,FPS,541,3,8,Tournament,PC/Console,Aggressive,Expert,25
-253,LATAM,MOBA,15,20,12,Tournament,Switch,Completionist,Beginner,26
-254,OCE,Strategy,492,3,8,Tournament,Xbox,Casual,Beginner,17
-255,NA,Battle Royale,139,6,8,Tournament,Switch,Solo,Advanced,20
-256,MENA,Battle Royale,280,3,11,Squad,PC/Console,Competitive,Expert,31
-257,NA,Racing,280,5,11,Casual,Xbox,Competitive,Beginner,34
-258,OCE,FPS,421,6,7,Solo,Xbox,Casual,Intermediate,13
-259,LATAM,RPG,187,5,11,Competitive,PC,Solo,Intermediate,18
-260,OCE,Battle Royale,449,6,8,Ranked,PC,Team-player,Professional,29
-261,AUS,Card Game,253,13,10,Solo,PlayStation,Resource-gatherer,Expert,26
-262,AUS,Battle Royale,666,7,10,Ranked,Switch,Tactician,Intermediate,26
-263,LATAM,Strategy,440,7,7,Ranked,PC,Defensive,Professional,16
-264,LATAM,Strategy,744,3,12,Tournament,PC,Explorer,Expert,24
-265,EU,Battle Royale,546,7,12,Casual,PC,Defensive,Beginner,17
-266,OCE,Battle Royale,564,6,7,Custom,Switch,Support,Advanced,23
-267,LATAM,Racing,486,5,14,Solo,Xbox,Solo,Intermediate,23
-268,MENA,RPG,218,10,8,Casual,Mobile,Casual,Advanced,32
-269,AUS,Sports,525,13,7,Custom,PC/Console,Tactician,Intermediate,29
-270,OCE,RPG,645,5,9,Casual,PlayStation,Tactician,Intermediate,30
-271,AUS,Card Game,237,9,11,Tournament,PC,Completionist,Advanced,29
-272,MENA,Card Game,316,9,12,Custom,Switch,Tactician,Expert,25
-273,ASIA,Strategy,259,13,11,Solo,Xbox,Team-player,Beginner,25
-274,AUS,Racing,601,5,7,Custom,Switch,Competitive,Advanced,27
-275,EU,RPG,578,6,9,Casual,Xbox,Competitive,Professional,27
-276,MENA,Sports,391,6,8,Custom,PlayStation,Explorer,Professional,20
-277,ASIA,Racing,657,2,13,Solo,PC/Console,Defensive,Professional,16
-278,OCE,Card Game,326,6,11,Ranked,PC,Aggressive,Professional,30
-279,AUS,Card Game,361,8,7,Ranked,Mobile,Camper,Expert,26
-280,MENA,Battle Royale,187,9,14,Tournament,PC,Explorer,Advanced,31
-281,EU,MOBA,553,4,13,Competitive,PlayStation,Solo,Advanced,19
-282,OCE,Racing,495,4,7,Custom,PlayStation,Competitive,Beginner,31
-283,MENA,MOBA,417,10,14,Squad,PC,Support,Beginner,15
-284,ASIA,Racing,453,5,8,Tournament,PC,Aggressive,Advanced,24
-285,ASIA,Strategy,526,9,11,Tournament,Switch,Competitive,Expert,21
-286,NA,RPG,235,11,7,Tournament,Xbox,Tactician,Expert,14
-287,KR,Racing,366,12,5,Squad,PC/Console,Tactician,Intermediate,32
-288,ASIA,Sports,312,7,6,Custom,PC/Console,Resource-gatherer,Advanced,31
-289,EU,Sports,866,2,8,Squad,PC,Aggressive,Advanced,27
-290,MENA,FPS,505,9,11,Solo,Mobile,Resource-gatherer,Expert,25
-291,ASIA,Card Game,169,13,6,Tournament,PC,Aggressive,Intermediate,22
-292,ASIA,Battle Royale,589,6,11,Squad,PC,Completionist,Beginner,13
-293,ASIA,Card Game,690,5,8,Custom,PlayStation,Explorer,Professional,13
-294,NA,Strategy,704,1,8,Custom,Mobile,Casual,Expert,32
-295,NA,RPG,768,3,10,Tournament,PC,Support,Expert,27
-296,NA,Card Game,532,8,8,Tournament,Switch,Solo,Expert,32
-297,ASIA,MMO,875,1,6,Competitive,Xbox,Tactician,Professional,17
-298,EU,Sports,444,12,9,Competitive,PlayStation,Casual,Advanced,13
-299,ASIA,RPG,463,7,10,Competitive,PC/Console,Defensive,Expert,28
-300,LATAM,MMO,312,5,7,Ranked,Mobile,Completionist,Intermediate,28
-301,ASIA,Strategy,267,16,9,Casual,PC,Casual,Professional,32
-302,NA,Card Game,266,14,6,Tournament,PC/Console,Completionist,Advanced,36
-303,ASIA,Racing,476,11,10,Tournament,PC/Console,Tactician,Intermediate,38
-304,AUS,Card Game,636,2,7,Competitive,Xbox,Tactician,Advanced,17
-305,LATAM,Battle Royale,799,6,7,Competitive,PC/Console,Support,Intermediate,28
-306,EU,Racing,332,5,8,Custom,PlayStation,Solo,Beginner,31
-307,AUS,FPS,91,13,7,Squad,Xbox,Aggressive,Beginner,30
-308,EU,Battle Royale,604,6,10,Tournament,PC/Console,Support,Professional,31
-309,MENA,RPG,468,7,4,Tournament,PC,Defensive,Advanced,26
-310,NA,Card Game,475,10,10,Ranked,Mobile,Team-player,Beginner,20
-311,MENA,Strategy,172,10,9,Squad,PC/Console,Support,Professional,37
-312,NA,Card Game,602,5,9,Ranked,Xbox,Casual,Expert,19
-313,OCE,FPS,580,4,15,Solo,Switch,Solo,Professional,13
-314,OCE,Racing,490,5,9,Custom,Switch,Completionist,Expert,33
-315,NA,MMO,274,9,8,Solo,Mobile,Explorer,Intermediate,27
-316,MENA,MMO,348,9,10,Ranked,Switch,Completionist,Expert,27
-317,OCE,Strategy,658,4,7,Solo,Mobile,Resource-gatherer,Professional,24
-318,LATAM,Racing,417,5,9,Casual,Mobile,Team-player,Advanced,29
-319,NA,Battle Royale,353,6,8,Solo,Xbox,Defensive,Expert,19
-320,NA,FPS,980,0,9,Competitive,Switch,Explorer,Advanced,20
-321,ASIA,Racing,481,9,10,Competitive,Xbox,Tactician,Expert,13
-322,EU,Card Game,732,8,9,Casual,PC,Explorer,Professional,32
-323,EU,FPS,283,10,11,Custom,PC/Console,Completionist,Professional,16
-324,ASIA,Strategy,561,5,8,Custom,PlayStation,Resource-gatherer,Professional,24
-325,MENA,FPS,747,5,8,Casual,Switch,Casual,Intermediate,13
-326,AUS,Sports,657,6,7,Casual,PC/Console,Defensive,Professional,16
-327,EU,FPS,584,6,7,Competitive,Switch,Explorer,Professional,31
-328,MENA,MMO,501,3,6,Solo,PlayStation,Team-player,Beginner,19
-329,LATAM,Card Game,529,10,9,Ranked,PlayStation,Casual,Professional,25
-330,NA,Card Game,370,15,12,Squad,PlayStation,Explorer,Advanced,26
-331,EU,MOBA,201,13,7,Casual,PC,Support,Beginner,28
-332,AUS,Racing,605,4,7,Tournament,Switch,Solo,Intermediate,27
-333,EU,Racing,436,8,7,Custom,PlayStation,Defensive,Professional,24
-334,LATAM,MOBA,633,4,12,Custom,PC/Console,Competitive,Intermediate,17
-335,OCE,FPS,483,9,8,Solo,Switch,Support,Advanced,18
-336,EU,MMO,645,4,8,Casual,PlayStation,Resource-gatherer,Intermediate,23
-337,MENA,Card Game,752,3,8,Ranked,Mobile,Resource-gatherer,Professional,15
-338,NA,Sports,52,19,8,Competitive,Switch,Completionist,Professional,13
-339,MENA,Strategy,337,8,10,Solo,PC/Console,Completionist,Advanced,16
-340,AUS,MMO,546,5,8,Squad,Xbox,Support,Professional,15
-341,NA,Racing,735,6,6,Casual,PlayStation,Support,Advanced,32
-342,MENA,Racing,779,2,13,Solo,Xbox,Tactician,Expert,20
-343,EU,Card Game,384,11,8,Squad,Xbox,Competitive,Intermediate,29
-344,MENA,MOBA,371,11,9,Squad,Switch,Support,Beginner,34
-345,AUS,FPS,461,6,7,Custom,PlayStation,Competitive,Advanced,19
-346,AUS,Strategy,363,9,10,Squad,Mobile,Tactician,Beginner,13
-347,EU,RPG,672,5,7,Squad,Xbox,Resource-gatherer,Advanced,18
-348,NA,Racing,565,5,12,Custom,PlayStation,Explorer,Advanced,23
-349,NA,Card Game,227,12,8,Squad,Xbox,Solo,Expert,41
-350,OCE,RPG,502,5,10,Custom,PlayStation,Support,Professional,20
-351,KR,RPG,542,3,9,Tournament,PlayStation,Resource-gatherer,Advanced,34
-352,NA,Sports,429,7,11,Competitive,Switch,Casual,Beginner,24
-353,KR,MOBA,665,5,11,Competitive,PC,Defensive,Advanced,24
-354,NA,Racing,451,4,4,Squad,PC,Completionist,Advanced,24
-355,NA,Racing,457,9,7,Ranked,PC,Camper,Expert,13
-356,AUS,Battle Royale,378,5,8,Competitive,Switch,Casual,Professional,13
-357,MENA,RPG,571,6,12,Casual,Switch,Casual,Intermediate,22
-358,AUS,Strategy,196,14,7,Tournament,Mobile,Casual,Beginner,20
-359,AUS,MMO,316,3,7,Competitive,PlayStation,Aggressive,Intermediate,30
-360,OCE,Strategy,676,2,12,Casual,Mobile,Camper,Beginner,32
-361,EU,RPG,301,8,5,Solo,Mobile,Competitive,Expert,28
-362,LATAM,RPG,384,12,9,Ranked,Xbox,Casual,Expert,24
-363,AUS,Battle Royale,830,1,11,Custom,Mobile,Tactician,Advanced,13
-364,NA,FPS,428,7,14,Competitive,Mobile,Camper,Professional,19
-365,LATAM,FPS,666,2,7,Competitive,Mobile,Tactician,Professional,26
-366,AUS,FPS,1000,0,8,Custom,Switch,Resource-gatherer,Advanced,34
-367,MENA,Racing,437,10,10,Ranked,PC,Competitive,Expert,22
-368,LATAM,Strategy,235,16,5,Casual,Switch,Resource-gatherer,Beginner,19
-369,NA,Sports,609,6,7,Custom,Xbox,Aggressive,Advanced,32
-370,LATAM,Strategy,826,1,8,Competitive,Switch,Tactician,Intermediate,30
-371,EU,Sports,742,1,9,Competitive,PlayStation,Explorer,Expert,17
-372,OCE,MOBA,417,10,7,Competitive,Mobile,Solo,Beginner,13
-373,MENA,Card Game,607,9,10,Competitive,Xbox,Aggressive,Professional,17
-374,AUS,Racing,854,2,10,Solo,PC/Console,Camper,Professional,33
-375,OCE,RPG,310,14,12,Competitive,PC/Console,Camper,Beginner,18
-376,AUS,FPS,692,5,6,Tournament,PC,Competitive,Beginner,17
-377,MENA,Battle Royale,492,14,9,Custom,PC/Console,Casual,Beginner,37
-378,ASIA,Racing,604,10,8,Custom,Switch,Support,Professional,27
-379,EU,Racing,507,7,6,Custom,PlayStation,Team-player,Beginner,22
-380,KR,FPS,313,9,11,Custom,PlayStation,Completionist,Expert,28
-381,AUS,Card Game,455,16,13,Tournament,PlayStation,Solo,Intermediate,31
-382,KR,Racing,461,10,8,Competitive,Mobile,Solo,Intermediate,27
-383,MENA,Racing,414,8,4,Tournament,PC/Console,Aggressive,Advanced,21
-384,NA,Racing,661,7,11,Custom,PlayStation,Aggressive,Professional,17
-385,MENA,FPS,461,4,11,Squad,PlayStation,Competitive,Intermediate,32
-386,AUS,MOBA,338,9,5,Solo,Xbox,Resource-gatherer,Intermediate,25
-387,MENA,RPG,565,2,11,Solo,PlayStation,Explorer,Professional,23
-388,ASIA,FPS,676,4,8,Squad,PlayStation,Camper,Expert,32
-389,LATAM,Card Game,138,14,11,Squad,PC,Tactician,Expert,20
-390,LATAM,RPG,455,7,12,Ranked,PlayStation,Completionist,Expert,31
-391,EU,Sports,489,8,5,Squad,Switch,Team-player,Professional,21
-392,AUS,Racing,409,13,7,Competitive,PlayStation,Aggressive,Professional,29
-393,EU,Card Game,371,8,12,Tournament,PlayStation,Completionist,Advanced,26
-394,MENA,Racing,575,3,5,Competitive,PlayStation,Camper,Expert,18
-395,AUS,RPG,441,11,3,Custom,Xbox,Defensive,Professional,21
-396,KR,Sports,222,10,12,Custom,Switch,Resource-gatherer,Intermediate,18
-397,LATAM,MOBA,557,7,12,Ranked,Mobile,Defensive,Beginner,23
-398,NA,Battle Royale,317,13,9,Custom,PlayStation,Completionist,Professional,13
-399,KR,Strategy,411,8,7,Competitive,Switch,Tactician,Beginner,25
-400,ASIA,Racing,147,15,11,Solo,PC,Team-player,Expert,26
-401,NA,MOBA,740,3,6,Squad,Switch,Defensive,Advanced,30
-402,KR,Sports,189,9,6,Casual,PC/Console,Support,Beginner,20
-403,LATAM,Strategy,401,9,8,Competitive,PC/Console,Explorer,Professional,29
-404,NA,RPG,170,9,3,Solo,PC/Console,Camper,Beginner,28
-405,OCE,MOBA,352,14,8,Ranked,Mobile,Team-player,Expert,24
-406,MENA,Strategy,274,10,8,Custom,PC,Defensive,Intermediate,13
-407,LATAM,FPS,578,9,7,Squad,Switch,Defensive,Intermediate,13
-408,MENA,RPG,461,4,10,Solo,PC/Console,Casual,Professional,14
-409,AUS,Card Game,369,8,9,Tournament,PC,Camper,Advanced,22
-410,EU,Strategy,388,2,7,Ranked,Xbox,Completionist,Intermediate,24
-411,NA,MMO,290,9,4,Squad,Xbox,Defensive,Intermediate,43
-412,MENA,Battle Royale,647,5,9,Tournament,PlayStation,Explorer,Advanced,27
-413,KR,Card Game,672,6,5,Tournament,Xbox,Tactician,Professional,33
-414,AUS,RPG,867,1,9,Custom,PlayStation,Casual,Beginner,21
-415,LATAM,MOBA,313,11,9,Ranked,PlayStation,Camper,Advanced,29
-416,NA,Card Game,878,1,11,Ranked,PC,Tactician,Advanced,21
-417,EU,Sports,607,1,8,Competitive,PC/Console,Completionist,Advanced,28
-418,EU,FPS,418,3,7,Solo,Mobile,Support,Intermediate,37
-419,OCE,MOBA,281,10,15,Casual,Mobile,Casual,Intermediate,14
-420,EU,Sports,63,15,9,Squad,PlayStation,Explorer,Beginner,24
-421,LATAM,FPS,282,11,8,Custom,Xbox,Defensive,Expert,27
-422,NA,Card Game,273,7,11,Tournament,Mobile,Defensive,Advanced,15
-423,OCE,MMO,333,7,7,Competitive,PC/Console,Defensive,Expert,14
-424,LATAM,MMO,596,8,14,Ranked,Xbox,Team-player,Intermediate,24
-425,MENA,MMO,506,2,11,Tournament,Switch,Competitive,Beginner,32
-426,EU,Battle Royale,562,4,11,Solo,Mobile,Defensive,Intermediate,13
-427,OCE,Card Game,933,1,8,Squad,Switch,Competitive,Advanced,32
-428,NA,Strategy,877,1,14,Custom,Xbox,Tactician,Beginner,16
-429,OCE,FPS,380,8,10,Competitive,PlayStation,Support,Intermediate,32
-430,MENA,MOBA,961,0,7,Ranked,Mobile,Tactician,Beginner,20
-431,OCE,FPS,79,17,16,Competitive,PC/Console,Team-player,Expert,27
-432,AUS,RPG,826,1,8,Squad,Xbox,Camper,Intermediate,37
-433,LATAM,Strategy,265,12,9,Squad,Mobile,Tactician,Intermediate,23
-434,NA,MMO,570,2,7,Tournament,Xbox,Explorer,Beginner,17
-435,LATAM,RPG,156,10,4,Solo,PC,Tactician,Beginner,31
-436,AUS,RPG,212,6,7,Solo,Xbox,Aggressive,Expert,26
-437,KR,Racing,326,6,6,Casual,PC,Camper,Expert,23
-438,KR,MOBA,349,7,8,Casual,Xbox,Resource-gatherer,Expert,24
-439,AUS,MMO,489,8,8,Squad,PC/Console,Aggressive,Intermediate,17
-440,ASIA,Card Game,925,0,9,Competitive,Switch,Completionist,Intermediate,22
-441,AUS,RPG,558,7,9,Casual,PC,Solo,Professional,13
-442,LATAM,RPG,199,8,10,Competitive,Mobile,Competitive,Expert,16
-443,MENA,Card Game,295,10,7,Custom,Xbox,Competitive,Beginner,33
-444,EU,FPS,626,3,6,Squad,PC,Defensive,Advanced,24
-445,LATAM,RPG,529,4,10,Casual,PlayStation,Competitive,Expert,22
-446,OCE,Sports,207,12,12,Casual,PC/Console,Defensive,Intermediate,22
-447,OCE,Strategy,304,10,11,Custom,Mobile,Team-player,Professional,26
-448,ASIA,MOBA,524,4,9,Ranked,Xbox,Competitive,Expert,30
-449,LATAM,MMO,562,6,6,Tournament,Switch,Explorer,Intermediate,13
-450,EU,Battle Royale,390,6,13,Ranked,PC,Aggressive,Intermediate,18
-451,OCE,Strategy,570,14,6,Tournament,Switch,Resource-gatherer,Advanced,19
-452,KR,MOBA,381,8,9,Solo,PC/Console,Aggressive,Professional,30
-453,KR,Racing,554,1,8,Custom,Xbox,Support,Expert,27
-454,LATAM,Battle Royale,879,3,7,Tournament,PC/Console,Explorer,Expert,39
-455,AUS,MMO,-4,17,13,Tournament,Xbox,Tactician,Beginner,25
-456,KR,RPG,435,8,8,Tournament,Xbox,Defensive,Expert,15
-457,EU,Battle Royale,660,6,9,Solo,Mobile,Camper,Advanced,24
-458,LATAM,Card Game,544,2,10,Solo,Switch,Camper,Professional,20
-459,MENA,RPG,281,13,10,Custom,PlayStation,Defensive,Expert,33
-460,EU,Battle Royale,5,13,13,Competitive,Switch,Defensive,Beginner,14
-461,OCE,Card Game,525,10,11,Tournament,Xbox,Competitive,Beginner,23
-462,NA,Card Game,214,6,11,Ranked,Xbox,Camper,Expert,31
-463,EU,MOBA,836,5,10,Tournament,PC/Console,Camper,Expert,29
-464,OCE,MMO,420,5,10,Tournament,Xbox,Resource-gatherer,Intermediate,26
-465,ASIA,RPG,447,12,9,Custom,PlayStation,Support,Expert,28
-466,AUS,Sports,332,11,7,Casual,PC,Explorer,Advanced,17
-467,MENA,Card Game,574,8,11,Casual,Xbox,Casual,Intermediate,31
-468,LATAM,RPG,568,8,13,Solo,PC/Console,Explorer,Expert,29
-469,KR,Battle Royale,274,18,12,Casual,PlayStation,Competitive,Professional,28
-470,OCE,Racing,494,4,10,Squad,Xbox,Completionist,Expert,14
-471,ASIA,MOBA,481,7,6,Solo,Mobile,Camper,Expert,13
-472,MENA,MOBA,761,3,9,Custom,PC,Defensive,Beginner,22
-473,AUS,Card Game,435,6,8,Casual,Switch,Casual,Beginner,39
-474,NA,RPG,673,2,10,Competitive,Xbox,Casual,Professional,29
-475,AUS,Sports,664,4,8,Squad,Switch,Tactician,Intermediate,15
-476,EU,Sports,563,5,11,Competitive,Xbox,Defensive,Intermediate,27
-477,MENA,Sports,225,9,5,Squad,PC,Support,Professional,20
-478,LATAM,Sports,562,8,9,Ranked,PC/Console,Completionist,Professional,19
-479,LATAM,FPS,392,6,12,Competitive,PlayStation,Support,Advanced,22
-480,NA,FPS,376,10,8,Solo,PC/Console,Defensive,Professional,21
-481,KR,MOBA,539,8,3,Ranked,Mobile,Completionist,Advanced,20
-482,ASIA,Sports,181,12,8,Casual,Switch,Casual,Expert,24
-483,LATAM,MOBA,243,14,7,Custom,Switch,Solo,Expert,29
-484,NA,Card Game,588,3,9,Ranked,Xbox,Casual,Beginner,24
-485,NA,Sports,113,15,11,Squad,Switch,Competitive,Professional,13
-486,EU,Card Game,119,9,6,Squad,PC/Console,Competitive,Intermediate,17
-487,KR,RPG,575,7,13,Tournament,Xbox,Casual,Expert,31
-488,ASIA,FPS,569,4,8,Custom,PC/Console,Explorer,Beginner,26
-489,LATAM,Card Game,0,13,9,Solo,Mobile,Team-player,Expert,45
-490,OCE,MOBA,315,14,15,Squad,PC/Console,Support,Beginner,32
-491,ASIA,RPG,612,3,10,Solo,Mobile,Casual,Advanced,17
-492,MENA,MMO,464,4,5,Solo,Switch,Tactician,Beginner,16
-493,KR,RPG,620,3,3,Competitive,Xbox,Camper,Intermediate,19
-494,AUS,MMO,457,7,10,Squad,Mobile,Competitive,Intermediate,26
-495,MENA,RPG,703,4,12,Competitive,PC,Explorer,Intermediate,40
-496,KR,Racing,344,10,4,Tournament,PlayStation,Solo,Professional,29
-497,ASIA,Sports,504,7,10,Custom,Mobile,Aggressive,Expert,24
-498,OCE,Strategy,529,4,10,Competitive,Xbox,Team-player,Expert,21
-499,LATAM,MOBA,574,2,14,Tournament,Mobile,Casual,Expert,21
+Player ID,Region,Game Genre,Reputation,Reports,Friend List Overlap,Preferred Game Mode,Platform,Playstyle Tags,Skill Level,Age,Friends List
+0,LATAM,Sports,774,0,8,Squad,PC,Solo,Professional,20,"[408, 387, 247, 310]"
+1,AUS,Strategy,228,11,10,Tournament,Mobile,Camper,Professional,13,"[412, 377, 75, 53, 219, 171, 307]"
+2,LATAM,MMO,278,10,7,Solo,PC/Console,Resource-gatherer,Beginner,37,"[253, 366, 468, 7, 164, 490, 72, 466, 71]"
+3,MENA,RPG,415,10,11,Casual,PC,Explorer,Intermediate,18,"[441, 258, 244]"
+4,ASIA,MOBA,624,3,10,Ranked,Switch,Defensive,Expert,24,"[228, 256, 374, 422]"
+5,KR,MOBA,437,5,8,Squad,PC/Console,Support,Intermediate,13,"[155, 117, 283, 272, 286, 257, 323]"
+6,AUS,MOBA,333,10,13,Competitive,Xbox,Tactician,Advanced,24,"[142, 273, 2, 32, 416]"
+7,OCE,Strategy,617,10,13,Casual,Xbox,Aggressive,Professional,31,"[120, 23, 488, 19, 295, 352]"
+8,MENA,FPS,87,13,10,Ranked,Xbox,Explorer,Professional,35,"[50, 160, 371, 252, 213]"
+9,KR,MOBA,652,3,13,Casual,Switch,Competitive,Professional,25,"[93, 128, 383, 360, 124, 207, 350]"
+10,NA,RPG,370,6,4,Solo,PC,Explorer,Expert,26,"[163, 23, 67, 130]"
+11,AUS,MOBA,474,7,11,Ranked,Switch,Casual,Professional,32,"[85, 314, 234, 427]"
+12,LATAM,MMO,360,6,6,Custom,PlayStation,Competitive,Intermediate,33,"[456, 270, 32, 104]"
+13,LATAM,MOBA,547,1,14,Solo,PlayStation,Casual,Advanced,37,"[82, 426, 238, 19, 313, 27]"
+14,NA,Racing,319,10,5,Casual,PC,Tactician,Professional,19,"[334, 212, 475, 336, 193, 80]"
+15,MENA,Card Game,704,7,5,Competitive,PC/Console,Defensive,Professional,38,"[217, 159, 275, 409, 47]"
+16,LATAM,Battle Royale,203,13,7,Ranked,PC,Competitive,Intermediate,28,"[60, 198, 437, 50, 246, 151, 157, 148]"
+17,OCE,RPG,554,8,7,Custom,Mobile,Support,Intermediate,16,"[300, 364, 353, 326, 444, 128, 498]"
+18,AUS,FPS,616,9,6,Casual,Mobile,Tactician,Professional,25,"[455, 192, 366, 141]"
+19,AUS,Racing,366,5,11,Ranked,Mobile,Casual,Expert,25,"[136, 218, 9, 332, 428]"
+20,EU,Card Game,474,9,10,Ranked,Switch,Tactician,Professional,29,"[303, 192, 172, 363, 72, 143]"
+21,OCE,Card Game,331,9,14,Tournament,Mobile,Defensive,Professional,31,"[282, 284, 416, 64, 399]"
+22,ASIA,Battle Royale,464,13,8,Squad,PlayStation,Competitive,Advanced,27,"[50, 269, 108, 35, 442]"
+23,MENA,RPG,651,5,11,Ranked,PC,Casual,Advanced,14,"[387, 316, 252, 457, 391, 268, 335, 214, 187]"
+24,EU,Racing,505,10,8,Tournament,PC,Completionist,Professional,29,"[309, 495, 378]"
+25,OCE,FPS,309,11,13,Squad,PC,Team-player,Beginner,23,"[389, 409, 135, 107, 187, 397, 346, 379, 277]"
+26,EU,RPG,350,9,9,Squad,Xbox,Support,Expert,22,"[478, 309, 234, 1, 173, 63]"
+27,MENA,Racing,523,7,8,Tournament,PlayStation,Support,Professional,17,"[213, 147, 382, 254, 341, 400, 333, 353, 228]"
+28,ASIA,FPS,476,9,11,Custom,PC,Casual,Advanced,33,"[107, 418, 79, 414, 320, 147, 279]"
+29,AUS,MMO,274,15,8,Tournament,PC,Solo,Expert,18,"[63, 343]"
+30,KR,Card Game,548,5,9,Solo,Xbox,Completionist,Expert,20,"[44, 288, 227, 434, 433, 250]"
+31,LATAM,Strategy,283,7,10,Squad,PC,Completionist,Advanced,18,"[341, 340, 423, 247, 115, 142, 432, 290]"
+32,AUS,MMO,727,4,10,Competitive,Switch,Aggressive,Intermediate,20,"[480, 396, 388, 280, 273, 387]"
+33,ASIA,RPG,377,11,6,Tournament,PC,Support,Intermediate,23,"[155, 148]"
+34,NA,Racing,435,5,9,Squad,Xbox,Team-player,Expert,19,"[243, 224, 340, 73, 290, 370]"
+35,MENA,Battle Royale,730,2,11,Competitive,Xbox,Camper,Intermediate,24,"[147, 345, 348, 18]"
+36,OCE,MOBA,428,13,7,Custom,Mobile,Competitive,Advanced,25,"[312, 397, 31, 440]"
+37,MENA,MMO,481,7,12,Custom,PlayStation,Team-player,Professional,23,"[17, 14, 205, 95, 107]"
+38,EU,Racing,553,4,9,Casual,PC,Resource-gatherer,Expert,13,"[484, 195, 321, 167, 405]"
+39,NA,MOBA,486,4,9,Competitive,Mobile,Solo,Advanced,32,"[191, 420, 91, 111, 128]"
+40,AUS,Battle Royale,620,8,7,Squad,Mobile,Team-player,Professional,25,"[42, 192, 39, 277, 349]"
+41,AUS,MMO,526,7,7,Tournament,PC,Defensive,Expert,16,"[39, 179, 359, 108, 383, 343, 300]"
+42,AUS,Sports,1000,0,9,Casual,Mobile,Competitive,Advanced,21,"[74, 463, 113, 466, 1, 420, 21, 172, 306, 376, 94, 331]"
+43,KR,Racing,523,5,9,Casual,Switch,Resource-gatherer,Expert,33,"[266, 48, 419, 439, 396]"
+44,MENA,RPG,540,3,9,Ranked,PlayStation,Casual,Expert,32,"[73, 273, 265, 436, 57, 395, 16]"
+45,NA,MMO,-32,9,11,Competitive,Xbox,Casual,Intermediate,13,"[19, 340, 497, 441, 305]"
+46,KR,MMO,512,7,4,Custom,Xbox,Solo,Advanced,13,"[190, 121, 457, 352, 217, 378]"
+47,LATAM,Strategy,691,3,9,Tournament,Switch,Camper,Expert,32,"[442, 259, 92, 378, 495, 208, 317, 242]"
+48,NA,Battle Royale,543,8,8,Competitive,PC,Tactician,Beginner,32,"[435, 226, 429, 87, 468, 322, 178, 144]"
+49,OCE,Racing,713,3,11,Competitive,PC,Defensive,Professional,22,"[260, 192, 177, 233, 296, 132, 486]"
+50,KR,Strategy,314,4,10,Tournament,PC,Support,Professional,20,"[253, 368, 274, 189, 384, 122, 419, 365]"
+51,KR,Sports,436,10,14,Competitive,PlayStation,Defensive,Expert,24,"[82, 117, 290, 447]"
+52,KR,Battle Royale,386,10,8,Ranked,PC,Tactician,Professional,15,"[434, 117, 247, 15, 337, 208, 291]"
+53,AUS,Card Game,428,6,12,Ranked,PC/Console,Casual,Beginner,29,"[317, 124, 489, 234, 328]"
+54,MENA,Sports,324,5,6,Squad,PC/Console,Team-player,Expert,47,"[189, 185, 124, 21, 405, 493, 309, 384]"
+55,EU,MOBA,506,5,9,Ranked,PC,Camper,Professional,16,"[83, 53, 490, 275]"
+56,AUS,Strategy,610,2,12,Casual,PlayStation,Camper,Advanced,31,"[227, 333, 323, 149, 59, 241]"
+57,ASIA,Battle Royale,738,3,13,Squad,PlayStation,Casual,Professional,21,"[476, 191, 447, 328, 298, 199, 487, 462]"
+58,NA,Racing,475,8,11,Custom,PC,Tactician,Expert,37,"[30, 415, 80, 384, 436, 251, 283, 287, 267]"
+59,KR,Racing,355,8,9,Custom,PC/Console,Aggressive,Professional,22,"[418, 490, 156, 26, 281, 488]"
+60,MENA,RPG,394,11,9,Competitive,Mobile,Resource-gatherer,Intermediate,33,"[396, 6, 135, 465, 437, 122, 121, 206, 495]"
+61,NA,Card Game,727,3,9,Solo,PC/Console,Camper,Beginner,28,"[120, 448, 158, 205, 318, 449, 332, 371, 119, 487]"
+62,EU,RPG,170,15,10,Competitive,PC,Explorer,Beginner,25,"[263, 174, 77, 200, 423, 445]"
+63,EU,MMO,478,3,8,Custom,Mobile,Competitive,Expert,28,"[344, 9, 348, 188, 315, 481, 152, 337, 19, 112]"
+64,KR,Strategy,413,11,7,Casual,Switch,Resource-gatherer,Beginner,32,"[217, 360, 478, 115, 338, 190, 149, 359, 315, 17]"
+65,AUS,RPG,330,9,10,Squad,PC/Console,Defensive,Professional,22,"[464, 246, 280, 119]"
+66,NA,MOBA,259,9,8,Competitive,Switch,Team-player,Professional,21,"[241, 137, 67, 394, 347, 171, 175, 196, 444, 367, 373]"
+67,MENA,RPG,180,15,7,Tournament,Xbox,Aggressive,Expert,35,"[64, 498, 303, 166, 77, 90, 499, 41]"
+68,OCE,RPG,60,11,7,Tournament,Xbox,Team-player,Beginner,18,"[406, 495, 10, 7, 402, 54, 121, 122]"
+69,MENA,Sports,528,11,4,Casual,Mobile,Aggressive,Intermediate,13,"[163, 369, 408, 482, 456]"
+70,KR,FPS,414,9,8,Casual,Switch,Camper,Expert,28,"[170, 178, 498, 328, 154]"
+71,AUS,Battle Royale,348,10,9,Solo,Switch,Completionist,Professional,23,"[473, 138, 96, 369]"
+72,KR,Battle Royale,200,10,6,Custom,Switch,Completionist,Professional,19,"[300, 207, 423, 331, 188, 448]"
+73,AUS,Card Game,602,7,10,Squad,Xbox,Resource-gatherer,Advanced,21,"[96, 160, 148, 91, 253, 157]"
+74,ASIA,Battle Royale,-49,15,11,Custom,Xbox,Resource-gatherer,Expert,17,"[355, 397, 89, 64, 393, 29]"
+75,EU,RPG,381,4,10,Ranked,Mobile,Defensive,Beginner,15,"[220, 295, 116, 159, 479, 102, 472]"
+76,MENA,Sports,213,13,11,Ranked,PC/Console,Resource-gatherer,Advanced,21,"[158, 296, 366, 369, 461, 257]"
+77,OCE,MMO,354,12,12,Tournament,PC/Console,Explorer,Intermediate,25,"[3, 487]"
+78,MENA,FPS,465,4,9,Tournament,Xbox,Support,Advanced,29,"[434, 95, 198, 422]"
+79,ASIA,Battle Royale,471,8,10,Competitive,PC/Console,Resource-gatherer,Professional,25,"[290, 237, 207, 377, 108, 208]"
+80,ASIA,FPS,648,3,8,Solo,PC,Competitive,Advanced,24,"[119, 345]"
+81,LATAM,RPG,456,6,8,Casual,PC,Resource-gatherer,Beginner,13,"[373, 457, 278, 338, 168, 134, 190, 340]"
+82,EU,Sports,568,2,8,Casual,PC/Console,Defensive,Expert,20,"[131, 246, 276, 162, 458]"
+83,MENA,Battle Royale,338,4,8,Solo,Mobile,Support,Beginner,26,"[399, 417, 242, 481, 163, 200]"
+84,ASIA,Strategy,549,2,8,Tournament,PC,Aggressive,Advanced,26,"[472, 172, 374, 152, 281, 369, 163, 279, 241]"
+85,AUS,RPG,1000,2,7,Tournament,Switch,Casual,Beginner,19,"[376, 326, 49, 129, 206]"
+86,EU,MOBA,558,3,12,Competitive,Mobile,Camper,Professional,13,"[156, 51, 211, 316]"
+87,ASIA,Strategy,693,5,9,Ranked,PC/Console,Aggressive,Expert,13,"[201, 280, 222, 131, 292]"
+88,KR,Battle Royale,535,9,5,Squad,PlayStation,Camper,Beginner,25,"[273, 126, 39, 4, 470]"
+89,AUS,Sports,298,6,10,Competitive,Switch,Defensive,Professional,37,"[226, 141, 266, 51, 328, 256]"
+90,OCE,Racing,221,15,4,Solo,PC/Console,Competitive,Intermediate,38,"[250, 387, 385, 339, 48, 272, 265, 150, 141]"
+91,ASIA,MMO,657,3,8,Squad,Xbox,Resource-gatherer,Intermediate,28,"[24, 54, 216, 281, 247, 283, 298, 23]"
+92,AUS,Sports,439,5,13,Solo,PC,Resource-gatherer,Intermediate,19,"[394, 175, 305, 368, 24, 260, 495, 356, 243, 210]"
+93,MENA,Strategy,513,7,10,Solo,Mobile,Completionist,Advanced,25,"[292, 132, 41, 176, 193, 233]"
+94,OCE,Racing,268,10,5,Squad,PC,Camper,Beginner,30,"[498, 63, 8, 13, 32, 306, 124, 210, 405]"
+95,KR,Battle Royale,554,9,7,Casual,PC,Camper,Expert,21,"[443, 313, 320, 413, 165, 80]"
+96,EU,Battle Royale,345,12,11,Solo,PC/Console,Camper,Advanced,22,[218]
+97,AUS,MOBA,568,8,6,Casual,PC,Casual,Beginner,23,"[201, 395, 105, 383, 358, 28]"
+98,EU,MOBA,529,6,9,Casual,PlayStation,Explorer,Advanced,23,"[83, 207, 296, 378, 322, 359, 477]"
+99,ASIA,MOBA,597,5,10,Ranked,Mobile,Explorer,Expert,29,"[222, 433, 82, 237, 262, 105, 436]"
+100,OCE,MMO,631,5,8,Squad,Mobile,Aggressive,Expert,35,"[58, 224, 484, 8, 288]"
+101,MENA,MMO,535,4,7,Competitive,Mobile,Completionist,Intermediate,33,"[107, 22, 475, 78, 156, 228, 30, 354]"
+102,KR,Racing,776,1,7,Competitive,PlayStation,Aggressive,Intermediate,31,"[110, 82, 115, 225, 91, 365]"
+103,OCE,Card Game,636,7,12,Tournament,Switch,Tactician,Advanced,31,"[491, 42, 114, 223, 214]"
+104,ASIA,Card Game,693,3,12,Competitive,Switch,Casual,Intermediate,17,"[65, 470, 192, 53, 324, 263, 307]"
+105,NA,MMO,260,11,11,Casual,Xbox,Explorer,Expert,22,"[0, 328, 63, 168, 164, 191, 165]"
+106,AUS,Racing,470,8,8,Custom,Switch,Support,Expert,28,"[248, 235, 382, 387]"
+107,MENA,MMO,219,7,9,Squad,PlayStation,Competitive,Professional,37,"[259, 362, 377, 32, 382, 129]"
+108,ASIA,Racing,436,5,10,Ranked,Switch,Explorer,Advanced,35,"[419, 204, 58, 257, 232]"
+109,MENA,MMO,461,2,7,Ranked,Xbox,Camper,Beginner,24,"[283, 409, 486, 358]"
+110,AUS,RPG,482,10,12,Custom,PC/Console,Camper,Professional,24,"[234, 71, 414, 430, 14]"
+111,KR,Battle Royale,661,4,7,Competitive,PC/Console,Support,Beginner,18,"[455, 76, 396, 51, 275, 487, 435]"
+112,NA,MMO,168,11,7,Competitive,PC/Console,Camper,Advanced,32,"[38, 274, 220, 128, 456, 248]"
+113,NA,Sports,61,8,6,Competitive,PC/Console,Solo,Expert,16,"[296, 336, 204, 178, 233]"
+114,EU,Card Game,585,3,7,Casual,PlayStation,Camper,Expert,34,"[360, 12, 217, 180]"
+115,ASIA,Sports,527,10,8,Custom,PC/Console,Competitive,Professional,22,"[161, 191, 381, 459, 102, 437]"
+116,OCE,Sports,427,9,13,Tournament,PC,Support,Advanced,28,"[89, 232, 400, 150, 321, 36, 188]"
+117,ASIA,FPS,745,5,5,Ranked,PC/Console,Completionist,Expert,29,"[186, 103, 39, 498, 275, 89, 270, 32, 216, 252, 251]"
+118,ASIA,MOBA,594,3,8,Solo,PC,Tactician,Beginner,16,"[240, 282, 14, 344, 213, 342]"
+119,NA,Battle Royale,586,11,11,Custom,PC/Console,Casual,Advanced,13,"[224, 118]"
+120,LATAM,Battle Royale,471,3,5,Ranked,Xbox,Completionist,Professional,36,"[91, 438, 17, 261, 331, 440]"
+121,AUS,Battle Royale,562,10,5,Competitive,Switch,Casual,Intermediate,32,"[3, 293, 486]"
+122,MENA,FPS,423,6,7,Solo,PC/Console,Defensive,Professional,38,"[459, 30]"
+123,MENA,Strategy,506,12,10,Custom,Mobile,Team-player,Advanced,27,"[135, 37, 144, 392, 240, 447, 103, 124, 325, 219, 418]"
+124,EU,Battle Royale,311,10,5,Solo,Switch,Resource-gatherer,Professional,32,[31]
+125,NA,Sports,379,12,9,Solo,Xbox,Aggressive,Intermediate,23,"[387, 306, 470]"
+126,MENA,Racing,551,7,9,Squad,Mobile,Tactician,Intermediate,23,"[98, 488, 75]"
+127,OCE,MOBA,364,9,7,Casual,Switch,Camper,Beginner,21,"[103, 144, 432, 128]"
+128,MENA,Sports,326,10,6,Solo,PlayStation,Solo,Intermediate,24,"[331, 47, 81, 105, 373, 495, 292, 379, 86]"
+129,EU,Battle Royale,420,9,14,Competitive,PC/Console,Support,Advanced,27,"[297, 490, 479, 410]"
+130,NA,Strategy,739,1,9,Custom,Mobile,Aggressive,Beginner,33,"[340, 112, 243, 128, 266, 43]"
+131,NA,Sports,327,8,13,Custom,Xbox,Solo,Professional,30,"[73, 43, 252, 2, 275, 367, 338, 144, 106]"
+132,OCE,Racing,486,5,7,Competitive,PlayStation,Explorer,Intermediate,24,"[320, 490]"
+133,MENA,RPG,563,5,6,Ranked,PC,Support,Intermediate,38,"[398, 90, 159, 11, 231, 188, 59, 86]"
+134,ASIA,RPG,502,2,12,Squad,PC/Console,Completionist,Advanced,20,"[397, 235, 273, 170, 416, 338, 228, 496]"
+135,NA,Racing,440,16,14,Squad,PC/Console,Camper,Beginner,24,"[170, 130, 225, 232, 438, 353, 258]"
+136,EU,Card Game,555,4,11,Ranked,PC,Competitive,Professional,14,"[493, 433, 212, 436, 384, 354]"
+137,ASIA,RPG,302,9,10,Competitive,PlayStation,Defensive,Beginner,27,"[21, 104, 187, 453, 484]"
+138,EU,Racing,276,7,9,Competitive,Mobile,Support,Advanced,31,"[408, 366, 412, 232, 130, 435, 136]"
+139,ASIA,MMO,378,7,7,Casual,Mobile,Competitive,Intermediate,27,"[285, 30, 188, 390, 122, 471, 140]"
+140,LATAM,Strategy,447,12,10,Squad,PC/Console,Tactician,Expert,24,"[471, 85, 489, 97]"
+141,LATAM,Strategy,456,8,12,Ranked,PlayStation,Competitive,Beginner,16,"[311, 492, 70, 26, 97, 8, 151]"
+142,AUS,MOBA,388,9,8,Competitive,PlayStation,Casual,Beginner,29,"[435, 25, 275, 341, 309, 418, 351]"
+143,NA,MMO,608,9,11,Casual,Xbox,Team-player,Expert,16,"[184, 368, 246, 323]"
+144,EU,Card Game,733,5,6,Solo,Xbox,Camper,Expert,31,"[33, 483, 416]"
+145,KR,Strategy,425,7,13,Solo,Mobile,Aggressive,Beginner,24,"[35, 48, 293, 31, 87]"
+146,LATAM,Card Game,560,7,10,Casual,PlayStation,Camper,Beginner,28,"[351, 182, 401, 80, 297, 236]"
+147,EU,MMO,108,10,7,Tournament,PC,Defensive,Beginner,24,"[3, 423, 100, 347, 244, 223, 418, 289]"
+148,AUS,Racing,279,12,11,Solo,Xbox,Team-player,Expert,25,"[191, 254, 47, 0]"
+149,NA,Strategy,545,7,15,Ranked,Xbox,Support,Beginner,23,"[102, 222, 260, 124, 365, 187]"
+150,MENA,RPG,609,6,10,Custom,PlayStation,Aggressive,Intermediate,34,"[60, 275, 381, 336, 383]"
+151,KR,MMO,159,15,5,Squad,PC/Console,Explorer,Advanced,31,"[154, 258, 43]"
+152,EU,RPG,385,7,10,Ranked,Mobile,Aggressive,Expert,17,"[432, 253, 194, 387, 455, 469, 423]"
+153,LATAM,RPG,795,3,8,Ranked,PlayStation,Resource-gatherer,Expert,21,"[66, 255, 261, 351, 379]"
+154,KR,Sports,598,14,9,Casual,PC/Console,Support,Intermediate,24,"[69, 288, 483, 122, 186, 100, 83, 441, 414]"
+155,NA,Sports,365,8,8,Competitive,Xbox,Camper,Beginner,35,"[226, 63, 130, 496, 160, 168, 371]"
+156,EU,MOBA,390,10,10,Casual,Switch,Team-player,Advanced,37,"[326, 264, 232]"
+157,ASIA,Battle Royale,883,2,7,Squad,Mobile,Team-player,Advanced,30,"[273, 432, 230, 47, 130, 75, 261, 161]"
+158,LATAM,Card Game,476,10,8,Ranked,PlayStation,Solo,Intermediate,18,"[434, 328, 209, 312, 67, 115, 102, 110, 152]"
+159,KR,MOBA,269,9,8,Casual,PC,Aggressive,Professional,29,"[381, 338, 353, 304, 145, 370, 151]"
+160,AUS,Strategy,477,10,7,Competitive,PlayStation,Support,Expert,16,"[459, 201, 148, 205, 26, 0, 485, 184]"
+161,AUS,Sports,502,11,7,Custom,Switch,Tactician,Beginner,25,"[41, 72, 439]"
+162,LATAM,Card Game,423,11,6,Casual,Switch,Casual,Beginner,25,"[88, 322, 358, 480]"
+163,OCE,MOBA,466,10,10,Custom,Mobile,Aggressive,Professional,20,"[122, 292]"
+164,LATAM,Racing,321,11,9,Casual,PC,Support,Intermediate,30,"[130, 250, 157, 163, 0]"
+165,MENA,Strategy,520,8,9,Custom,Mobile,Camper,Professional,19,"[30, 249, 241, 109, 66, 295]"
+166,ASIA,MMO,695,9,6,Tournament,PC/Console,Aggressive,Intermediate,24,"[428, 110, 0, 496]"
+167,MENA,RPG,243,9,7,Solo,Xbox,Aggressive,Expert,28,"[318, 188, 80, 384, 153, 353, 10, 299, 358, 217]"
+168,ASIA,Racing,210,15,8,Competitive,Mobile,Solo,Beginner,25,"[178, 451, 219, 70, 205, 384, 287, 338]"
+169,EU,MOBA,290,9,13,Competitive,PC,Explorer,Expert,19,"[396, 140, 189, 306, 174, 344]"
+170,AUS,Battle Royale,505,7,11,Squad,PC,Support,Intermediate,31,"[58, 162, 38, 432, 295]"
+171,LATAM,Strategy,322,12,8,Ranked,Mobile,Defensive,Professional,19,"[466, 130, 239, 483, 285, 322, 37, 71]"
+172,AUS,Racing,681,4,12,Solo,PC/Console,Aggressive,Advanced,28,"[187, 427, 470, 384, 148]"
+173,MENA,Battle Royale,766,2,8,Solo,PC,Camper,Expert,21,"[3, 29, 482, 408]"
+174,NA,Battle Royale,712,4,7,Casual,PC,Competitive,Advanced,24,"[204, 321, 188, 374, 416, 486]"
+175,EU,MMO,287,5,5,Tournament,PC/Console,Aggressive,Beginner,30,"[141, 42, 321, 264, 76, 132, 119]"
+176,KR,Battle Royale,357,7,8,Competitive,PC/Console,Support,Beginner,14,"[21, 352, 187, 146, 131]"
+177,OCE,Racing,659,5,12,Squad,PC/Console,Defensive,Beginner,16,"[483, 308, 346, 448, 147, 109]"
+178,NA,Racing,113,8,14,Solo,PC,Completionist,Beginner,25,"[174, 267, 428, 52]"
+179,NA,MMO,627,8,13,Solo,Switch,Camper,Beginner,20,"[367, 440, 450, 204, 128, 61, 3, 349]"
+180,EU,Battle Royale,229,15,10,Solo,PC/Console,Explorer,Beginner,17,"[382, 492, 418, 245, 194]"
+181,LATAM,MMO,360,12,10,Ranked,PC/Console,Tactician,Professional,32,"[347, 166, 187, 273, 180, 477, 241, 428]"
+182,NA,Strategy,695,3,8,Solo,PlayStation,Aggressive,Advanced,13,"[212, 360, 162, 24, 407, 256]"
+183,MENA,MOBA,439,4,8,Squad,PC,Camper,Advanced,39,"[312, 186, 13, 450]"
+184,NA,RPG,779,3,3,Custom,Switch,Aggressive,Professional,35,"[211, 238, 401, 53, 155, 410, 26]"
+185,LATAM,MMO,812,1,8,Solo,PC/Console,Support,Professional,21,"[200, 224, 238, 459, 116, 312, 490]"
+186,KR,Card Game,884,1,10,Squad,PlayStation,Team-player,Advanced,19,"[86, 198, 489, 88, 324]"
+187,AUS,RPG,235,11,4,Squad,Xbox,Completionist,Professional,29,"[185, 199, 489, 80, 453, 9]"
+188,ASIA,MMO,547,10,8,Solo,Xbox,Defensive,Advanced,17,"[467, 218]"
+189,EU,Sports,100,12,9,Squad,Xbox,Casual,Intermediate,22,"[227, 495, 276, 307, 461]"
+190,NA,RPG,770,4,13,Squad,Mobile,Team-player,Advanced,28,"[161, 431, 446, 210]"
+191,OCE,Battle Royale,716,7,8,Tournament,Xbox,Competitive,Advanced,24,"[294, 446, 64, 226, 413, 391]"
+192,KR,Strategy,516,3,3,Competitive,PC/Console,Solo,Professional,36,"[20, 365, 205, 311, 429, 280, 86]"
+193,AUS,Battle Royale,477,9,5,Ranked,PC/Console,Tactician,Professional,32,"[18, 84, 214, 139]"
+194,ASIA,MMO,445,9,8,Custom,PC/Console,Camper,Expert,15,"[213, 310, 494]"
+195,NA,Battle Royale,450,9,7,Casual,Xbox,Tactician,Beginner,28,"[76, 427, 172, 183, 60, 232, 192, 342]"
+196,AUS,FPS,487,14,11,Casual,PC/Console,Defensive,Expert,29,"[467, 143, 33, 273, 5, 107]"
+197,OCE,Strategy,707,2,10,Tournament,Mobile,Casual,Professional,26,"[169, 409, 91, 401, 200, 12]"
+198,KR,Sports,188,9,12,Tournament,Mobile,Support,Expert,35,"[92, 72, 377, 396, 133, 386]"
+199,NA,Racing,310,11,10,Tournament,PC/Console,Explorer,Expert,38,"[386, 402, 50, 26, 3, 469, 306]"
+200,ASIA,Racing,335,7,14,Casual,Xbox,Defensive,Advanced,24,"[159, 104, 215, 303, 2, 156]"
+201,OCE,MOBA,243,8,8,Squad,PlayStation,Team-player,Expert,22,"[105, 383, 59, 158, 84, 435, 294, 282, 22, 449]"
+202,EU,FPS,631,8,10,Custom,PC/Console,Solo,Expert,35,"[352, 232, 491, 176, 174]"
+203,LATAM,Sports,853,3,12,Casual,PC/Console,Tactician,Intermediate,13,"[73, 373, 335, 291, 91, 345]"
+204,MENA,RPG,192,11,6,Casual,Xbox,Team-player,Professional,31,"[318, 99]"
+205,LATAM,Battle Royale,438,3,8,Custom,Switch,Defensive,Expert,17,"[238, 396, 62]"
+206,KR,Battle Royale,456,5,10,Tournament,Mobile,Support,Expert,25,"[405, 218, 71, 440, 451, 25, 427]"
+207,ASIA,FPS,455,4,5,Ranked,Mobile,Defensive,Intermediate,15,"[478, 454, 342, 135, 387, 239]"
+208,MENA,MOBA,417,8,12,Squad,PlayStation,Competitive,Professional,30,"[128, 432, 100, 156, 52]"
+209,OCE,Sports,217,7,10,Tournament,Switch,Support,Expert,27,"[257, 296]"
+210,ASIA,Battle Royale,212,14,8,Casual,Mobile,Competitive,Advanced,15,"[398, 12, 36, 416, 190, 196, 257]"
+211,NA,Racing,284,8,7,Tournament,Xbox,Explorer,Intermediate,27,"[487, 303, 66, 332, 72, 208, 184, 280]"
+212,NA,Strategy,860,1,9,Solo,Mobile,Solo,Intermediate,20,"[3, 481, 327, 386, 476, 436, 454]"
+213,LATAM,MOBA,666,5,12,Custom,PC,Casual,Intermediate,24,"[95, 89, 146, 441, 134]"
+214,ASIA,Racing,802,2,10,Competitive,PC/Console,Competitive,Intermediate,15,"[32, 422, 20]"
+215,KR,RPG,425,9,10,Casual,PC,Aggressive,Professional,38,"[173, 475, 362, 38]"
+216,MENA,Strategy,190,9,7,Solo,PC,Team-player,Professional,13,"[462, 23, 261]"
+217,MENA,Racing,885,0,7,Competitive,PlayStation,Support,Beginner,33,"[185, 116, 67, 357, 135]"
+218,LATAM,MMO,390,11,9,Squad,Mobile,Tactician,Beginner,26,"[291, 272, 162, 130]"
+219,AUS,Battle Royale,198,15,7,Ranked,Mobile,Defensive,Beginner,20,"[169, 84, 437, 378, 170]"
+220,LATAM,MMO,360,10,8,Squad,PlayStation,Competitive,Intermediate,26,"[346, 59, 421, 69, 29, 202, 485]"
+221,MENA,MMO,465,6,8,Squad,Xbox,Team-player,Professional,19,"[275, 44, 172, 113, 354, 390]"
+222,LATAM,FPS,343,11,6,Solo,Xbox,Defensive,Beginner,22,"[473, 89, 218, 353, 401]"
+223,EU,MMO,139,6,8,Tournament,PC/Console,Aggressive,Expert,20,"[189, 167, 443, 182, 113, 343, 427, 145, 9, 160]"
+224,NA,MOBA,583,2,6,Custom,PC,Casual,Intermediate,19,"[275, 447, 303, 6, 460, 306]"
+225,MENA,Battle Royale,613,5,5,Ranked,PC/Console,Resource-gatherer,Beginner,31,"[382, 85, 52, 155, 254, 131, 120]"
+226,EU,Sports,421,6,7,Ranked,PC/Console,Defensive,Expert,13,"[266, 269, 362, 428, 80]"
+227,NA,MMO,357,10,8,Ranked,Xbox,Competitive,Advanced,23,"[54, 180, 244, 455, 323, 456]"
+228,ASIA,Sports,509,13,10,Solo,PC,Solo,Expert,22,"[126, 235, 285, 413]"
+229,KR,Card Game,585,6,7,Competitive,Mobile,Aggressive,Expert,24,"[497, 5, 302, 349, 319, 96, 126, 294, 321, 435, 8, 10, 136, 198, 238]"
+230,OCE,Sports,444,8,9,Ranked,PlayStation,Support,Intermediate,17,"[10, 255, 472, 160, 442, 41, 339]"
+231,LATAM,Battle Royale,378,13,8,Squad,PlayStation,Support,Expert,20,"[229, 101, 12, 357]"
+232,OCE,RPG,486,5,14,Competitive,Xbox,Solo,Advanced,23,"[149, 105, 338, 294, 36, 74, 169]"
+233,MENA,Battle Royale,393,17,7,Squad,Switch,Completionist,Advanced,13,"[159, 145, 318, 491, 338, 61, 178]"
+234,OCE,Racing,571,7,9,Ranked,PC/Console,Aggressive,Expert,35,"[157, 422, 182, 56, 226, 209, 241, 47, 426, 373, 114, 248]"
+235,NA,FPS,420,7,7,Squad,PC,Team-player,Beginner,24,"[32, 336, 201, 258, 385]"
+236,KR,Racing,304,11,7,Casual,Mobile,Tactician,Beginner,29,"[477, 27, 58, 14, 495, 401, 96]"
+237,MENA,MMO,528,5,11,Custom,Mobile,Defensive,Beginner,30,"[51, 344, 310, 65, 217, 461, 53, 20]"
+238,LATAM,Racing,182,10,13,Tournament,PC/Console,Completionist,Intermediate,27,"[245, 206, 36, 372, 313, 117, 380, 258]"
+239,KR,Card Game,-100,9,6,Ranked,PC/Console,Completionist,Intermediate,29,"[307, 255, 70, 461, 234, 251, 88, 155]"
+240,MENA,RPG,146,8,8,Solo,Mobile,Defensive,Beginner,26,"[67, 207, 226, 79, 478]"
+241,EU,MOBA,657,2,13,Solo,PlayStation,Support,Intermediate,16,"[123, 127, 73, 185, 39, 319, 83, 369]"
+242,ASIA,FPS,294,8,8,Solo,PC/Console,Resource-gatherer,Intermediate,19,"[293, 368, 36, 477, 362, 364, 10, 307, 209, 445]"
+243,MENA,Card Game,588,4,12,Competitive,Switch,Camper,Advanced,26,"[390, 133]"
+244,OCE,RPG,608,1,9,Tournament,PC,Explorer,Expert,16,"[34, 227, 160, 51, 157]"
+245,EU,MMO,553,4,13,Ranked,Xbox,Tactician,Beginner,19,"[91, 200, 376, 223, 22, 440, 239, 173, 413]"
+246,ASIA,Racing,268,8,16,Ranked,PC,Defensive,Advanced,26,"[195, 120, 299, 308]"
+247,OCE,MOBA,600,6,9,Ranked,Mobile,Resource-gatherer,Intermediate,29,"[461, 188, 53, 243, 158, 127]"
+248,OCE,RPG,373,6,11,Custom,PC,Tactician,Professional,32,"[273, 105, 462, 392, 351, 99, 131, 318]"
+249,AUS,Battle Royale,710,4,11,Squad,PC,Explorer,Professional,24,"[251, 308, 280, 143, 298]"
+250,NA,MOBA,732,5,9,Custom,Xbox,Explorer,Beginner,14,"[272, 88, 274, 342, 465]"
+251,EU,Strategy,457,7,11,Casual,Switch,Resource-gatherer,Intermediate,41,"[304, 380, 114, 413, 115]"
+252,KR,MMO,436,5,6,Solo,Xbox,Resource-gatherer,Expert,35,"[153, 223, 259, 406, 307, 213]"
+253,NA,MOBA,705,1,8,Casual,Mobile,Tactician,Beginner,32,"[15, 364, 395, 54]"
+254,LATAM,Racing,424,11,8,Casual,PlayStation,Resource-gatherer,Intermediate,28,[66]
+255,NA,FPS,169,13,6,Competitive,PC/Console,Explorer,Expert,22,"[244, 128, 372]"
+256,NA,Sports,406,7,11,Custom,Xbox,Support,Expert,30,"[0, 348, 397, 430, 31]"
+257,NA,FPS,756,3,5,Casual,PC/Console,Completionist,Professional,27,"[136, 207, 426, 37, 222]"
+258,MENA,MMO,704,1,8,Solo,Mobile,Solo,Beginner,32,"[229, 338, 53, 286, 114, 90]"
+259,MENA,MOBA,487,12,8,Tournament,Mobile,Completionist,Expert,36,"[228, 231, 3, 495, 158]"
+260,ASIA,Sports,357,9,14,Solo,Xbox,Support,Advanced,13,"[80, 99, 106, 28]"
+261,MENA,Strategy,17,10,7,Tournament,Xbox,Defensive,Intermediate,38,"[405, 351, 84, 486, 245, 98]"
+262,EU,Sports,463,7,10,Squad,PC/Console,Casual,Advanced,28,"[409, 132, 495, 376, 357, 310, 104]"
+263,KR,MOBA,547,2,11,Squad,Mobile,Camper,Intermediate,19,"[16, 32, 78, 458, 161, 307]"
+264,OCE,MOBA,582,9,8,Solo,Switch,Camper,Expert,19,"[16, 247, 499, 260, 300, 336, 154, 446, 380, 161, 335, 378]"
+265,NA,Racing,507,7,8,Ranked,PlayStation,Aggressive,Professional,23,"[411, 139, 141, 304, 420, 119, 112, 161]"
+266,LATAM,Battle Royale,476,11,10,Squad,PlayStation,Support,Advanced,38,"[358, 495, 468, 332, 214]"
+267,EU,Racing,236,14,7,Competitive,PlayStation,Explorer,Advanced,31,"[227, 387, 364, 79, 218, 467]"
+268,OCE,MOBA,436,11,8,Casual,Mobile,Resource-gatherer,Advanced,37,"[394, 368, 148, 496]"
+269,AUS,Card Game,112,13,7,Tournament,Switch,Resource-gatherer,Beginner,20,"[455, 307, 364, 32, 240, 499, 19, 177, 252, 450]"
+270,KR,Sports,161,9,7,Competitive,PC,Camper,Beginner,27,"[411, 233, 55, 141, 422, 154, 108, 426]"
+271,KR,Sports,346,11,11,Tournament,PC,Aggressive,Professional,37,"[442, 293, 232, 136, 113, 204, 224, 390, 39, 220]"
+272,OCE,FPS,814,0,15,Competitive,Switch,Casual,Expert,29,"[64, 12, 227, 204, 203]"
+273,KR,Sports,94,17,6,Tournament,PlayStation,Tactician,Professional,31,"[381, 143, 41, 100, 91, 60, 247, 263]"
+274,MENA,Card Game,309,9,15,Competitive,PlayStation,Tactician,Expert,13,"[352, 313, 256, 307, 17, 253, 186, 114]"
+275,NA,Sports,14,14,11,Squad,PC/Console,Team-player,Advanced,22,"[260, 334]"
+276,NA,Battle Royale,250,11,7,Ranked,PC/Console,Support,Advanced,32,"[65, 17, 254, 458]"
+277,MENA,Sports,375,5,9,Competitive,Switch,Team-player,Intermediate,17,"[214, 310, 97, 259, 320, 101, 249]"
+278,NA,MMO,688,3,8,Ranked,Switch,Completionist,Beginner,28,"[8, 154, 73]"
+279,KR,MMO,481,7,8,Squad,PlayStation,Support,Professional,23,"[198, 186, 417, 5, 34, 185, 290]"
+280,KR,Racing,658,4,7,Ranked,PC/Console,Defensive,Expert,24,"[153, 427, 145, 375, 313, 213, 282, 338, 204, 158]"
+281,KR,MOBA,702,1,6,Custom,Xbox,Explorer,Beginner,13,"[34, 74, 11, 370, 144, 351, 61, 435]"
+282,ASIA,Sports,457,6,8,Tournament,Xbox,Resource-gatherer,Expert,18,"[463, 321]"
+283,EU,Card Game,410,8,10,Casual,PC/Console,Tactician,Beginner,13,"[408, 349, 268, 73, 229, 279]"
+284,NA,RPG,169,13,10,Tournament,Mobile,Resource-gatherer,Beginner,23,"[436, 190, 325, 382, 414, 140, 306, 146, 348]"
+285,LATAM,Battle Royale,562,10,11,Squad,Switch,Competitive,Professional,33,"[141, 78, 464, 324, 97, 211]"
+286,KR,MOBA,13,14,12,Solo,PlayStation,Explorer,Expert,25,"[352, 238, 239, 155, 127, 348]"
+287,NA,RPG,561,5,8,Ranked,Switch,Casual,Professional,24,"[472, 407, 416, 144, 148]"
+288,NA,Racing,769,4,8,Tournament,Xbox,Casual,Professional,29,"[0, 462, 414, 387, 498]"
+289,KR,Strategy,669,5,7,Ranked,PlayStation,Aggressive,Expert,30,"[255, 296, 320, 253, 293, 462, 350, 98]"
+290,AUS,MOBA,258,11,10,Casual,Switch,Explorer,Beginner,30,"[179, 70, 472, 264, 216, 17]"
+291,OCE,FPS,120,9,10,Tournament,PlayStation,Team-player,Beginner,19,"[217, 110, 327, 97, 401, 165, 492]"
+292,KR,MMO,245,10,11,Ranked,PC/Console,Completionist,Beginner,23,"[406, 265, 129, 21, 366, 452, 61, 245, 11, 391]"
+293,MENA,Card Game,629,6,6,Casual,PlayStation,Competitive,Professional,20,"[377, 97, 80, 204, 194]"
+294,LATAM,RPG,144,21,6,Casual,Xbox,Casual,Intermediate,27,"[497, 264, 221, 135, 338, 303, 458, 181, 496]"
+295,AUS,RPG,483,11,7,Ranked,PC,Support,Beginner,33,"[471, 101, 333, 285, 481, 230, 483]"
+296,KR,MMO,291,2,6,Squad,Xbox,Casual,Beginner,31,"[404, 304, 407, 429]"
+297,LATAM,MMO,714,5,6,Solo,Xbox,Explorer,Professional,23,"[445, 212, 135, 326]"
+298,MENA,Strategy,633,4,12,Squad,PC/Console,Camper,Beginner,17,"[396, 264, 84, 64, 54, 465, 209, 65, 268]"
+299,MENA,Battle Royale,798,3,10,Solo,Mobile,Camper,Advanced,28,"[99, 36, 102, 399, 408, 89, 126]"
+300,LATAM,Sports,304,11,8,Ranked,PlayStation,Casual,Expert,31,"[366, 431, 62, 129, 232, 457, 243]"
+301,KR,MMO,809,1,8,Solo,PC,Team-player,Intermediate,23,"[468, 250, 322, 141, 105, 237]"
+302,OCE,Card Game,613,4,9,Casual,PC,Team-player,Expert,23,"[474, 437, 339, 146, 420]"
+303,ASIA,Sports,626,3,10,Solo,Xbox,Resource-gatherer,Beginner,18,"[451, 48, 277, 112]"
+304,MENA,Card Game,194,14,10,Custom,PC,Solo,Professional,28,"[264, 88, 115, 279]"
+305,LATAM,FPS,230,12,12,Ranked,Mobile,Explorer,Professional,17,"[84, 409, 344, 309]"
+306,AUS,Battle Royale,609,3,8,Tournament,PC,Camper,Expert,31,"[161, 214, 148, 317, 447, 115, 157]"
+307,AUS,RPG,374,11,10,Casual,Mobile,Camper,Beginner,17,"[297, 25, 349, 264]"
+308,OCE,Battle Royale,394,12,10,Ranked,Switch,Resource-gatherer,Intermediate,45,"[385, 88, 27, 76, 280, 231, 3, 26, 340]"
+309,OCE,Strategy,433,8,10,Casual,PC,Solo,Beginner,18,"[99, 434, 390, 96, 364]"
+310,EU,Card Game,388,9,8,Tournament,Switch,Aggressive,Intermediate,21,"[309, 492, 480]"
+311,LATAM,FPS,534,3,15,Tournament,Mobile,Team-player,Intermediate,26,"[134, 310, 127, 2, 40]"
+312,LATAM,MOBA,629,4,7,Tournament,PC/Console,Resource-gatherer,Beginner,31,"[73, 401, 70, 286, 488]"
+313,OCE,FPS,502,5,9,Casual,PlayStation,Explorer,Expert,28,"[70, 382, 393, 432, 496, 242]"
+314,EU,FPS,403,7,7,Competitive,Xbox,Completionist,Intermediate,25,"[325, 187, 251, 327, 146, 304]"
+315,AUS,MMO,542,3,9,Casual,PC,Solo,Beginner,34,"[385, 185, 115, 298, 424, 147, 354, 87, 276, 252, 84]"
+316,EU,Sports,443,3,7,Tournament,PC/Console,Camper,Intermediate,23,"[217, 150, 137, 497, 200, 475, 480, 9]"
+317,AUS,Racing,333,11,11,Solo,PC,Support,Expert,16,"[421, 405, 276, 270, 446, 259, 91, 366]"
+318,EU,MMO,378,1,4,Casual,Mobile,Tactician,Intermediate,45,"[356, 65, 442, 354]"
+319,KR,Racing,1000,1,7,Competitive,Switch,Camper,Beginner,28,"[171, 283, 379, 333, 224, 31, 32, 79]"
+320,EU,MMO,433,8,7,Casual,PlayStation,Casual,Beginner,13,"[479, 250, 333, 399]"
+321,ASIA,FPS,408,8,12,Competitive,Switch,Tactician,Professional,20,"[84, 220, 476, 469, 377, 466, 391, 218, 186]"
+322,KR,MOBA,371,9,2,Ranked,Xbox,Resource-gatherer,Professional,32,"[2, 82, 475, 423]"
+323,LATAM,RPG,590,6,8,Solo,PC/Console,Casual,Expert,17,"[124, 411, 65, 137, 56, 396]"
+324,AUS,Battle Royale,355,5,8,Tournament,Switch,Tactician,Professional,28,"[247, 302]"
+325,LATAM,FPS,803,4,11,Squad,PC/Console,Casual,Professional,30,"[472, 165, 43, 40, 259, 471]"
+326,MENA,Card Game,356,5,9,Custom,PC,Support,Intermediate,37,"[303, 60, 373, 252, 350]"
+327,NA,FPS,549,5,13,Competitive,Mobile,Support,Advanced,20,"[494, 282, 116, 448, 483]"
+328,KR,RPG,520,8,9,Solo,Xbox,Tactician,Intermediate,21,"[490, 63, 419, 306]"
+329,NA,RPG,1000,0,8,Competitive,Mobile,Tactician,Beginner,34,"[102, 15]"
+330,KR,MOBA,94,12,13,Squad,PlayStation,Tactician,Professional,19,"[39, 108, 492, 444, 173, 404, 53, 499]"
+331,LATAM,Strategy,163,18,10,Tournament,Xbox,Solo,Expert,17,"[27, 293, 229, 118, 174, 25, 168, 277, 233, 230, 463]"
+332,OCE,MMO,443,10,6,Tournament,Switch,Team-player,Intermediate,24,"[417, 201, 450, 204]"
+333,KR,Battle Royale,513,7,7,Competitive,Xbox,Defensive,Intermediate,15,"[42, 457, 322]"
+334,MENA,Card Game,82,12,10,Solo,Mobile,Defensive,Beginner,26,"[196, 60, 112, 252, 103, 302, 287]"
+335,LATAM,MOBA,440,7,10,Squad,PC/Console,Solo,Beginner,18,"[413, 394, 443, 326, 391, 154, 414]"
+336,AUS,FPS,342,11,7,Squad,PC/Console,Support,Intermediate,33,"[460, 290, 195, 301, 201, 100, 464]"
+337,LATAM,RPG,310,14,12,Ranked,PlayStation,Completionist,Professional,18,"[246, 339, 451, 140, 228, 235, 423, 422, 72]"
+338,LATAM,Battle Royale,434,7,10,Solo,PC,Solo,Beginner,26,"[166, 82, 129, 18, 172, 484]"
+339,KR,Card Game,744,6,12,Solo,Switch,Explorer,Advanced,22,"[238, 215, 70, 249, 245, 450, 96]"
+340,KR,Racing,543,13,8,Custom,PlayStation,Team-player,Expert,27,"[319, 320, 20, 359]"
+341,MENA,MMO,229,9,12,Tournament,Xbox,Team-player,Professional,22,"[199, 478, 121, 161, 97, 119, 99]"
+342,AUS,Racing,397,7,7,Casual,PC/Console,Camper,Advanced,23,"[403, 380, 413, 207, 197, 274, 253, 161, 234]"
+343,EU,Sports,879,3,9,Casual,PlayStation,Explorer,Advanced,26,"[338, 104, 191, 447, 239, 152, 298, 55]"
+344,MENA,Racing,607,13,11,Competitive,PlayStation,Casual,Beginner,19,"[323, 250, 298, 470]"
+345,LATAM,Strategy,791,4,5,Competitive,Mobile,Defensive,Professional,35,"[129, 400, 210, 295, 336]"
+346,OCE,Racing,477,7,8,Custom,Switch,Team-player,Expert,18,"[310, 152, 105, 9, 97, 264, 43]"
+347,EU,Card Game,294,10,5,Squad,Switch,Support,Expert,31,"[316, 308, 356, 7, 188, 362, 16]"
+348,AUS,MMO,338,9,5,Ranked,Switch,Camper,Advanced,25,"[461, 336, 294, 370, 448]"
+349,ASIA,Sports,540,5,8,Competitive,PC/Console,Aggressive,Beginner,19,"[205, 82, 39, 140, 73]"
+350,MENA,Battle Royale,637,5,7,Casual,Switch,Tactician,Intermediate,19,"[180, 443, 174, 8, 106, 379, 288, 400, 27]"
+351,EU,Battle Royale,580,3,10,Tournament,PlayStation,Resource-gatherer,Intermediate,15,"[385, 350, 489, 200, 330, 233, 458, 165, 214, 316]"
+352,EU,MMO,250,13,10,Custom,Mobile,Resource-gatherer,Professional,33,"[10, 2, 341, 411, 454, 407]"
+353,KR,MMO,155,16,9,Squad,Mobile,Support,Advanced,14,"[256, 44, 238, 50, 25, 4, 276]"
+354,AUS,Racing,478,8,7,Ranked,PlayStation,Support,Advanced,14,"[296, 400, 234, 135, 409, 456, 133]"
+355,MENA,Card Game,387,9,5,Competitive,PlayStation,Camper,Advanced,35,"[479, 59, 89, 397, 433, 416, 290]"
+356,ASIA,Battle Royale,441,11,3,Solo,Mobile,Explorer,Professional,21,"[175, 299, 91, 170, 499]"
+357,MENA,Strategy,412,12,7,Squad,PlayStation,Competitive,Advanced,13,"[0, 348, 26, 216, 296, 290, 197, 288, 481]"
+358,MENA,FPS,317,13,9,Custom,PC,Completionist,Advanced,13,"[68, 453, 41, 347, 386, 29, 25, 92]"
+359,KR,RPG,597,4,6,Solo,PlayStation,Aggressive,Intermediate,27,"[68, 18, 144, 472]"
+360,LATAM,RPG,147,15,11,Solo,PlayStation,Competitive,Intermediate,26,"[323, 145, 80, 399, 471, 247, 215, 297, 425, 89]"
+361,AUS,FPS,600,5,8,Ranked,Mobile,Casual,Expert,15,"[222, 274, 68, 326]"
+362,KR,Battle Royale,284,10,8,Custom,PC/Console,Team-player,Advanced,21,"[36, 449, 306, 22, 468]"
+363,MENA,Sports,619,3,8,Squad,Mobile,Team-player,Intermediate,13,"[212, 100, 184]"
+364,LATAM,Sports,525,10,10,Custom,PlayStation,Competitive,Beginner,29,"[291, 236, 89, 17, 167]"
+365,OCE,Battle Royale,531,4,10,Custom,PlayStation,Tactician,Advanced,24,"[55, 274, 361, 314, 327, 473]"
+366,AUS,MOBA,517,5,8,Tournament,PlayStation,Casual,Beginner,31,"[217, 421, 410, 370, 62, 256]"
+367,AUS,Sports,53,18,10,Tournament,Xbox,Defensive,Intermediate,30,"[429, 64, 90, 29, 167]"
+368,EU,MOBA,499,3,9,Tournament,Mobile,Defensive,Intermediate,13,"[436, 233, 151, 166, 10, 116, 348, 184, 105, 202, 383, 488]"
+369,ASIA,Card Game,214,6,10,Ranked,PC,Completionist,Expert,29,"[239, 187, 118, 124, 342, 379]"
+370,LATAM,RPG,681,2,9,Ranked,Switch,Casual,Professional,24,"[258, 195]"
+371,LATAM,MMO,290,9,4,Custom,Switch,Aggressive,Advanced,43,"[482, 117, 458, 318, 350, 223, 185]"
+372,KR,Sports,89,11,7,Solo,Xbox,Team-player,Beginner,20,"[394, 431, 33, 462, 311, 476]"
+373,MENA,FPS,672,6,5,Tournament,Xbox,Aggressive,Beginner,33,"[65, 80, 378, 467, 338, 397]"
+374,NA,Card Game,219,10,13,Squad,Switch,Casual,Expert,29,"[26, 408, 253, 328, 95, 139, 470, 50, 405]"
+375,LATAM,Battle Royale,313,11,9,Tournament,PlayStation,Aggressive,Expert,29,"[45, 360, 460, 12, 22, 10]"
+376,AUS,RPG,722,6,7,Ranked,Switch,Camper,Expert,32,"[83, 273, 303, 272, 4]"
+377,LATAM,MOBA,418,3,7,Competitive,Mobile,Tactician,Intermediate,37,"[26, 161, 363, 441, 452]"
+378,EU,Battle Royale,289,9,15,Solo,PlayStation,Support,Intermediate,13,"[468, 391, 3, 422, 163, 439]"
+379,AUS,Battle Royale,660,4,11,Competitive,PC,Casual,Beginner,16,"[374, 402, 490, 262, 2, 109, 190, 179, 177, 491]"
+380,LATAM,MOBA,177,9,9,Competitive,Mobile,Casual,Advanced,15,"[307, 114, 172]"
+381,MENA,MOBA,689,2,5,Competitive,PlayStation,Defensive,Expert,13,"[303, 359, 352, 13, 90, 64, 310, 262]"
+382,AUS,Battle Royale,333,7,7,Competitive,PC,Defensive,Beginner,14,"[79, 359, 209]"
+383,LATAM,Sports,433,13,7,Ranked,Xbox,Resource-gatherer,Intermediate,16,"[350, 441, 14]"
+384,MENA,Strategy,278,10,8,Ranked,Switch,Tactician,Professional,17,"[256, 49, 283, 318, 86, 110]"
+385,AUS,Battle Royale,407,8,11,Custom,Mobile,Tactician,Beginner,43,"[289, 139, 32, 364, 460, 220, 15, 150]"
+386,ASIA,FPS,359,6,10,Competitive,Mobile,Competitive,Beginner,22,"[50, 185]"
+387,LATAM,FPS,79,17,16,Custom,PlayStation,Support,Beginner,27,"[285, 477, 128, 224, 331, 302]"
+388,AUS,Card Game,67,10,7,Tournament,PC/Console,Resource-gatherer,Advanced,30,"[325, 193, 207]"
+389,OCE,Sports,265,12,9,Competitive,Switch,Team-player,Intermediate,23,"[106, 4, 41, 172]"
+390,EU,MMO,636,1,7,Competitive,PC/Console,Support,Intermediate,28,"[413, 323, 330, 493, 296, 383, 63]"
+391,LATAM,Card Game,627,3,9,Ranked,PC,Camper,Advanced,21,"[14, 153, 471, 210]"
+392,EU,MMO,377,5,11,Ranked,PlayStation,Competitive,Beginner,22,"[282, 168, 151, 224, 348]"
+393,OCE,Sports,304,7,9,Ranked,Xbox,Aggressive,Advanced,37,"[63, 321, 230, 208]"
+394,AUS,Card Game,376,10,8,Casual,PlayStation,Resource-gatherer,Advanced,16,"[222, 224, 363, 253, 325, 260]"
+395,ASIA,Card Game,150,12,9,Custom,Xbox,Competitive,Advanced,30,"[145, 433, 375, 427, 181]"
+396,AUS,FPS,547,4,9,Solo,PlayStation,Tactician,Beginner,31,"[24, 4, 241, 470, 20]"
+397,NA,Racing,227,13,9,Tournament,Mobile,Resource-gatherer,Beginner,19,"[20, 162, 111, 243, 253, 446, 55, 368]"
+398,EU,Sports,435,8,5,Squad,Switch,Defensive,Advanced,25,"[181, 424, 119, 330, 360, 8]"
+399,MENA,Card Game,461,4,12,Custom,PC,Explorer,Professional,31,"[221, 13, 433, 386, 360, 33, 269, 28, 233, 412, 480]"
+400,NA,Sports,442,6,12,Custom,Switch,Solo,Advanced,22,"[421, 329, 353, 41, 50, 468, 349]"
+401,LATAM,RPG,472,6,9,Tournament,Xbox,Defensive,Professional,18,"[205, 40, 308, 125, 373, 239, 436, 354, 362]"
+402,ASIA,Sports,567,5,11,Custom,Switch,Resource-gatherer,Expert,19,"[46, 55, 132, 278, 22, 257]"
+403,EU,RPG,562,6,6,Tournament,PC/Console,Explorer,Beginner,13,"[204, 69, 405, 95]"
+404,EU,MOBA,132,11,13,Custom,PC,Resource-gatherer,Advanced,18,"[301, 161, 244, 341]"
+405,LATAM,MOBA,721,10,9,Squad,PC,Defensive,Professional,24,"[309, 341, 406]"
+406,ASIA,Card Game,381,8,9,Competitive,Mobile,Casual,Expert,30,"[88, 53, 198, 249, 210, 107, 444]"
+407,MENA,MOBA,409,10,13,Tournament,PC,Completionist,Advanced,22,"[248, 382, 496, 264]"
+408,OCE,RPG,644,2,15,Casual,Mobile,Team-player,Expert,24,"[95, 439, 469, 407, 181, 179]"
+409,NA,Card Game,392,11,8,Custom,Mobile,Defensive,Professional,19,"[200, 346, 43, 470, 365, 69]"
+410,LATAM,MOBA,281,13,10,Squad,PC,Explorer,Expert,33,"[224, 484, 172, 251, 133, 407, 296, 389]"
+411,LATAM,Strategy,435,15,5,Competitive,PC/Console,Solo,Expert,20,"[75, 46, 305, 258, 3, 14, 218]"
+412,ASIA,MOBA,214,6,11,Custom,Switch,Solo,Expert,31,"[365, 473, 10, 220, 263, 208]"
+413,EU,Sports,253,14,12,Ranked,PC,Competitive,Expert,36,"[380, 493, 268, 466, 358, 19, 424]"
+414,AUS,Card Game,809,3,5,Squad,Mobile,Team-player,Expert,26,"[215, 394, 201, 453]"
+415,AUS,Strategy,265,6,9,Casual,PlayStation,Competitive,Intermediate,23,"[334, 494, 245, 470, 272, 316, 41, 485]"
+416,LATAM,MMO,527,5,9,Solo,PC/Console,Team-player,Professional,25,"[128, 85, 40, 355]"
+417,MENA,FPS,201,13,10,Squad,Xbox,Explorer,Professional,18,"[414, 222, 398, 160, 455, 201, 403, 321]"
+418,NA,Card Game,511,5,11,Solo,Switch,Casual,Expert,33,"[348, 235, 305, 5, 354, 91, 135]"
+419,OCE,MOBA,436,12,6,Ranked,PC/Console,Solo,Expert,27,"[376, 62, 89, 222, 126, 74, 111, 308, 9]"
+420,NA,MMO,738,6,8,Tournament,Xbox,Resource-gatherer,Intermediate,17,"[462, 226, 491, 71, 480, 447, 219, 79]"
+421,ASIA,Battle Royale,481,13,8,Competitive,Xbox,Casual,Intermediate,15,"[134, 256, 168]"
+422,LATAM,FPS,559,4,10,Casual,PC/Console,Defensive,Intermediate,17,"[50, 465, 57, 398, 317, 117, 41, 279, 499]"
+423,NA,MOBA,788,1,9,Custom,Mobile,Aggressive,Professional,21,"[447, 90, 80, 494, 325, 356, 462]"
+424,KR,Strategy,585,3,10,Tournament,Switch,Defensive,Intermediate,20,"[465, 12, 204, 249, 189, 2, 5]"
+425,KR,Card Game,290,10,6,Ranked,Xbox,Casual,Intermediate,24,"[81, 375, 172, 76, 381, 337, 412]"
+426,OCE,Racing,664,4,8,Custom,PlayStation,Tactician,Professional,15,"[298, 275, 432, 162, 72, 79, 408, 180]"
+427,KR,Sports,409,7,12,Squad,PlayStation,Casual,Advanced,32,"[210, 387, 102, 282, 109, 71, 8, 319]"
+428,LATAM,MMO,239,4,11,Squad,PC,Tactician,Expert,13,"[312, 330, 257, 439, 272, 372]"
+429,ASIA,Sports,450,7,7,Squad,PlayStation,Tactician,Intermediate,34,"[419, 175, 308, 279, 21, 264, 485, 183]"
+430,ASIA,MOBA,411,6,8,Ranked,Switch,Solo,Intermediate,20,"[129, 301, 174, 171, 354, 486, 323]"
+431,OCE,RPG,219,9,15,Ranked,Mobile,Support,Professional,20,"[230, 454, 468, 356, 475]"
+432,OCE,Battle Royale,728,5,6,Ranked,PlayStation,Solo,Expert,18,"[29, 436, 315, 283, 379, 137, 107]"
+433,EU,Card Game,481,7,9,Squad,Switch,Camper,Professional,25,"[220, 370, 101, 189]"
+434,ASIA,MOBA,761,4,7,Solo,PC,Completionist,Professional,35,"[427, 236, 181, 217, 75, 325, 89, 297, 6, 259, 326]"
+435,ASIA,MOBA,425,7,9,Competitive,PlayStation,Support,Expert,31,"[43, 175, 312, 406, 97, 60, 328, 235, 101]"
+436,AUS,Battle Royale,545,5,7,Casual,PlayStation,Support,Beginner,22,"[72, 336, 405, 423, 379, 40, 287]"
+437,NA,Racing,362,11,13,Solo,PC/Console,Solo,Intermediate,29,"[50, 206, 67, 122, 167, 214, 29]"
+438,NA,Racing,395,3,8,Custom,PC,Team-player,Professional,28,"[321, 41, 305]"
+439,OCE,Card Game,454,13,9,Competitive,Mobile,Camper,Professional,30,"[128, 367, 269, 146]"
+440,OCE,MOBA,633,6,5,Casual,PC,Completionist,Expert,25,"[176, 279, 426, 140, 159, 289, 213, 150, 3, 87, 118]"
+441,KR,RPG,493,6,5,Casual,Mobile,Completionist,Beginner,19,"[309, 422, 83, 232]"
+442,LATAM,RPG,282,7,5,Competitive,Mobile,Resource-gatherer,Intermediate,31,"[438, 404, 338, 7, 48, 184]"
+443,ASIA,Strategy,846,1,10,Competitive,Mobile,Team-player,Expert,28,"[114, 32, 374, 50, 232, 366]"
+444,AUS,Strategy,690,3,12,Solo,Mobile,Defensive,Professional,26,"[227, 103]"
+445,EU,Racing,515,6,8,Tournament,PlayStation,Support,Beginner,22,"[128, 229, 98, 243, 429]"
+446,LATAM,MMO,515,5,8,Custom,PlayStation,Casual,Professional,30,"[416, 495, 172, 374, 54, 393]"
+447,ASIA,Battle Royale,555,3,11,Tournament,PC/Console,Support,Intermediate,21,"[244, 292]"
+448,LATAM,Sports,422,7,12,Competitive,Mobile,Solo,Advanced,43,"[97, 497]"
+449,NA,Racing,272,9,7,Competitive,PC/Console,Camper,Intermediate,25,"[372, 133, 375, 477]"
+450,KR,FPS,575,9,12,Solo,Xbox,Tactician,Beginner,28,"[494, 202, 181, 299, 238]"
+451,LATAM,MMO,504,14,11,Ranked,Mobile,Competitive,Intermediate,30,"[301, 443, 98, 106, 17, 84, 133]"
+452,OCE,Battle Royale,522,3,7,Custom,PlayStation,Solo,Professional,38,"[128, 16, 498, 110, 415, 44]"
+453,NA,FPS,412,5,11,Tournament,PC/Console,Resource-gatherer,Beginner,19,"[276, 416, 104, 421, 204, 135, 263, 399, 196]"
+454,AUS,MMO,448,11,8,Squad,Mobile,Competitive,Expert,31,"[130, 446, 312, 133, 320]"
+455,NA,MMO,578,4,8,Custom,Xbox,Support,Expert,25,"[247, 355, 344, 201, 319, 391, 421, 1]"
+456,OCE,Card Game,367,15,5,Squad,Switch,Support,Expert,27,"[341, 349, 136, 17, 360, 218, 293, 164, 123]"
+457,AUS,RPG,448,5,14,Competitive,Mobile,Competitive,Beginner,35,"[414, 186, 488, 374, 311, 175, 18, 345]"
+458,NA,Racing,753,2,7,Solo,PC,Camper,Expert,20,"[67, 192, 24, 272, 276, 404]"
+459,LATAM,Battle Royale,695,5,9,Solo,Xbox,Defensive,Intermediate,24,"[139, 282, 284, 327, 377, 378, 161, 283, 15, 149, 144, 325]"
+460,EU,FPS,587,7,6,Competitive,Xbox,Camper,Professional,16,"[486, 383, 171, 337, 289, 25]"
+461,KR,RPG,599,8,7,Solo,Mobile,Defensive,Expert,25,"[459, 145, 454, 185, 162, 431]"
+462,MENA,Card Game,200,11,8,Solo,Xbox,Team-player,Expert,37,"[223, 377, 376]"
+463,LATAM,MOBA,456,5,7,Custom,Mobile,Camper,Intermediate,16,"[34, 79, 316]"
+464,NA,MOBA,289,10,6,Solo,PC,Tactician,Professional,26,"[181, 359, 51, 262, 232, 440, 405]"
+465,OCE,Racing,656,8,9,Competitive,Switch,Defensive,Intermediate,29,"[156, 142, 16, 194, 456]"
+466,OCE,Racing,662,5,12,Custom,Switch,Casual,Advanced,26,"[301, 471, 82]"
+467,KR,Battle Royale,277,14,15,Solo,PC,Solo,Expert,26,"[75, 52, 393, 471, 351, 82, 350, 402, 207, 367]"
+468,OCE,RPG,402,9,9,Competitive,Xbox,Casual,Intermediate,35,"[119, 495, 319, 315, 235]"
+469,MENA,Card Game,298,12,9,Ranked,PC,Competitive,Professional,14,"[345, 240, 110, 337, 346]"
+470,MENA,FPS,371,4,6,Squad,PC,Solo,Professional,25,"[359, 287, 485, 125, 341, 356]"
+471,ASIA,FPS,679,3,10,Tournament,Switch,Solo,Professional,28,"[339, 27, 253, 22]"
+472,EU,FPS,741,2,9,Solo,PlayStation,Explorer,Expert,26,"[186, 244, 138, 235, 204, 353]"
+473,EU,Sports,327,11,6,Solo,PC,Team-player,Advanced,28,"[384, 93, 481, 370, 394, 337, 164]"
+474,AUS,Racing,550,9,9,Tournament,PlayStation,Solo,Expert,20,"[90, 431, 315, 288, 299, 41, 20, 374, 278, 200]"
+475,AUS,FPS,469,6,4,Squad,PC,Resource-gatherer,Intermediate,20,"[326, 63, 190, 302, 380]"
+476,EU,MOBA,746,3,10,Ranked,Mobile,Competitive,Professional,23,"[411, 382, 242, 379, 293]"
+477,EU,RPG,864,1,9,Casual,Switch,Casual,Advanced,33,"[322, 362, 127, 486, 386]"
+478,LATAM,Card Game,312,12,10,Solo,Switch,Camper,Beginner,16,"[463, 360, 91, 388, 51, 399, 320, 39]"
+479,ASIA,Racing,544,12,10,Tournament,PC/Console,Aggressive,Expert,31,"[288, 16, 39, 151, 286, 86, 29, 87, 282, 79, 41, 119, 319]"
+480,AUS,Sports,475,8,9,Solo,PlayStation,Resource-gatherer,Intermediate,16,"[497, 311, 297, 78, 450, 121]"
+481,EU,MMO,-100,11,9,Ranked,Switch,Competitive,Professional,24,"[138, 344, 447, 168, 317, 82]"
+482,NA,Card Game,369,9,7,Solo,PC,Casual,Advanced,34,"[232, 301, 497, 422, 401]"
+483,NA,MMO,261,8,13,Custom,Xbox,Solo,Beginner,27,"[295, 113, 145, 356, 439, 360]"
+484,AUS,Sports,618,7,6,Custom,Switch,Solo,Expert,25,"[436, 398, 244, 476]"
+485,KR,Card Game,506,11,6,Squad,PC,Resource-gatherer,Advanced,24,"[225, 371]"
+486,OCE,Racing,279,9,6,Casual,PC,Team-player,Advanced,25,"[260, 374, 358, 228, 88, 89]"
+487,KR,FPS,355,11,10,Ranked,Mobile,Aggressive,Professional,22,"[207, 376, 340, 319, 35, 281]"
+488,AUS,MOBA,250,11,12,Custom,Xbox,Defensive,Intermediate,20,"[379, 481, 305]"
+489,OCE,Battle Royale,269,11,12,Competitive,PC/Console,Completionist,Advanced,14,"[330, 410, 141, 422]"
+490,OCE,FPS,1000,0,8,Solo,PC/Console,Tactician,Intermediate,28,"[453, 103, 157, 64, 270, 295]"
+491,AUS,MMO,572,4,14,Solo,PlayStation,Tactician,Beginner,27,"[415, 192, 307]"
+492,MENA,MMO,491,9,7,Custom,PC,Tactician,Beginner,28,"[375, 259, 268, 75, 138, 49]"
+493,ASIA,Card Game,462,4,13,Ranked,PC/Console,Team-player,Professional,26,"[398, 259, 47, 228, 118]"
+494,LATAM,Card Game,624,5,7,Casual,Switch,Solo,Advanced,29,"[137, 484, 324, 98, 174]"
+495,MENA,Battle Royale,734,4,12,Ranked,Mobile,Defensive,Beginner,26,"[194, 105, 132, 180, 122, 461, 4, 342, 334, 139, 90]"
+496,AUS,FPS,77,18,15,Casual,PlayStation,Team-player,Beginner,21,"[45, 85, 21, 9, 412]"
+497,EU,MOBA,306,7,8,Ranked,PC,Casual,Beginner,24,"[192, 363, 495, 439, 314, 120, 381, 340]"
+498,AUS,MMO,74,14,10,Solo,PC/Console,Completionist,Professional,28,"[464, 440, 271, 142, 26, 386]"
+499,KR,FPS,385,3,7,Casual,Switch,Team-player,Expert,31,"[384, 113, 192, 97, 342, 252, 155, 219, 312]"

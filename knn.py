@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import ast
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.neighbors import NearestNeighbors
@@ -77,7 +78,7 @@ else:
 
 
 #plus 1 more because user x is not included
-knn = NearestNeighbors(n_neighbors=6, metric='cosine')
+knn = NearestNeighbors(n_neighbors=20, metric='cosine')
 knn.fit(X_weighted)
 
 def get_recommendations_ml(player_id, df, knn_model):
@@ -90,15 +91,22 @@ def get_recommendations_ml(player_id, df, knn_model):
     #retrieve recommended players except itself
     similar_indices = indices.flatten()[1:]
 
+    #removed users that the person is friends with already
+    user_friends = df.loc[df['Player ID'] == player_id, 'Friends List'].iloc[0]
+    user_friends = np.array(ast.literal_eval(user_friends))
+    new_friends = similar_indices[~np.isin(similar_indices, user_friends)]
+
+
     recommendations = pd.DataFrame({
-        'Player ID': df.iloc[similar_indices]['Player ID'].values,
+        #returns top 5 users
+        'Player ID': df.iloc[new_friends[:5]]['Player ID'].values,
     })
 
     #gets each users information
     full_recommendations = pd.merge(recommendations, df, on='Player ID')
     
     return full_recommendations[['Player ID', 'Region', 'Game Genre', 'Reputation', 'Reports', 
-                                 'Friend List Overlap', 'Preferred Game Mode', 'Platform', 'Playstyle Tags', 'Skill Level', 'Age']]
+                                 'Friend List Overlap', 'Preferred Game Mode', 'Platform', 'Playstyle Tags', 'Skill Level', 'Age', 'Friends List']]
 
 user_id = 1
 recommendations = get_recommendations_ml(user_id, df, knn)
