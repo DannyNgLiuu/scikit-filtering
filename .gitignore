@@ -13,3 +13,7 @@ parsing_data.py
 similarity_matrix_subset.csv
 
 test_run.py
+
+userdb.py
+
+.env
