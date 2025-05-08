@@ -96,7 +96,6 @@ def get_recommendations_ml(player_id, df, knn_model):
     user_friends = np.array(ast.literal_eval(user_friends))
     new_friends = similar_indices[~np.isin(similar_indices, user_friends)]
 
-
     recommendations = pd.DataFrame({
         #returns top 5 users
         'Player ID': df.iloc[new_friends[:5]]['Player ID'].values,

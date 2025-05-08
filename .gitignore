@@ -1,5 +1,7 @@
 __pycache__
 
+knn.py
+
 knn2.py
 
 knn3.py
@@ -17,3 +19,6 @@ test_run.py
 userdb.py
 
 .env
+
+backup.py
+
